@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/QW-Group/ktx/releases/64062208",
-  "assets_url": "https://api.github.com/repos/QW-Group/ktx/releases/64062208/assets",
-  "upload_url": "https://uploads.github.com/repos/QW-Group/ktx/releases/64062208/assets{?name,label}",
-  "html_url": "https://github.com/QW-Group/ktx/releases/tag/v1.41",
-  "id": 64062208,
+  "url": "https://api.github.com/repos/QW-Group/ktx/releases/76324845",
+  "assets_url": "https://api.github.com/repos/QW-Group/ktx/releases/76324845/assets",
+  "upload_url": "https://uploads.github.com/repos/QW-Group/ktx/releases/76324845/assets{?name,label}",
+  "html_url": "https://github.com/QW-Group/ktx/releases/tag/v1.42",
+  "id": 76324845,
   "author": {
     "login": "tcsabina",
     "id": 17887592,
@@ -24,19 +24,19 @@
     "type": "User",
     "site_admin": false
   },
-  "node_id": "RE_kwDOAUCB5s4D0YMA",
-  "tag_name": "v1.41",
+  "node_id": "RE_kwDOAUCB5s4EjJ_t",
+  "tag_name": "v1.42",
   "target_commitish": "master",
-  "name": "1.41",
+  "name": "1.42",
   "draft": false,
   "prerelease": false,
-  "created_at": "2022-09-05T22:00:01Z",
-  "published_at": "2022-09-05T22:03:46Z",
+  "created_at": "2022-10-31T23:44:48Z",
+  "published_at": "2022-10-31T23:47:11Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/QW-Group/ktx/releases/assets/76962141",
-      "id": 76962141,
-      "node_id": "RA_kwDOAUCB5s4Ellld",
+      "url": "https://api.github.com/repos/QW-Group/ktx/releases/assets/82973490",
+      "id": 82973490,
+      "node_id": "RA_kwDOAUCB5s4E8hMy",
       "name": "qwprogs_linux_aarch64.so",
       "label": null,
       "uploader": {
@@ -61,16 +61,16 @@
       },
       "content_type": "application/octet-stream",
       "state": "uploaded",
-      "size": 1259816,
-      "download_count": 2,
-      "created_at": "2022-09-05T22:22:10Z",
-      "updated_at": "2022-09-05T22:22:11Z",
-      "browser_download_url": "https://github.com/QW-Group/ktx/releases/download/v1.41/qwprogs_linux_aarch64.so"
+      "size": 1285232,
+      "download_count": 0,
+      "created_at": "2022-10-31T23:54:06Z",
+      "updated_at": "2022-10-31T23:54:14Z",
+      "browser_download_url": "https://github.com/QW-Group/ktx/releases/download/v1.42/qwprogs_linux_aarch64.so"
     },
     {
-      "url": "https://api.github.com/repos/QW-Group/ktx/releases/assets/76962142",
-      "id": 76962142,
-      "node_id": "RA_kwDOAUCB5s4Ellle",
+      "url": "https://api.github.com/repos/QW-Group/ktx/releases/assets/82973513",
+      "id": 82973513,
+      "node_id": "RA_kwDOAUCB5s4E8hNJ",
       "name": "qwprogs_linux_amd64.so",
       "label": null,
       "uploader": {
@@ -95,16 +95,16 @@
       },
       "content_type": "application/octet-stream",
       "state": "uploaded",
-      "size": 1461752,
+      "size": 1495360,
       "download_count": 0,
-      "created_at": "2022-09-05T22:22:11Z",
-      "updated_at": "2022-09-05T22:22:11Z",
-      "browser_download_url": "https://github.com/QW-Group/ktx/releases/download/v1.41/qwprogs_linux_amd64.so"
+      "created_at": "2022-10-31T23:54:14Z",
+      "updated_at": "2022-10-31T23:54:15Z",
+      "browser_download_url": "https://github.com/QW-Group/ktx/releases/download/v1.42/qwprogs_linux_amd64.so"
     },
     {
-      "url": "https://api.github.com/repos/QW-Group/ktx/releases/assets/76962144",
-      "id": 76962144,
-      "node_id": "RA_kwDOAUCB5s4Elllg",
+      "url": "https://api.github.com/repos/QW-Group/ktx/releases/assets/82973516",
+      "id": 82973516,
+      "node_id": "RA_kwDOAUCB5s4E8hNM",
       "name": "qwprogs_linux_armhf.so",
       "label": null,
       "uploader": {
@@ -129,16 +129,16 @@
       },
       "content_type": "application/octet-stream",
       "state": "uploaded",
-      "size": 1163080,
-      "download_count": 1,
-      "created_at": "2022-09-05T22:22:11Z",
-      "updated_at": "2022-09-05T22:22:12Z",
-      "browser_download_url": "https://github.com/QW-Group/ktx/releases/download/v1.41/qwprogs_linux_armhf.so"
+      "size": 1188928,
+      "download_count": 0,
+      "created_at": "2022-10-31T23:54:15Z",
+      "updated_at": "2022-10-31T23:54:16Z",
+      "browser_download_url": "https://github.com/QW-Group/ktx/releases/download/v1.42/qwprogs_linux_armhf.so"
     },
     {
-      "url": "https://api.github.com/repos/QW-Group/ktx/releases/assets/76962139",
-      "id": 76962139,
-      "node_id": "RA_kwDOAUCB5s4Elllb",
+      "url": "https://api.github.com/repos/QW-Group/ktx/releases/assets/82973519",
+      "id": 82973519,
+      "node_id": "RA_kwDOAUCB5s4E8hNP",
       "name": "qwprogs_linux_i686.so",
       "label": null,
       "uploader": {
@@ -163,16 +163,16 @@
       },
       "content_type": "application/octet-stream",
       "state": "uploaded",
-      "size": 1684608,
-      "download_count": 2,
-      "created_at": "2022-09-05T22:22:08Z",
-      "updated_at": "2022-09-05T22:22:10Z",
-      "browser_download_url": "https://github.com/QW-Group/ktx/releases/download/v1.41/qwprogs_linux_i686.so"
+      "size": 1721964,
+      "download_count": 0,
+      "created_at": "2022-10-31T23:54:16Z",
+      "updated_at": "2022-10-31T23:54:17Z",
+      "browser_download_url": "https://github.com/QW-Group/ktx/releases/download/v1.42/qwprogs_linux_i686.so"
     },
     {
-      "url": "https://api.github.com/repos/QW-Group/ktx/releases/assets/76962147",
-      "id": 76962147,
-      "node_id": "RA_kwDOAUCB5s4Elllj",
+      "url": "https://api.github.com/repos/QW-Group/ktx/releases/assets/82973524",
+      "id": 82973524,
+      "node_id": "RA_kwDOAUCB5s4E8hNU",
       "name": "qwprogs_windows_x64.dll",
       "label": null,
       "uploader": {
@@ -197,16 +197,16 @@
       },
       "content_type": "application/x-msdos-program",
       "state": "uploaded",
-      "size": 1726566,
-      "download_count": 10,
-      "created_at": "2022-09-05T22:22:13Z",
-      "updated_at": "2022-09-05T22:22:14Z",
-      "browser_download_url": "https://github.com/QW-Group/ktx/releases/download/v1.41/qwprogs_windows_x64.dll"
+      "size": 1756898,
+      "download_count": 0,
+      "created_at": "2022-10-31T23:54:17Z",
+      "updated_at": "2022-10-31T23:54:18Z",
+      "browser_download_url": "https://github.com/QW-Group/ktx/releases/download/v1.42/qwprogs_windows_x64.dll"
     },
     {
-      "url": "https://api.github.com/repos/QW-Group/ktx/releases/assets/76962145",
-      "id": 76962145,
-      "node_id": "RA_kwDOAUCB5s4Elllh",
+      "url": "https://api.github.com/repos/QW-Group/ktx/releases/assets/82973528",
+      "id": 82973528,
+      "node_id": "RA_kwDOAUCB5s4E8hNY",
       "name": "qwprogs_windows_x86.dll",
       "label": null,
       "uploader": {
@@ -231,14 +231,14 @@
       },
       "content_type": "application/x-msdos-program",
       "state": "uploaded",
-      "size": 1662249,
-      "download_count": 2,
-      "created_at": "2022-09-05T22:22:12Z",
-      "updated_at": "2022-09-05T22:22:13Z",
-      "browser_download_url": "https://github.com/QW-Group/ktx/releases/download/v1.41/qwprogs_windows_x86.dll"
+      "size": 1695535,
+      "download_count": 0,
+      "created_at": "2022-10-31T23:54:18Z",
+      "updated_at": "2022-10-31T23:54:19Z",
+      "browser_download_url": "https://github.com/QW-Group/ktx/releases/download/v1.42/qwprogs_windows_x86.dll"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/QW-Group/ktx/tarball/v1.41",
-  "zipball_url": "https://api.github.com/repos/QW-Group/ktx/zipball/v1.41",
-  "body": "## KTX 1.41 Release Notes\r\n\r\n### You still need v0.34 (or newer) mvdsv binary for this release! [Get it from here.](https://github.com/deurk/mvdsv/releases/tag/0.34)\r\n\r\n### Clan Arena / Wipeout (thanks Dusty!)\r\n- Revamped clan arena mode (/carena) to hopefully retire the old CACE mod\r\n- New Wipeout mode (/wipeout) allows dead players to respawn after increasing intervals\r\n- First person spectator support for dead players\r\n- End-of-round and end-of-game stats\r\n- Proper support for team overlay\r\n- Original CA sounds for countdown, \"DRO!\", etc.\r\n- Various bug fixes and other improvements\r\n\r\n### CTF (thanks nano!)\r\n- Add support for destroying flags and runes\r\n- Let mappers dictate rune spawns\r\n- Add a more flexible version of CTF based spawn\r\n- Make it possible to disable individual runes\r\n\r\n### Improvements\r\n- `/shownick 1`: showing ammo, next to health and armor\r\nNote: `/shownick` and `/shownick 1` are two separate commands with similar functionality:\r\n`/shownick` displays teammate info (health/armor/ammo) in the center of the screen\r\n`/shownick 1` displays teammate info (health/armor/ammo) in a position that can be moved around on the screen\r\n- `/swapall`: this is now a votable command, not an admin-only command (used only in CTF)\r\n- `sv_maxrate` allowed to be 500_000, should help with bloodfest mode, other modes could benefit with it as well\r\n- Added current game mode (and sub-mode) to the serverinfo response\r\n- Endgame Stats Overhaul [Issue #96](https://github.com/QW-Group/ktx/issues/96). [Documentation](https://github.com/QW-Group/ktx/wiki/Endgame-statistics)\r\nNote: the old Endgame Stats used max 38 characters. The widest table in the new layout is using 57 characters. Please update your `/vid_conwidth` settings accordingly.\r\n- Weapon possession times are now recorded (and shown in the Endgame Stats)\r\n- The actual UserMode (1on1, 2on2, midar, race, etc...) is now advertised in the serverinfo [Issue #234](https://github.com/QW-Group/ktx/issues/234)\r\n- Lock team member count upon matchstart [Issue #208](https://github.com/QW-Group/ktx/issues/208)\r\n\r\n### Bugfixes\r\n- `/rpickup`: recursive rpickup is active for admin-triggered rpickup as well\r\n"
+  "tarball_url": "https://api.github.com/repos/QW-Group/ktx/tarball/v1.42",
+  "zipball_url": "https://api.github.com/repos/QW-Group/ktx/zipball/v1.42",
+  "body": "## KTX 1.42 Release Notes\r\n\r\n### Clan Arena / Wipeout (thanks Dusty!)\r\n- send more game info to client\r\n- various updates for client changes\r\n- ix incorrect death type reporting\r\n- allow fire in prewar if /ready\r\n- fix last alive sound playing when dead\r\n- drop GL when out of ammo\r\n\r\n### Changes\r\n- /status command renamed to /status1 (so ezquake's own \"status\" command doesn't hide it anymore)\r\n- fraglimit in teamplay modes can be reached by the total team score \r\n- Endgame stats reverted to the original style (pre KTX v1.41)\r\n- New command: /laststats. This show the table-based Endgame statistics (the KTX v1.41 style)\r\nNote: to automatically trigger the table-based statistics, you need to set the following in your ezquake config:\r\nalias on_matchend \"laststats\"\r\nalias infoset \"cmd info ev 8\"\r\n\r\n\r\n### Improvements\r\n- Endgame Stats: Quadruns in the Top Performer section omitted if it is 0\r\n- Endgame Stats: Added % after effi in TopPerformers and removed lines with 0\r\n- Endgame Stats: Added Damage per Weapon stat table\r\n\r\n\r\n### Bugfixes\r\n- \"maxstreak\" is wrong on midair mode endgame stats\r\n- Corrected Armor times in detailed Endgame stats\r\n- /rpickup handles XonXonX game modes\r\n- demo name prefix corrected for XonXonX game modes"
 }
