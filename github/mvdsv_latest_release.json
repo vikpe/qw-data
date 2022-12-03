@@ -198,7 +198,7 @@
       "content_type": "application/x-ms-dos-executable",
       "state": "uploaded",
       "size": 1197382,
-      "download_count": 37,
+      "download_count": 38,
       "created_at": "2022-07-31T11:59:43Z",
       "updated_at": "2022-07-31T11:59:44Z",
       "browser_download_url": "https://github.com/QW-Group/mvdsv/releases/download/0.35/mvdsv_windows_x64.exe"
@@ -232,7 +232,7 @@
       "content_type": "application/x-ms-dos-executable",
       "state": "uploaded",
       "size": 1084528,
-      "download_count": 10,
+      "download_count": 11,
       "created_at": "2022-07-31T11:59:44Z",
       "updated_at": "2022-07-31T11:59:44Z",
       "browser_download_url": "https://github.com/QW-Group/mvdsv/releases/download/0.35/mvdsv_windows_x86.exe"
