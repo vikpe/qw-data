@@ -1,4 +1,4 @@
-apt install jq -y
+sudo apt install jq -y
 
 mkdir -p hubapi
 
