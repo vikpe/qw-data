@@ -1,4 +1,4 @@
-name: Update data from GitHub
+name: Update data
 
 on:
   workflow_dispatch:
@@ -13,10 +13,12 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Update data from GitHub
-        run: sh update_from_github.sh
+      - name: Update data
+        run: |
+          sh update_from_github.sh
+          sh update_from_hubapi.sh
 
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          file_pattern: "**/*.json"
-          commit_message: Update data from GitHub
+          file_pattern: "**/*.json|txt"
+          commit_message: Update data
