@@ -20,5 +20,5 @@ jobs:
 
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          file_pattern: "**/*.json|txt"
+          file_pattern: "github/**/.* hubapi/**/.*"
           commit_message: Update data
