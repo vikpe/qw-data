@@ -13,10 +13,11 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Update data
-        run: |
-          sh update_from_github.sh
-          sh update_from_hubapi.sh
+      - name: Update data from GitHUb
+        run: sh update_from_github.sh
+
+      - name: Update data from Hub API
+        run: sh update_from_hubapi.sh
 
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
