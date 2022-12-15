@@ -140,7 +140,6 @@ de.kinsky.io:28501
 de.kinsky.io:28502
 de.kinsky.io:28503
 de.kinsky.io:28504
-flagzone.nittionio.nu:28500
 fr.predze.dk:28501
 fr.predze.dk:28502
 fr.predze.dk:28503
