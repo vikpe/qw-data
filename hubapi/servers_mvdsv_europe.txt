@@ -170,6 +170,7 @@ nl2.badplace.eu:28504
 nl2.badplace.eu:28505
 nl2.badplace.eu:28506
 nq.karancssag.info:28501
+pl.dm6.uk:28501
 pl.dm6.uk:28502
 play.quake1.pl:27500
 play.quake1.pl:27501
