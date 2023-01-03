@@ -96,7 +96,7 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 790440,
-      "download_count": 19,
+      "download_count": 23,
       "created_at": "2022-07-31T11:59:41Z",
       "updated_at": "2022-07-31T11:59:42Z",
       "browser_download_url": "https://github.com/QW-Group/mvdsv/releases/download/0.35/mvdsv_linux_amd64"
@@ -198,7 +198,7 @@
       "content_type": "application/x-ms-dos-executable",
       "state": "uploaded",
       "size": 1197382,
-      "download_count": 45,
+      "download_count": 46,
       "created_at": "2022-07-31T11:59:43Z",
       "updated_at": "2022-07-31T11:59:44Z",
       "browser_download_url": "https://github.com/QW-Group/mvdsv/releases/download/0.35/mvdsv_windows_x64.exe"
