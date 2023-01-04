@@ -63,7 +63,7 @@
         "content_type": "application/x-ms-dos-executable",
         "state": "uploaded",
         "size": 8127488,
-        "download_count": 542,
+        "download_count": 554,
         "created_at": "2022-11-05T12:58:55Z",
         "updated_at": "2022-11-05T12:59:03Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.6.1/ezquake_rls_all.exe"
@@ -97,7 +97,7 @@
         "content_type": "application/x-ms-dos-executable",
         "state": "uploaded",
         "size": 8035840,
-        "download_count": 220,
+        "download_count": 227,
         "created_at": "2022-11-05T12:59:03Z",
         "updated_at": "2022-11-05T12:59:20Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.6.1/ezquake_rls_classic.exe"
@@ -131,7 +131,7 @@
         "content_type": "application/x-ms-dos-executable",
         "state": "uploaded",
         "size": 8003072,
-        "download_count": 274,
+        "download_count": 277,
         "created_at": "2022-11-05T12:59:20Z",
         "updated_at": "2022-11-05T12:59:25Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.6.1/ezquake_rls_modern.exe"
@@ -217,7 +217,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 2843938,
-        "download_count": 361,
+        "download_count": 364,
         "created_at": "2022-10-05T22:15:12Z",
         "updated_at": "2022-10-05T22:15:15Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.6.0/rls-all.zip"
@@ -285,7 +285,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 2785739,
-        "download_count": 120,
+        "download_count": 122,
         "created_at": "2022-10-05T22:14:55Z",
         "updated_at": "2022-10-05T22:15:04Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.6.0/rls-modern.zip"
@@ -371,7 +371,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 1397623,
-        "download_count": 164,
+        "download_count": 167,
         "created_at": "2022-08-04T17:15:19Z",
         "updated_at": "2022-08-04T17:15:20Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.6-dev-alpha10-dev/ezquake-latest-linux64.zip"
@@ -405,7 +405,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 3442469,
-        "download_count": 81,
+        "download_count": 83,
         "created_at": "2022-08-04T17:15:25Z",
         "updated_at": "2022-08-04T17:15:26Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.6-dev-alpha10-dev/ezquake-latest-osx.zip"
@@ -439,7 +439,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 2565901,
-        "download_count": 174,
+        "download_count": 175,
         "created_at": "2022-08-04T17:15:30Z",
         "updated_at": "2022-08-04T17:15:31Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.6-dev-alpha10-dev/ezquake-latest-win32.zip"
@@ -473,7 +473,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 16131053,
-        "download_count": 81,
+        "download_count": 82,
         "created_at": "2022-08-04T17:15:33Z",
         "updated_at": "2022-08-04T17:15:35Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.6-dev-alpha10-dev/ezquake-latest-windows-vstudio.zip"
@@ -615,7 +615,7 @@
         "content_type": "application/x-zip-compressed",
         "state": "uploaded",
         "size": 20177723,
-        "download_count": 1251,
+        "download_count": 1252,
         "created_at": "2021-02-09T19:59:18Z",
         "updated_at": "2021-02-09T19:59:29Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.2.3/ezquake-osx10.15.5-xcode11.6-3.2.3-full.zip"
@@ -649,7 +649,7 @@
         "content_type": "application/x-zip-compressed",
         "state": "uploaded",
         "size": 2107250,
-        "download_count": 258,
+        "download_count": 259,
         "created_at": "2021-02-09T19:59:16Z",
         "updated_at": "2021-02-09T19:59:18Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.2.3/ezquake-osx10.15.5-xcode11.6-3.2.3.zip"
@@ -751,7 +751,7 @@
         "content_type": "application/x-zip-compressed",
         "state": "uploaded",
         "size": 20263072,
-        "download_count": 9270,
+        "download_count": 9271,
         "created_at": "2021-02-09T19:59:48Z",
         "updated_at": "2021-02-09T20:00:06Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.2.3/ezquake-win32-3.2.3-full.zip"
@@ -785,7 +785,7 @@
         "content_type": "application/x-zip-compressed",
         "state": "uploaded",
         "size": 2200737,
-        "download_count": 1994,
+        "download_count": 1995,
         "created_at": "2021-02-09T19:59:45Z",
         "updated_at": "2021-02-09T19:59:48Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.2.3/ezquake-win32-3.2.3.zip"
@@ -893,7 +893,7 @@
         "content_type": "application/x-zip-compressed",
         "state": "uploaded",
         "size": 2065409,
-        "download_count": 139,
+        "download_count": 140,
         "created_at": "2020-09-22T22:50:07Z",
         "updated_at": "2020-09-22T22:50:12Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.2.2/ezquake-osx10.15.5-xcode11.6-3.2.2.zip"
@@ -995,7 +995,7 @@
         "content_type": "application/x-zip-compressed",
         "state": "uploaded",
         "size": 20263100,
-        "download_count": 3069,
+        "download_count": 3070,
         "created_at": "2020-09-22T22:49:54Z",
         "updated_at": "2020-09-22T22:50:07Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.2.2/ezquake-win32-3.2.2-full.zip"
@@ -1103,7 +1103,7 @@
         "content_type": "application/x-zip-compressed",
         "state": "uploaded",
         "size": 20125896,
-        "download_count": 64,
+        "download_count": 65,
         "created_at": "2020-06-24T16:45:42Z",
         "updated_at": "2020-06-24T16:49:50Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.2.1/ezquake-osx10.12-xcode8.3-3.2.1-full.zip"
@@ -1171,7 +1171,7 @@
         "content_type": "application/x-zip-compressed",
         "state": "uploaded",
         "size": 20124334,
-        "download_count": 78,
+        "download_count": 79,
         "created_at": "2020-06-24T16:46:10Z",
         "updated_at": "2020-06-24T16:49:51Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.2.1/ezquake-osx10.12-xcode9.2-3.2.1-full.zip"
@@ -1205,7 +1205,7 @@
         "content_type": "application/x-zip-compressed",
         "state": "uploaded",
         "size": 2053860,
-        "download_count": 62,
+        "download_count": 63,
         "created_at": "2020-06-24T16:46:07Z",
         "updated_at": "2020-06-24T16:49:51Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.2.1/ezquake-osx10.12-xcode9.2-3.2.1.zip"
@@ -1273,7 +1273,7 @@
         "content_type": "application/x-zip-compressed",
         "state": "uploaded",
         "size": 2067968,
-        "download_count": 68,
+        "download_count": 69,
         "created_at": "2020-06-24T16:46:26Z",
         "updated_at": "2020-06-24T16:49:51Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.2.1/ezquake-osx10.13-xcode9.3-3.2.1.zip"
@@ -1409,7 +1409,7 @@
         "content_type": "application/x-zip-compressed",
         "state": "uploaded",
         "size": 2200617,
-        "download_count": 595,
+        "download_count": 596,
         "created_at": "2020-06-24T16:45:14Z",
         "updated_at": "2020-06-24T16:45:17Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.2.1/ezquake-win32-3.2.1.zip"
@@ -1483,7 +1483,7 @@
         "content_type": "application/x-zip-compressed",
         "state": "uploaded",
         "size": 2054750,
-        "download_count": 66,
+        "download_count": 67,
         "created_at": "2020-04-19T07:42:22Z",
         "updated_at": "2020-04-19T07:42:26Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.2/ezquake-osx10.12-xcode8.3-3.2.zip"
@@ -1551,7 +1551,7 @@
         "content_type": "application/x-zip-compressed",
         "state": "uploaded",
         "size": 2053287,
-        "download_count": 63,
+        "download_count": 64,
         "created_at": "2020-04-19T07:42:41Z",
         "updated_at": "2020-04-19T07:42:43Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.2/ezquake-osx10.12-xcode9.2-3.2.zip"
@@ -1619,7 +1619,7 @@
         "content_type": "application/x-zip-compressed",
         "state": "uploaded",
         "size": 2067243,
-        "download_count": 85,
+        "download_count": 86,
         "created_at": "2020-04-19T07:42:58Z",
         "updated_at": "2020-04-19T07:43:01Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.2/ezquake-osx10.13-xcode9.3-3.2.zip"
@@ -1653,7 +1653,7 @@
         "content_type": "application/x-zip-compressed",
         "state": "uploaded",
         "size": 20137717,
-        "download_count": 242,
+        "download_count": 243,
         "created_at": "2020-04-19T07:43:01Z",
         "updated_at": "2020-04-19T07:43:16Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.2/ezquake-osx10.13-xcode9.3-full-3.2.zip"
@@ -1755,7 +1755,7 @@
         "content_type": "application/x-zip-compressed",
         "state": "uploaded",
         "size": 2200443,
-        "download_count": 533,
+        "download_count": 534,
         "created_at": "2020-04-19T07:43:33Z",
         "updated_at": "2020-04-19T07:43:36Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.2/ezquake-win32-3.2.zip"
@@ -1789,7 +1789,7 @@
         "content_type": "application/x-zip-compressed",
         "state": "uploaded",
         "size": 20262779,
-        "download_count": 2029,
+        "download_count": 2030,
         "created_at": "2020-04-19T07:41:53Z",
         "updated_at": "2020-04-19T07:42:22Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.2/ezquake-win32-full-3.2.zip"
@@ -1897,7 +1897,7 @@
         "content_type": "application/x-zip-compressed",
         "state": "uploaded",
         "size": 2106123,
-        "download_count": 2462,
+        "download_count": 2464,
         "created_at": "2018-08-27T22:08:39Z",
         "updated_at": "2018-08-27T22:08:56Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.1/ezquake-3.1-win32-update.zip"
@@ -1965,7 +1965,7 @@
         "content_type": "application/x-zip-compressed",
         "state": "uploaded",
         "size": 2019292,
-        "download_count": 125,
+        "download_count": 126,
         "created_at": "2018-08-27T22:08:40Z",
         "updated_at": "2018-08-27T22:09:16Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.1/ezquake-osx10.11-xcode7.3-update.zip"
@@ -1999,7 +1999,7 @@
         "content_type": "application/x-zip-compressed",
         "state": "uploaded",
         "size": 20005569,
-        "download_count": 215,
+        "download_count": 216,
         "created_at": "2018-08-29T11:52:08Z",
         "updated_at": "2018-08-29T11:53:10Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.1/ezquake-osx10.12-xcode8.3-full.zip"
@@ -2033,7 +2033,7 @@
         "content_type": "application/x-zip-compressed",
         "state": "uploaded",
         "size": 1982066,
-        "download_count": 106,
+        "download_count": 107,
         "created_at": "2018-08-27T22:08:40Z",
         "updated_at": "2018-08-27T22:09:35Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.1/ezquake-osx10.12-xcode8.3-update.zip"
@@ -2067,7 +2067,7 @@
         "content_type": "application/x-zip-compressed",
         "state": "uploaded",
         "size": 20021226,
-        "download_count": 1322,
+        "download_count": 1323,
         "created_at": "2018-08-29T11:52:09Z",
         "updated_at": "2018-08-29T11:53:25Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.1/ezquake-osx10.13-xcode9.3-full.zip"
@@ -2101,7 +2101,7 @@
         "content_type": "application/x-zip-compressed",
         "state": "uploaded",
         "size": 1997783,
-        "download_count": 224,
+        "download_count": 225,
         "created_at": "2018-08-27T22:08:40Z",
         "updated_at": "2018-08-27T22:09:55Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.1/ezquake-osx10.13-xcode9.3-update.zip"
@@ -2345,7 +2345,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 1847682,
-        "download_count": 643,
+        "download_count": 644,
         "created_at": "2016-07-18T19:20:04Z",
         "updated_at": "2016-07-18T19:20:26Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/v3.0.1/ezquake3.0.1-osx-update.zip"
@@ -2379,7 +2379,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 1868508,
-        "download_count": 7140,
+        "download_count": 7141,
         "created_at": "2016-07-18T19:20:04Z",
         "updated_at": "2016-07-18T19:20:19Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/v3.0.1/ezquake3.0.1-win32-update.zip"
@@ -2487,7 +2487,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 1060112,
-        "download_count": 75,
+        "download_count": 76,
         "created_at": "2016-06-04T15:03:19Z",
         "updated_at": "2016-06-04T15:03:30Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/v3.0/ezquake3.0-osx-execonly.zip"
@@ -2521,7 +2521,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 1847128,
-        "download_count": 72,
+        "download_count": 73,
         "created_at": "2016-06-24T18:43:47Z",
         "updated_at": "2016-06-24T18:43:56Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/v3.0/ezquake3.0-osx-update-xcode62.zip"
@@ -2555,7 +2555,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 1850473,
-        "download_count": 71,
+        "download_count": 72,
         "created_at": "2016-06-04T15:03:19Z",
         "updated_at": "2016-06-04T15:03:39Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/v3.0/ezquake3.0-osx-update.zip"
@@ -2589,7 +2589,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 1926785,
-        "download_count": 165,
+        "download_count": 166,
         "created_at": "2016-06-04T15:03:19Z",
         "updated_at": "2016-06-04T15:03:46Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/v3.0/ezquake3.0-win32-update.zip"
@@ -2657,7 +2657,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 19868080,
-        "download_count": 1419,
+        "download_count": 1420,
         "created_at": "2016-06-04T15:10:48Z",
         "updated_at": "2016-06-04T15:12:57Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/v3.0/ezQuake_osx_3.0-full.zip"
