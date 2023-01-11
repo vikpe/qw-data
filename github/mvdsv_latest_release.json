@@ -62,7 +62,7 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 681944,
-      "download_count": 11,
+      "download_count": 12,
       "created_at": "2022-07-31T11:59:40Z",
       "updated_at": "2022-07-31T11:59:41Z",
       "browser_download_url": "https://github.com/QW-Group/mvdsv/releases/download/0.35/mvdsv_linux_aarch64"
@@ -130,7 +130,7 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 563804,
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2022-07-31T11:59:42Z",
       "updated_at": "2022-07-31T11:59:42Z",
       "browser_download_url": "https://github.com/QW-Group/mvdsv/releases/download/0.35/mvdsv_linux_armhf"
