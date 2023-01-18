@@ -132,12 +132,6 @@ de.aye.wtf:27503
 de.aye.wtf:27504
 de.aye.wtf:27505
 de.aye.wtf:27506
-de.aye.wtf:28501
-de.aye.wtf:28502
-de.aye.wtf:28503
-de.aye.wtf:28504
-de.aye.wtf:28505
-de.aye.wtf:28506
 fr.predze.dk:28501
 fr.predze.dk:28502
 fr.predze.dk:28503
