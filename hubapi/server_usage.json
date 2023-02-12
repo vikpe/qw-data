@@ -1,2 +1,44 @@
 {
+  "185.73.44.100:27500": {
+    "hostname": "Barrysworld FFA Tribute",
+    "player_count": {
+      "1676222437": 3
+    }
+  },
+  "213.239.216.253:27500": {
+    "hostname": "FFA @ qw.servegame.org\ufffd",
+    "player_count": {
+      "1676222437": 6
+    }
+  },
+  "51.210.10.181:28501": {
+    "hostname": "Silent Crescent:28501",
+    "player_count": {
+      "1676222437": 1
+    }
+  },
+  "de.aye.wtf:27502": {
+    "hostname": "de.aye.wtf:27502 [QW-Group] [patreon.aye.wtf]\ufffd",
+    "player_count": {
+      "1676222437": 2
+    }
+  },
+  "quake.se:28502": {
+    "hostname": "QUAKE.SE KTX:28502 (blue vs. red)\ufffd",
+    "player_count": {
+      "1676222437": 4
+    }
+  },
+  "qw.0f.se:28505": {
+    "hostname": "QW.0F.SE KTX:28505",
+    "player_count": {
+      "1676222437": 2
+    }
+  },
+  "troopers.fi:28003": {
+    "hostname": "troopers.fi:28003",
+    "player_count": {
+      "1676222437": 1
+    }
+  }
 }
