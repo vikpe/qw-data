@@ -1,7 +1,8 @@
 name: Update server usage
 
 on:
-  workflow_dispatch:
+  schedule:
+    - cron: '*/15 * * * *'
 
 jobs:
   update:
