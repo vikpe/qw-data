@@ -1,22 +1,31 @@
 {
+  "145.239.94.156:27504": {
+    "hostname": "zasadzka:27504",
+    "player_count": {
+      "1676224092": 2
+    }
+  },
   "185.73.44.100:27500": {
     "hostname": "Barrysworld FFA Tribute",
     "player_count": {
       "1676222437": 3,
-      "1676223205": 3
+      "1676223205": 3,
+      "1676224092": 4
     }
   },
   "185.73.44.100:28505": {
     "hostname": "antilag @ dm6.uk:28505",
     "player_count": {
-      "1676223205": 1
+      "1676223205": 1,
+      "1676224092": 1
     }
   },
   "213.239.216.253:27500": {
     "hostname": "FFA @ qw.servegame.org\ufffd",
     "player_count": {
       "1676222437": 6,
-      "1676223205": 3
+      "1676223205": 3,
+      "1676224092": 2
     }
   },
   "51.210.10.181:28501": {
@@ -30,13 +39,21 @@
     "hostname": "de.aye.wtf:27502 [QW-Group] [patreon.aye.wtf]\ufffd",
     "player_count": {
       "1676222437": 2,
-      "1676223205": 2
+      "1676223205": 2,
+      "1676224092": 2
+    }
+  },
+  "nl.aye.wtf:28502": {
+    "hostname": "nl.aye.wtf:28502 [Andehlag] [patreon.aye.wtf]\ufffd",
+    "player_count": {
+      "1676224092": 2
     }
   },
   "nl2.badplace.eu:28503": {
     "hostname": "nl2.badplace.eu:28503",
     "player_count": {
-      "1676223205": 1
+      "1676223205": 1,
+      "1676224092": 1
     }
   },
   "play.quake1.pl:27500": {
@@ -45,11 +62,18 @@
       "1676223205": 1
     }
   },
+  "play.quake1.pl:27501": {
+    "hostname": "play.quake1.pl - duel #2\ufffd",
+    "player_count": {
+      "1676224092": 2
+    }
+  },
   "quake.se:28502": {
     "hostname": "QUAKE.SE KTX:28502 (blue vs. red)\ufffd",
     "player_count": {
       "1676222437": 4,
-      "1676223205": 4
+      "1676223205": 4,
+      "1676224092": 4
     }
   },
   "quake.se:28508": {
@@ -62,7 +86,8 @@
     "hostname": "QW.0F.SE KTX:28505",
     "player_count": {
       "1676222437": 2,
-      "1676223205": 2
+      "1676223205": 2,
+      "1676224092": 2
     }
   },
   "troopers.fi:28003": {
