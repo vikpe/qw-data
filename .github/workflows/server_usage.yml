@@ -25,5 +25,5 @@ jobs:
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
           file_pattern: "hubapi/server_usage.json"
-          commit_author: github-actions[bot] <actions@github.com>
+          commit_author: actions-user <actions@github.com>
           commit_message: Update server usage
