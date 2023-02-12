@@ -26,4 +26,3 @@ jobs:
         with:
           file_pattern: "hubapi/server_usage.json"
           commit_message: Update server usage
-          commit_author: github-actions[bot]
