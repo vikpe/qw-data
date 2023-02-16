@@ -111,7 +111,6 @@
 84.39.252.192:28502
 84.39.252.192:28503
 84.39.252.192:28504
-85.214.82.181:28501
 91.206.14.17:27500
 91.206.14.17:27501
 91.206.14.17:27502
@@ -156,6 +155,7 @@ london.badplace.eu:28503
 london.badplace.eu:28504
 nl.aye.wtf:27501
 nl.aye.wtf:27502
+nl.aye.wtf:27503
 nl.aye.wtf:28501
 nl.aye.wtf:28502
 nl.aye.wtf:28503
@@ -174,8 +174,6 @@ nq.karancssag.info:28501
 nq.karancssag.info:28502
 nq.karancssag.info:28503
 nq.karancssag.info:28504
-pl.dm6.uk:28501
-pl.dm6.uk:28502
 play.quake1.pl:27500
 play.quake1.pl:27501
 play.quake1.pl:27510
