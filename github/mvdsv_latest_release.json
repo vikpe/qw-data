@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/QW-Group/mvdsv/releases/73280231",
-  "assets_url": "https://api.github.com/repos/QW-Group/mvdsv/releases/73280231/assets",
-  "upload_url": "https://uploads.github.com/repos/QW-Group/mvdsv/releases/73280231/assets{?name,label}",
-  "html_url": "https://github.com/QW-Group/mvdsv/releases/tag/0.35",
-  "id": 73280231,
+  "url": "https://api.github.com/repos/QW-Group/mvdsv/releases/82026402",
+  "assets_url": "https://api.github.com/repos/QW-Group/mvdsv/releases/82026402/assets",
+  "upload_url": "https://uploads.github.com/repos/QW-Group/mvdsv/releases/82026402/assets{?name,label}",
+  "html_url": "https://github.com/QW-Group/mvdsv/releases/tag/0.36",
+  "id": 82026402,
   "author": {
     "login": "tcsabina",
     "id": 17887592,
@@ -24,19 +24,19 @@
     "type": "User",
     "site_admin": false
   },
-  "node_id": "RE_kwDOAUCCMM4EXirn",
-  "tag_name": "0.35",
+  "node_id": "RE_kwDOAUCCMM4E45-i",
+  "tag_name": "0.36",
   "target_commitish": "master",
-  "name": "MVDSV 0.35",
+  "name": "MVDSV 0.36",
   "draft": false,
   "prerelease": false,
-  "created_at": "2022-07-31T11:01:28Z",
-  "published_at": "2022-07-31T11:46:34Z",
+  "created_at": "2023-01-25T14:07:18Z",
+  "published_at": "2023-02-19T21:35:00Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/QW-Group/mvdsv/releases/assets/73240062",
-      "id": 73240062,
-      "node_id": "RA_kwDOAUCCMM4EXY3-",
+      "url": "https://api.github.com/repos/QW-Group/mvdsv/releases/assets/96313531",
+      "id": 96313531,
+      "node_id": "RA_kwDOAUCCMM4FvaC7",
       "name": "mvdsv_linux_aarch64",
       "label": null,
       "uploader": {
@@ -61,16 +61,16 @@
       },
       "content_type": "application/octet-stream",
       "state": "uploaded",
-      "size": 681944,
-      "download_count": 12,
-      "created_at": "2022-07-31T11:59:40Z",
-      "updated_at": "2022-07-31T11:59:41Z",
-      "browser_download_url": "https://github.com/QW-Group/mvdsv/releases/download/0.35/mvdsv_linux_aarch64"
+      "size": 686256,
+      "download_count": 0,
+      "created_at": "2023-02-19T21:46:26Z",
+      "updated_at": "2023-02-19T21:46:35Z",
+      "browser_download_url": "https://github.com/QW-Group/mvdsv/releases/download/0.36/mvdsv_linux_aarch64"
     },
     {
-      "url": "https://api.github.com/repos/QW-Group/mvdsv/releases/assets/73240063",
-      "id": 73240063,
-      "node_id": "RA_kwDOAUCCMM4EXY3_",
+      "url": "https://api.github.com/repos/QW-Group/mvdsv/releases/assets/96313537",
+      "id": 96313537,
+      "node_id": "RA_kwDOAUCCMM4FvaDB",
       "name": "mvdsv_linux_amd64",
       "label": null,
       "uploader": {
@@ -95,16 +95,16 @@
       },
       "content_type": "application/octet-stream",
       "state": "uploaded",
-      "size": 790440,
-      "download_count": 27,
-      "created_at": "2022-07-31T11:59:41Z",
-      "updated_at": "2022-07-31T11:59:42Z",
-      "browser_download_url": "https://github.com/QW-Group/mvdsv/releases/download/0.35/mvdsv_linux_amd64"
+      "size": 790456,
+      "download_count": 1,
+      "created_at": "2023-02-19T21:46:35Z",
+      "updated_at": "2023-02-19T21:46:36Z",
+      "browser_download_url": "https://github.com/QW-Group/mvdsv/releases/download/0.36/mvdsv_linux_amd64"
     },
     {
-      "url": "https://api.github.com/repos/QW-Group/mvdsv/releases/assets/73240064",
-      "id": 73240064,
-      "node_id": "RA_kwDOAUCCMM4EXY4A",
+      "url": "https://api.github.com/repos/QW-Group/mvdsv/releases/assets/96313539",
+      "id": 96313539,
+      "node_id": "RA_kwDOAUCCMM4FvaDD",
       "name": "mvdsv_linux_armhf",
       "label": null,
       "uploader": {
@@ -129,16 +129,16 @@
       },
       "content_type": "application/octet-stream",
       "state": "uploaded",
-      "size": 563804,
-      "download_count": 5,
-      "created_at": "2022-07-31T11:59:42Z",
-      "updated_at": "2022-07-31T11:59:42Z",
-      "browser_download_url": "https://github.com/QW-Group/mvdsv/releases/download/0.35/mvdsv_linux_armhf"
+      "size": 567932,
+      "download_count": 0,
+      "created_at": "2023-02-19T21:46:36Z",
+      "updated_at": "2023-02-19T21:46:37Z",
+      "browser_download_url": "https://github.com/QW-Group/mvdsv/releases/download/0.36/mvdsv_linux_armhf"
     },
     {
-      "url": "https://api.github.com/repos/QW-Group/mvdsv/releases/assets/73240065",
-      "id": 73240065,
-      "node_id": "RA_kwDOAUCCMM4EXY4B",
+      "url": "https://api.github.com/repos/QW-Group/mvdsv/releases/assets/96313540",
+      "id": 96313540,
+      "node_id": "RA_kwDOAUCCMM4FvaDE",
       "name": "mvdsv_linux_i686",
       "label": null,
       "uploader": {
@@ -163,16 +163,16 @@
       },
       "content_type": "application/octet-stream",
       "state": "uploaded",
-      "size": 873484,
-      "download_count": 9,
-      "created_at": "2022-07-31T11:59:42Z",
-      "updated_at": "2022-07-31T11:59:43Z",
-      "browser_download_url": "https://github.com/QW-Group/mvdsv/releases/download/0.35/mvdsv_linux_i686"
+      "size": 873500,
+      "download_count": 0,
+      "created_at": "2023-02-19T21:46:37Z",
+      "updated_at": "2023-02-19T21:46:38Z",
+      "browser_download_url": "https://github.com/QW-Group/mvdsv/releases/download/0.36/mvdsv_linux_i686"
     },
     {
-      "url": "https://api.github.com/repos/QW-Group/mvdsv/releases/assets/73240066",
-      "id": 73240066,
-      "node_id": "RA_kwDOAUCCMM4EXY4C",
+      "url": "https://api.github.com/repos/QW-Group/mvdsv/releases/assets/96313545",
+      "id": 96313545,
+      "node_id": "RA_kwDOAUCCMM4FvaDJ",
       "name": "mvdsv_windows_x64.exe",
       "label": null,
       "uploader": {
@@ -197,16 +197,16 @@
       },
       "content_type": "application/x-ms-dos-executable",
       "state": "uploaded",
-      "size": 1197382,
-      "download_count": 53,
-      "created_at": "2022-07-31T11:59:43Z",
-      "updated_at": "2022-07-31T11:59:44Z",
-      "browser_download_url": "https://github.com/QW-Group/mvdsv/releases/download/0.35/mvdsv_windows_x64.exe"
+      "size": 1198439,
+      "download_count": 0,
+      "created_at": "2023-02-19T21:46:38Z",
+      "updated_at": "2023-02-19T21:46:40Z",
+      "browser_download_url": "https://github.com/QW-Group/mvdsv/releases/download/0.36/mvdsv_windows_x64.exe"
     },
     {
-      "url": "https://api.github.com/repos/QW-Group/mvdsv/releases/assets/73240067",
-      "id": 73240067,
-      "node_id": "RA_kwDOAUCCMM4EXY4D",
+      "url": "https://api.github.com/repos/QW-Group/mvdsv/releases/assets/96313550",
+      "id": 96313550,
+      "node_id": "RA_kwDOAUCCMM4FvaDO",
       "name": "mvdsv_windows_x86.exe",
       "label": null,
       "uploader": {
@@ -231,14 +231,14 @@
       },
       "content_type": "application/x-ms-dos-executable",
       "state": "uploaded",
-      "size": 1084528,
-      "download_count": 14,
-      "created_at": "2022-07-31T11:59:44Z",
-      "updated_at": "2022-07-31T11:59:44Z",
-      "browser_download_url": "https://github.com/QW-Group/mvdsv/releases/download/0.35/mvdsv_windows_x86.exe"
+      "size": 1087122,
+      "download_count": 0,
+      "created_at": "2023-02-19T21:46:40Z",
+      "updated_at": "2023-02-19T21:46:41Z",
+      "browser_download_url": "https://github.com/QW-Group/mvdsv/releases/download/0.36/mvdsv_windows_x86.exe"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/QW-Group/mvdsv/tarball/0.35",
-  "zipball_url": "https://api.github.com/repos/QW-Group/mvdsv/zipball/0.35",
-  "body": "## MVDSV 0.35 Release Notes\r\n- Fix for demo names that contain multiple periods in a row (ciscon)\r\n"
+  "tarball_url": "https://api.github.com/repos/QW-Group/mvdsv/tarball/0.36",
+  "zipball_url": "https://api.github.com/repos/QW-Group/mvdsv/zipball/0.36",
+  "body": "- Added a new connectionless command: 'laststats' (vikpe)"
 }
