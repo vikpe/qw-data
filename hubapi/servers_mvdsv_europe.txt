@@ -52,10 +52,6 @@
 193.108.113.153:28502
 193.108.113.153:28503
 193.108.113.153:28504
-193.168.147.138:28501
-193.168.147.138:28502
-193.168.147.138:28503
-193.168.147.138:28504
 193.168.147.161:28501
 193.168.147.161:28502
 193.168.147.161:28503
@@ -135,6 +131,8 @@ de.aye.wtf:28505
 de.aye.wtf:28506
 ie.predze.dk:28501
 ie.predze.dk:28502
+ie.qwsrv.com:28501
+ie.qwsrv.com:28502
 isf-clan.com:27166
 london.badplace.eu:28501
 london.badplace.eu:28502
@@ -167,6 +165,10 @@ play.quake1.pl:27500
 play.quake1.pl:27501
 play.quake1.pl:27510
 play.quake1.pl:27520
+quake.ee:28501
+quake.ee:28502
+quake.ee:28503
+quake.ee:28504
 quake.faked.org:27500
 quake.se:28501
 quake.se:28502
