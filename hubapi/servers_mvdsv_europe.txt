@@ -98,6 +98,10 @@
 84.39.252.192:28502
 84.39.252.192:28503
 84.39.252.192:28504
+85.28.131.207:28501
+85.28.131.207:28502
+85.28.131.207:28503
+85.28.131.207:28504
 91.206.14.17:27500
 91.206.14.17:27501
 91.206.14.17:27502
@@ -126,6 +130,11 @@ de.aye.wtf:28503
 de.aye.wtf:28504
 de.aye.wtf:28505
 de.aye.wtf:28506
+dk.quake.world:28501
+dk.quake.world:28502
+dk.quake.world:28503
+dk.quake.world:28504
+dk.quake.world:28505
 dm6.uk:28501
 dm6.uk:28502
 dm6.uk:28503
@@ -216,6 +225,10 @@ se.imaginary.zone:28503
 se.imaginary.zone:28504
 se.imaginary.zone:29501
 serverin.no:28501
+stacja-ateizm.pl:28501
+stacja-ateizm.pl:28502
+stacja-ateizm.pl:28503
+stacja-ateizm.pl:28504
 suddendeath.nu:28501
 suddendeath.nu:28502
 suddendeath.nu:28503
@@ -230,7 +243,3 @@ toaster.fi:28504
 troopers.fi:28001
 troopers.fi:28002
 troopers.fi:28003
-ziewa.pl:28501
-ziewa.pl:28502
-ziewa.pl:28503
-ziewa.pl:28504
