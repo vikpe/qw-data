@@ -96,10 +96,6 @@
 51.83.98.161:28501
 51.83.98.161:28502
 79.139.57.116:27500
-79.160.188.22:28501
-79.160.188.22:28502
-79.160.188.22:28503
-79.160.188.22:28504
 80.241.209.47:28501
 82.141.152.3:27500
 82.141.152.3:27501
@@ -169,9 +165,6 @@ nl.aye.wtf:27503
 nl.aye.wtf:28501
 nl.aye.wtf:28502
 nl.aye.wtf:28503
-nl.dm6.uk:28501
-nl.dm6.uk:28502
-nl.dm6.uk:28503
 nl.kinsky.io:28501
 nl.kinsky.io:28502
 nl.kinsky.io:28503
@@ -182,6 +175,7 @@ nl2.badplace.eu:28503
 nl2.badplace.eu:28504
 nl2.badplace.eu:28505
 nl2.badplace.eu:28506
+nq.karancssag.info:28501
 nq.karancssag.info:28501
 nq.karancssag.info:28502
 nq.karancssag.info:28503
