@@ -174,7 +174,6 @@ nl2.badplace.eu:28504
 nl2.badplace.eu:28505
 nl2.badplace.eu:28506
 nq.karancssag.info:28501
-nq.karancssag.info:28501
 nq.karancssag.info:28502
 nq.karancssag.info:28503
 nq.karancssag.info:28504
