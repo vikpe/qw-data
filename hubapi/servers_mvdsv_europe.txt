@@ -162,7 +162,6 @@ london.badplace.eu:28501
 london.badplace.eu:28502
 london.badplace.eu:28503
 london.badplace.eu:28504
-london.m247:28501
 london.vultr:28501
 london.vultr:28502
 london.vultr:28503
@@ -182,7 +181,6 @@ nl2.badplace.eu:28503
 nl2.badplace.eu:28504
 nl2.badplace.eu:28505
 nl2.badplace.eu:28506
-nq.karancssag.info:28501
 nq.karancssag.info:28501
 nq.karancssag.info:28502
 nq.karancssag.info:28503
