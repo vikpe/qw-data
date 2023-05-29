@@ -117,7 +117,6 @@
 91.206.14.17:27507
 91.206.14.17:27508
 91.206.14.17:27509
-95.94.59.73:27500
 bagno.hlds.pl:28501
 clanrot.org:28501
 clanrot.org:28502
@@ -181,6 +180,7 @@ nl2.badplace.eu:28504
 nl2.badplace.eu:28505
 nl2.badplace.eu:28506
 nq.karancssag.info:28501
+nq.karancssag.info:28501
 nq.karancssag.info:28502
 nq.karancssag.info:28503
 nq.karancssag.info:28504
@@ -194,7 +194,6 @@ quake.ee:28501
 quake.ee:28502
 quake.ee:28503
 quake.ee:28504
-quake.faked.org:27500
 quake.faked.org:27500
 quake.se:28501
 quake.se:28502
