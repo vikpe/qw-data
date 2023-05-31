@@ -195,6 +195,7 @@ quake.ee:28502
 quake.ee:28503
 quake.ee:28504
 quake.faked.org:27500
+quake.faked.org:27500
 quake.se:28501
 quake.se:28502
 quake.se:28504
