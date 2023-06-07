@@ -103,6 +103,7 @@
 84.39.252.192:28502
 84.39.252.192:28503
 84.39.252.192:28504
+85.247.6.246:51963
 85.28.131.207:28501
 85.28.131.207:28502
 85.28.131.207:28503
@@ -190,6 +191,7 @@ play.quake1.pl:27510
 play.quake1.pl:27520
 pt.quake.world:28501
 q.mindscan.msk.ru:28501
+quake.anska.de:27500
 quake.ee:28501
 quake.ee:28502
 quake.ee:28503
@@ -252,7 +254,3 @@ toaster.fi:28504
 troopers.fi:28001
 troopers.fi:28002
 troopers.fi:28003
-ziewa.pl:28501
-ziewa.pl:28502
-ziewa.pl:28503
-ziewa.pl:28504
