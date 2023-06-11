@@ -133,6 +133,10 @@ de.aye.wtf:28503
 de.aye.wtf:28504
 de.aye.wtf:28505
 de.aye.wtf:28506
+de.kinsky.io:28501
+de.kinsky.io:28502
+de.kinsky.io:28503
+de.kinsky.io:28504
 dk.quake.world:27501
 dk.quake.world:27502
 dk.quake.world:28501
