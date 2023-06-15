@@ -163,7 +163,6 @@ london.badplace.eu:28504
 london.vultr:28501
 london.vultr:28502
 london.vultr:28503
-nl.aye.wtf:27501
 nl.aye.wtf:27502
 nl.aye.wtf:27503
 nl.aye.wtf:28501
@@ -219,6 +218,7 @@ qw.0f.se:28507
 qw.0f.se:28508
 qw.0f.se:28509
 qw.0f.se:28510
+qw.fnu.nu:28501
 qw.kirril.com:28501
 qw.kirril.com:28502
 qw.kirril.com:28503
