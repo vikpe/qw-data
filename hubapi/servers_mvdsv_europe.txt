@@ -181,6 +181,7 @@ play.quake1.pl:27500
 play.quake1.pl:27501
 play.quake1.pl:27510
 play.quake1.pl:27520
+pt.quake.world:28501
 quake.ee:28501
 quake.ee:28502
 quake.ee:28503
