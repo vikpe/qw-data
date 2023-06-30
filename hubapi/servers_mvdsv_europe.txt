@@ -11,6 +11,7 @@
 130.162.236.198:28500
 135.181.96.161:27500
 141.105.67.104:27500
+141.105.67.104:28000
 141.105.67.104:28501
 141.105.67.104:28502
 145.239.94.156:27500
@@ -149,6 +150,8 @@ ie.predze.dk:28502
 ie.qwsrv.com:28501
 ie.qwsrv.com:28502
 isf-clan.com:27166
+london.alpha:28501
+london.alpha:28502
 london.badplace.eu:28501
 london.badplace.eu:28502
 london.badplace.eu:28503
@@ -169,6 +172,7 @@ nl2.badplace.eu:28503
 nl2.badplace.eu:28504
 nl2.badplace.eu:28505
 nl2.badplace.eu:28506
+nq.karancssag.info:28501
 nq.karancssag.info:28501
 nq.karancssag.info:28502
 nq.karancssag.info:28503
