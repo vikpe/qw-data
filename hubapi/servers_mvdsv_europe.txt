@@ -105,6 +105,7 @@
 91.206.14.17:27507
 91.206.14.17:27508
 91.206.14.17:27509
+95.94.59.73:27500
 bagno.hlds.pl:28501
 clanrot.org:28501
 clanrot.org:28502
@@ -137,8 +138,6 @@ dm6.uk:28505
 dm6.uk:28506
 ie.predze.dk:28501
 ie.predze.dk:28502
-ie.qwsrv.com:28501
-ie.qwsrv.com:28502
 isf-clan.com:27166
 london.alpha:28501
 london.alpha:28502
