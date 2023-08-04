@@ -103,6 +103,7 @@
 91.206.14.17:27508
 91.206.14.17:27509
 95.94.59.73:27500
+bagno.hlds.pl:28501
 clanrot.org:28501
 clanrot.org:28502
 clanrot.org:28503
@@ -194,7 +195,6 @@ qw.0f.se:28507
 qw.0f.se:28508
 qw.0f.se:28509
 qw.0f.se:28510
-qw.fnu.nu:28501
 qw.kirril.com:28501
 qw.kirril.com:28502
 qw.kirril.com:28503
