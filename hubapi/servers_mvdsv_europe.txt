@@ -134,6 +134,8 @@ dm6.uk:28505
 dm6.uk:28506
 ie.predze.dk:28501
 ie.predze.dk:28502
+ie.qwsrv.com:28501
+ie.qwsrv.com:28502
 isf-clan.com:27166
 london.alpha:28501
 london.alpha:28502
