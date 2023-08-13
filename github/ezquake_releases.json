@@ -63,7 +63,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 24263856,
-        "download_count": 8,
+        "download_count": 16,
         "created_at": "2023-08-10T21:49:05Z",
         "updated_at": "2023-08-10T21:49:51Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.6.3/ezquake-source_with-submodules-3.6.3.zip"
@@ -97,7 +97,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 16090304,
-        "download_count": 8,
+        "download_count": 13,
         "created_at": "2023-08-10T21:48:18Z",
         "updated_at": "2023-08-10T21:48:45Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.6.3/ezQuake-x86_64.AppImage"
@@ -131,7 +131,7 @@
         "content_type": "application/x-ms-dos-executable",
         "state": "uploaded",
         "size": 8151040,
-        "download_count": 31,
+        "download_count": 46,
         "created_at": "2023-08-10T21:48:02Z",
         "updated_at": "2023-08-10T21:48:18Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.6.3/ezquake.exe"
@@ -139,7 +139,19 @@
     ],
     "tarball_url": "https://api.github.com/repos/QW-Group/ezquake-source/tarball/3.6.3",
     "zipball_url": "https://api.github.com/repos/QW-Group/ezquake-source/zipball/3.6.3",
-    "body": "### Improvements:\r\n\r\n- BSP: Mark only liquids as underwater (dvsenssons)\r\n- BSP: Sane sanity check and unsigned surfaces (dvsenssons)\r\n- CONFIG: update graphics presets (blood dog)\r\n- POSIX: add sys_highpriority cvar for changing process priority via nice level if user has privileges to do so. (ciscon)\r\n- INSTALL: fix versioning for macOS (fzwoch)\r\n- SKIN: Fix player skin texture scaling and filtering (krizej)\r\n- MACRO: New macro that outputs dates as yyyy.mm.dd (krizej)\r\n- date/time hud element for the scoreboard (krizej)\r\n- MENU: make menu_slist call go directly to slist (ciscon)\r\n- BIND: Add bindedit command (krizej)\r\n- BSP: Load bspx lighting for maps compiled with -novanilla (dvsenssons)\r\n- DOWNLOAD: bump download speed for client and server (qqshka)\r\n- LIGHTMAPS: Support for DECOUPLEDLM (dvsenssons)\r\n- add r_sgbloodColor (krizej)\r\n\r\n### Bugfixes:\r\n- BSP: Fix rounding error in CalcSurfaceExtents (dvsenssons)\r\n- fix z-fighting (krizej)\r\n- gunkick is broken with fast firing weapons (krizej)\r\n- fix centerprint not appearing during finales (krizej)\r\n- XonXonX issues with frag/kill feed (krizej)\r\n- add airbut1.wav rerelease sha1 to pass f_modified checks on dm2 and e1m2 (namtsui)\r\n\r\n### Build:\r\n- BUILD: fix some compilation warnings\r\n- BUILD: linux - build appimage snapshot (ciscon)\r\n- MAKE: throw error with recommended solution if qwprot submodule is missing (ciscon)\r\n"
+    "body": "### Improvements:\r\n\r\n- BSP: Mark only liquids as underwater (dvsenssons)\r\n- BSP: Sane sanity check and unsigned surfaces (dvsenssons)\r\n- CONFIG: update graphics presets (blood dog)\r\n- POSIX: add sys_highpriority cvar for changing process priority via nice level if user has privileges to do so. (ciscon)\r\n- INSTALL: fix versioning for macOS (fzwoch)\r\n- SKIN: Fix player skin texture scaling and filtering (krizej)\r\n- MACRO: New macro that outputs dates as yyyy.mm.dd (krizej)\r\n- date/time hud element for the scoreboard (krizej)\r\n- MENU: make menu_slist call go directly to slist (ciscon)\r\n- BIND: Add bindedit command (krizej)\r\n- BSP: Load bspx lighting for maps compiled with -novanilla (dvsenssons)\r\n- DOWNLOAD: bump download speed for client and server (qqshka)\r\n- LIGHTMAPS: Support for DECOUPLEDLM (dvsenssons)\r\n- add r_sgbloodColor (krizej)\r\n\r\n### Bugfixes:\r\n- BSP: Fix rounding error in CalcSurfaceExtents (dvsenssons)\r\n- fix z-fighting (krizej)\r\n- gunkick is broken with fast firing weapons (krizej)\r\n- fix centerprint not appearing during finales (krizej)\r\n- XonXonX issues with frag/kill feed (krizej)\r\n- add airbut1.wav rerelease sha1 to pass f_modified checks on dm2 and e1m2 (namtsui)\r\n\r\n### Build:\r\n- BUILD: fix some compilation warnings\r\n- BUILD: linux - build appimage snapshot (ciscon)\r\n- MAKE: throw error with recommended solution if qwprot submodule is missing (ciscon)\r\n",
+    "reactions": {
+      "url": "https://api.github.com/repos/QW-Group/ezquake-source/releases/96125103/reactions",
+      "total_count": 1,
+      "+1": 1,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    }
   },
   {
     "url": "https://api.github.com/repos/QW-Group/ezquake-source/releases/82243700",
@@ -205,7 +217,7 @@
         "content_type": "application/vnd.appimage",
         "state": "uploaded",
         "size": 17216704,
-        "download_count": 405,
+        "download_count": 406,
         "created_at": "2023-05-28T18:23:20Z",
         "updated_at": "2023-05-28T18:23:21Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.6.2/ezQuake-x86_64.AppImage"
@@ -239,7 +251,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 8142336,
-        "download_count": 1217,
+        "download_count": 1218,
         "created_at": "2023-03-21T19:07:35Z",
         "updated_at": "2023-03-21T19:07:42Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.6.2/ezquake.exe"
@@ -325,7 +337,7 @@
         "content_type": "application/x-ms-dos-executable",
         "state": "uploaded",
         "size": 8127488,
-        "download_count": 1260,
+        "download_count": 1261,
         "created_at": "2022-11-05T12:58:55Z",
         "updated_at": "2022-11-05T12:59:03Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.6.1/ezquake_rls_all.exe"
@@ -479,7 +491,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 2843938,
-        "download_count": 890,
+        "download_count": 891,
         "created_at": "2022-10-05T22:15:12Z",
         "updated_at": "2022-10-05T22:15:15Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.6.0/rls-all.zip"
@@ -633,7 +645,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 1397623,
-        "download_count": 429,
+        "download_count": 432,
         "created_at": "2022-08-04T17:15:19Z",
         "updated_at": "2022-08-04T17:15:20Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.6-dev-alpha10-dev/ezquake-latest-linux64.zip"
@@ -667,7 +679,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 3442469,
-        "download_count": 256,
+        "download_count": 259,
         "created_at": "2022-08-04T17:15:25Z",
         "updated_at": "2022-08-04T17:15:26Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.6-dev-alpha10-dev/ezquake-latest-osx.zip"
@@ -945,7 +957,7 @@
         "content_type": "application/x-gzip",
         "state": "uploaded",
         "size": 19076232,
-        "download_count": 3455,
+        "download_count": 3457,
         "created_at": "2021-02-09T19:59:30Z",
         "updated_at": "2021-02-09T19:59:45Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.2.3/ezquake-ubuntu-3.2.3-full.tar.gz"
