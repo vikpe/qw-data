@@ -81,6 +81,7 @@
 51.210.10.181:28501
 51.210.10.181:28504
 51.210.104.42:28501
+51.38.225.118:27500
 79.139.57.116:27500
 80.241.209.47:28501
 81.229.197.93:27500
@@ -211,7 +212,6 @@ se.imaginary.zone:28502
 se.imaginary.zone:28503
 se.imaginary.zone:28504
 se.imaginary.zone:29501
-serverin.no:28501
 stacja-ateizm.pl:28501
 stacja-ateizm.pl:28502
 stacja-ateizm.pl:28503
