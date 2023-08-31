@@ -53,6 +53,7 @@
 212.42.38.88:27500
 212.42.38.88:27501
 212.42.38.88:27502
+213.164.209.174:28501
 213.239.216.253:27500
 217.160.44.209:28501
 217.160.44.209:28502
@@ -115,13 +116,11 @@ de.aye.wtf:27502
 de.aye.wtf:27503
 de.aye.wtf:27504
 de.aye.wtf:27505
-de.aye.wtf:27506
 de.aye.wtf:28501
 de.aye.wtf:28502
 de.aye.wtf:28503
 de.aye.wtf:28504
 de.aye.wtf:28505
-de.aye.wtf:28506
 dk.quake.world:27501
 dk.quake.world:27502
 dk.quake.world:28501
