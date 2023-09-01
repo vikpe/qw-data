@@ -90,10 +90,6 @@
 84.39.252.192:28502
 84.39.252.192:28503
 84.39.252.192:28504
-85.28.131.207:28501
-85.28.131.207:28502
-85.28.131.207:28503
-85.28.131.207:28504
 91.206.14.17:27500
 91.206.14.17:27501
 91.206.14.17:27502
@@ -121,6 +117,7 @@ de.aye.wtf:28502
 de.aye.wtf:28503
 de.aye.wtf:28504
 de.aye.wtf:28505
+de.aye.wtf:29501
 dk.quake.world:27501
 dk.quake.world:27502
 dk.quake.world:28501
@@ -160,7 +157,6 @@ nl2.badplace.eu:28503
 nl2.badplace.eu:28504
 nl2.badplace.eu:28505
 nl2.badplace.eu:28506
-nq.karancssag.info:28501
 nq.karancssag.info:28501
 nq.karancssag.info:28502
 nq.karancssag.info:28503
