@@ -54,10 +54,6 @@
 212.42.38.88:27501
 212.42.38.88:27502
 213.239.216.253:27500
-217.160.44.209:28501
-217.160.44.209:28502
-217.160.44.209:28503
-217.160.44.209:28504
 217.197.83.154:28501
 217.197.83.154:28502
 217.197.83.154:28503
@@ -160,7 +156,6 @@ nl2.badplace.eu:28504
 nl2.badplace.eu:28505
 nl2.badplace.eu:28506
 nq.karancssag.info:28501
-nq.karancssag.info:28501
 nq.karancssag.info:28502
 nq.karancssag.info:28503
 nq.karancssag.info:28504
@@ -220,7 +215,6 @@ suddendeath.nu:28503
 suddendeath.nu:28504
 suddendeath.nu:28505
 suddendeath.nu:28506
-suntzu.cz:27500
 toaster.fi:28501
 toaster.fi:28502
 toaster.fi:28503
