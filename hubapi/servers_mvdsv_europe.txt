@@ -143,6 +143,8 @@ london.badplace.eu:28501
 london.badplace.eu:28502
 london.badplace.eu:28503
 london.badplace.eu:28504
+london.vultr:28501
+london.vultr:28502
 nl.kinsky.io:28501
 nl.kinsky.io:28502
 nl.kinsky.io:28503
