@@ -144,8 +144,6 @@ london.badplace.eu:28501
 london.badplace.eu:28502
 london.badplace.eu:28503
 london.badplace.eu:28504
-london.vultr:28501
-london.vultr:28502
 nl.kinsky.io:28501
 nl.kinsky.io:28502
 nl.kinsky.io:28503
@@ -201,9 +199,6 @@ qw.0f.se:28508
 qw.0f.se:28509
 qw.0f.se:28510
 qw.fnu.nu:28501
-qw.kirril.com:28501
-qw.kirril.com:28502
-qw.kirril.com:28503
 qw2.ru:27500
 qw2.ru:27501
 qw2.ru:27502
