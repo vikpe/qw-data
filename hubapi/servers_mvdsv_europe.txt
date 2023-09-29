@@ -23,6 +23,8 @@
 167.71.142.56:28502
 167.71.142.56:28503
 167.71.142.56:28504
+176.210.100.6:28501
+176.210.100.6:28502
 185.73.44.100:27500
 188.166.161.185:27500
 188.166.161.185:27501
@@ -136,6 +138,7 @@ nl.kinsky.io:28501
 nl.kinsky.io:28502
 nl.kinsky.io:28503
 nl.kinsky.io:28504
+nl.quake.world:27501
 nl.quake.world:27502
 nl.quake.world:27503
 nl.quake.world:28501
@@ -148,15 +151,12 @@ nl2.badplace.eu:28504
 nl2.badplace.eu:28505
 nl2.badplace.eu:28506
 nq.karancssag.info:28501
+nq.karancssag.info:28501
 nq.karancssag.info:28502
 nq.karancssag.info:28503
 nq.karancssag.info:28504
 pl.dm6.uk:28501
 pl.dm6.uk:28502
-play.quake1.pl:27500
-play.quake1.pl:27501
-play.quake1.pl:27510
-play.quake1.pl:27520
 pt.quake.world:28501
 quake.faked.org:27500
 quake.se:28501
@@ -201,7 +201,6 @@ stacja-ateizm.pl:28501
 stacja-ateizm.pl:28502
 stacja-ateizm.pl:28503
 stacja-ateizm.pl:28504
-suddendeath.nu:28501
 suddendeath.nu:28502
 suddendeath.nu:28503
 suddendeath.nu:28504
