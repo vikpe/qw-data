@@ -157,6 +157,10 @@ nq.karancssag.info:28503
 nq.karancssag.info:28504
 pl.dm6.uk:28501
 pl.dm6.uk:28502
+play.quake1.pl:27500
+play.quake1.pl:27501
+play.quake1.pl:27510
+play.quake1.pl:27520
 pt.quake.world:28501
 quake.faked.org:27500
 quake.se:28501
@@ -188,10 +192,6 @@ qw.fnu.nu:28501
 qw.kirril.com:28501
 qw.kirril.com:28502
 qw.kirril.com:28503
-qw2.ru:27500
-qw2.ru:27501
-qw2.ru:27502
-qw2.ru:27503
 se.imaginary.zone:28501
 se.imaginary.zone:28502
 se.imaginary.zone:28503
