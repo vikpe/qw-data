@@ -108,6 +108,7 @@ de.quake.world:28503
 de.quake.world:28504
 de.quake.world:28505
 de.quake.world:29501
+dk.quake.world:27501
 dk.quake.world:27502
 dk.quake.world:27503
 dk.quake.world:27504
@@ -201,11 +202,6 @@ stacja-ateizm.pl:28501
 stacja-ateizm.pl:28502
 stacja-ateizm.pl:28503
 stacja-ateizm.pl:28504
-suddendeath.nu:28502
-suddendeath.nu:28503
-suddendeath.nu:28504
-suddendeath.nu:28505
-suddendeath.nu:28506
 suntzu.cz:27500
 troopers.fi:28001
 troopers.fi:28002
