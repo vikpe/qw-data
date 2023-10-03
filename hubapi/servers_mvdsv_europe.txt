@@ -63,6 +63,7 @@
 37.201.131.70:28501
 37.221.215.47:28501
 37.221.215.47:28502
+45.142.244.163:28501
 45.142.247.142:28501
 45.147.98.159:28501
 45.147.98.159:28502
@@ -202,6 +203,11 @@ stacja-ateizm.pl:28501
 stacja-ateizm.pl:28502
 stacja-ateizm.pl:28503
 stacja-ateizm.pl:28504
+suddendeath.nu:28502
+suddendeath.nu:28503
+suddendeath.nu:28504
+suddendeath.nu:28505
+suddendeath.nu:28506
 suntzu.cz:27500
 troopers.fi:28001
 troopers.fi:28002
