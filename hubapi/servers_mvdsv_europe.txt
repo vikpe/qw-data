@@ -134,8 +134,6 @@ london.badplace.eu:28501
 london.badplace.eu:28502
 london.badplace.eu:28503
 london.badplace.eu:28504
-london.m247:28501
-london.m247:28502
 nl.kinsky.io:28501
 nl.kinsky.io:28502
 nl.kinsky.io:28503
@@ -203,6 +201,7 @@ stacja-ateizm.pl:28501
 stacja-ateizm.pl:28502
 stacja-ateizm.pl:28503
 stacja-ateizm.pl:28504
+suddendeath.nu:28501
 suddendeath.nu:28502
 suddendeath.nu:28503
 suddendeath.nu:28504
