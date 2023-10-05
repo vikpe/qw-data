@@ -130,6 +130,8 @@ ie.predze.dk:28502
 ie.qwsrv.com:28501
 ie.qwsrv.com:28502
 isf-clan.com:27166
+london.alpha:28501
+london.alpha:28502
 london.badplace.eu:28501
 london.badplace.eu:28502
 london.badplace.eu:28503
@@ -151,7 +153,6 @@ nl2.badplace.eu:28504
 nl2.badplace.eu:28505
 nl2.badplace.eu:28506
 nq.karancssag.info:28501
-nq.karancssag.info:28501
 nq.karancssag.info:28502
 nq.karancssag.info:28503
 nq.karancssag.info:28504
@@ -162,7 +163,6 @@ play.quake1.pl:27501
 play.quake1.pl:27510
 play.quake1.pl:27520
 pt.quake.world:28501
-quake.faked.org:27500
 quake.se:28501
 quake.se:28502
 quake.se:28503
