@@ -73,8 +73,6 @@
 45.147.98.159:28505
 45.147.98.159:28506
 5.9.82.79:27500
-51.210.10.181:28501
-51.210.10.181:28504
 51.38.225.118:27500
 79.139.57.116:27500
 80.241.209.47:28501
@@ -138,7 +136,6 @@ nl.kinsky.io:28501
 nl.kinsky.io:28502
 nl.kinsky.io:28503
 nl.kinsky.io:28504
-nl.quake.world:27501
 nl.quake.world:27502
 nl.quake.world:27503
 nl.quake.world:28501
@@ -187,6 +184,7 @@ qw.0f.se:28507
 qw.0f.se:28508
 qw.0f.se:28509
 qw.0f.se:28510
+qw.fnu.nu:28501
 qw.kirril.com:28501
 qw.kirril.com:28502
 qw.kirril.com:28503
