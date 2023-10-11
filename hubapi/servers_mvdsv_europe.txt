@@ -93,6 +93,9 @@
 95.94.59.73:27500
 alex.3cm.us:28501
 bagno.hlds.pl:28501
+clanrot.org:28501
+clanrot.org:28502
+clanrot.org:28503
 cyberdemon.co.uk:28501
 de.quake.world:27501
 de.quake.world:27502
@@ -136,6 +139,7 @@ nl.kinsky.io:28501
 nl.kinsky.io:28502
 nl.kinsky.io:28503
 nl.kinsky.io:28504
+nl.quake.world:27501
 nl.quake.world:27502
 nl.quake.world:27503
 nl.quake.world:28501
@@ -147,6 +151,7 @@ nl2.badplace.eu:28503
 nl2.badplace.eu:28504
 nl2.badplace.eu:28505
 nl2.badplace.eu:28506
+nq.karancssag.info:28501
 nq.karancssag.info:28501
 nq.karancssag.info:28502
 nq.karancssag.info:28503
