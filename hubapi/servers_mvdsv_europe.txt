@@ -65,7 +65,6 @@
 37.221.215.47:28501
 37.221.215.47:28502
 45.142.244.163:28501
-45.142.247.142:28501
 45.147.98.159:28501
 45.147.98.159:28502
 45.147.98.159:28503
@@ -152,6 +151,7 @@ nl2.badplace.eu:28503
 nl2.badplace.eu:28504
 nl2.badplace.eu:28505
 nl2.badplace.eu:28506
+nq.karancssag.info:28501
 nq.karancssag.info:28501
 nq.karancssag.info:28502
 nq.karancssag.info:28503
