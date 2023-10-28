@@ -63,7 +63,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 24263856,
-        "download_count": 270,
+        "download_count": 271,
         "created_at": "2023-08-10T21:49:05Z",
         "updated_at": "2023-08-10T21:49:51Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.6.3/ezquake-source_with-submodules-3.6.3.zip"
@@ -97,7 +97,7 @@
         "content_type": "application/vnd.appimage",
         "state": "uploaded",
         "size": 17425600,
-        "download_count": 177,
+        "download_count": 179,
         "created_at": "2023-09-15T15:23:25Z",
         "updated_at": "2023-09-15T15:23:26Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.6.3/ezQuake-x86_64.AppImage"
@@ -131,7 +131,7 @@
         "content_type": "application/x-ms-dos-executable",
         "state": "uploaded",
         "size": 8151040,
-        "download_count": 651,
+        "download_count": 662,
         "created_at": "2023-08-10T21:48:02Z",
         "updated_at": "2023-08-10T21:48:18Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.6.3/ezquake.exe"
@@ -217,7 +217,7 @@
         "content_type": "application/vnd.appimage",
         "state": "uploaded",
         "size": 17216704,
-        "download_count": 482,
+        "download_count": 483,
         "created_at": "2023-05-28T18:23:20Z",
         "updated_at": "2023-05-28T18:23:21Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.6.2/ezQuake-x86_64.AppImage"
@@ -251,7 +251,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 8142336,
-        "download_count": 1363,
+        "download_count": 1366,
         "created_at": "2023-03-21T19:07:35Z",
         "updated_at": "2023-03-21T19:07:42Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.6.2/ezquake.exe"
@@ -371,7 +371,7 @@
         "content_type": "application/x-ms-dos-executable",
         "state": "uploaded",
         "size": 8035840,
-        "download_count": 513,
+        "download_count": 514,
         "created_at": "2022-11-05T12:59:03Z",
         "updated_at": "2022-11-05T12:59:20Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.6.1/ezquake_rls_classic.exe"
@@ -491,7 +491,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 2843938,
-        "download_count": 1056,
+        "download_count": 1057,
         "created_at": "2022-10-05T22:15:12Z",
         "updated_at": "2022-10-05T22:15:15Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.6.0/rls-all.zip"
@@ -957,7 +957,7 @@
         "content_type": "application/x-gzip",
         "state": "uploaded",
         "size": 19076232,
-        "download_count": 3598,
+        "download_count": 3600,
         "created_at": "2021-02-09T19:59:30Z",
         "updated_at": "2021-02-09T19:59:45Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.2.3/ezquake-ubuntu-3.2.3-full.tar.gz"
@@ -1059,7 +1059,7 @@
         "content_type": "application/x-zip-compressed",
         "state": "uploaded",
         "size": 2200737,
-        "download_count": 2050,
+        "download_count": 2051,
         "created_at": "2021-02-09T19:59:45Z",
         "updated_at": "2021-02-09T19:59:48Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.2.3/ezquake-win32-3.2.3.zip"
@@ -2063,7 +2063,7 @@
         "content_type": "application/x-zip-compressed",
         "state": "uploaded",
         "size": 20262779,
-        "download_count": 2056,
+        "download_count": 2058,
         "created_at": "2020-04-19T07:41:53Z",
         "updated_at": "2020-04-19T07:42:22Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.2/ezquake-win32-full-3.2.zip"
