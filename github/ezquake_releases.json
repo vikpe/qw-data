@@ -63,7 +63,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 10374526,
-        "download_count": 32,
+        "download_count": 43,
         "created_at": "2023-10-29T22:51:55Z",
         "updated_at": "2023-10-29T22:51:58Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.6.4/ezquake-source_with-submodules-3.6.4.zip"
@@ -97,7 +97,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 16168128,
-        "download_count": 31,
+        "download_count": 36,
         "created_at": "2023-10-29T22:51:47Z",
         "updated_at": "2023-10-29T22:51:51Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.6.4/ezQuake-x86_64.AppImage"
@@ -131,7 +131,7 @@
         "content_type": "application/x-ms-dos-executable",
         "state": "uploaded",
         "size": 9534976,
-        "download_count": 110,
+        "download_count": 122,
         "created_at": "2023-10-29T22:51:34Z",
         "updated_at": "2023-10-29T22:51:41Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.6.4/ezquake.exe"
@@ -139,7 +139,19 @@
     ],
     "tarball_url": "https://api.github.com/repos/QW-Group/ezquake-source/tarball/3.6.4",
     "zipball_url": "https://api.github.com/repos/QW-Group/ezquake-source/zipball/3.6.4",
-    "body": "### Improvements:\r\n- hud_scoreclock on by default (krizej)\r\n- HUD: gamesummary centers its text regardless of scale/ratio (hemostx)\r\n- fixing and tweaking bindedit and aliasedit (krizej)\r\n- copy to clipboard command (krizej)\r\n- r_fx_geometry has been merged with gl_outline (krizej)\r\n- new cvars: gl_outline_color_world - sets the color of the world outline (krizej)\r\n- new cvars: gl_outline_color_model - sets the color of the model outline (krizej)\r\n- new cvars: gl_outline_color_team - sets the color of friendly players' outlines (krizej)\r\n- new cvars: gl_outline_color_enemy - sets the color of enemy players' outlines (krizej)\r\n- new cvars: gl_outline_scale_model - adjusts the scale of the model outline (smackdown/qcon have 0-1 limit, 0-5 on others) (krizej)\r\n- new cvars: gl_outline_depth_threshold - adjusts the threshold for drawing world outlines using depth values (krizej)\r\n- new cvars: gl_outline_use_player_color - uses the top and bottom colors of players as outline colors (krizej)\r\n- new cvars: gl_spec_xray - demo/qtv-only, see players through walls (uses the gl_outline shader and is affected by outline color and scale values) (krizej)\r\n- new cvars: gl_spec_xray_distance - sets the distance from which you can see players through walls (krizej)\r\n- TEXTURES: Fix competitive issues with fence textures (dsvensson)\r\n- CI: Double-zip macOS app to keep executable bit (dsvensson)\r\n- fix outline cvars resetting on vid_restart (krizej)\r\n- Make shader-based gamma the default in new configurations (krizej)\r\n- INSTALL: Include all of libsndfile's dependencies (dsvensson)\r\n- UI: Add notice on outdated client (dsvensson)\r\n- CFG: Add documentation for gl_scaleAlphaTextures (dsvensson)\r\n- Update create_osx_bundle.sh (BLooD-DoG)\r\n- DOWNLOAD: Harmonize download filter (dsvensson)\r\n- BUILD: macos - use matrix for builds (ciscon)\r\n- New variables for rocket explosion blood color (foobar)\r\n\r\n### Bugfixes:\r\n- r_fx_geometry incorrect behavior in smaller viewsize's (krizej)\r\n- rerelease airbut1.wav f_modified (namtsui)\r\n- SDL: Default to no keyboard grab on Windows (dsvensson)\r\n- GFX: Fix fence textures on func (dsvensson)\r\n- trigger_secrets now play their sound at the proper location (krizej)\r\n- MACOS: Fix remaining issues with .app bundle (dsvensson)\r\n\r\n### Build:\r\n- BUILD: Vcpkg instead of vendored binary blobs in the repo (dsvensson)\r\n- PCRE -> PCRE2 (fzwoch)\r\n"
+    "body": "### Improvements:\r\n- hud_scoreclock on by default (krizej)\r\n- HUD: gamesummary centers its text regardless of scale/ratio (hemostx)\r\n- fixing and tweaking bindedit and aliasedit (krizej)\r\n- copy to clipboard command (krizej)\r\n- r_fx_geometry has been merged with gl_outline (krizej)\r\n- new cvars: gl_outline_color_world - sets the color of the world outline (krizej)\r\n- new cvars: gl_outline_color_model - sets the color of the model outline (krizej)\r\n- new cvars: gl_outline_color_team - sets the color of friendly players' outlines (krizej)\r\n- new cvars: gl_outline_color_enemy - sets the color of enemy players' outlines (krizej)\r\n- new cvars: gl_outline_scale_model - adjusts the scale of the model outline (smackdown/qcon have 0-1 limit, 0-5 on others) (krizej)\r\n- new cvars: gl_outline_depth_threshold - adjusts the threshold for drawing world outlines using depth values (krizej)\r\n- new cvars: gl_outline_use_player_color - uses the top and bottom colors of players as outline colors (krizej)\r\n- new cvars: gl_spec_xray - demo/qtv-only, see players through walls (uses the gl_outline shader and is affected by outline color and scale values) (krizej)\r\n- new cvars: gl_spec_xray_distance - sets the distance from which you can see players through walls (krizej)\r\n- TEXTURES: Fix competitive issues with fence textures (dsvensson)\r\n- CI: Double-zip macOS app to keep executable bit (dsvensson)\r\n- fix outline cvars resetting on vid_restart (krizej)\r\n- Make shader-based gamma the default in new configurations (krizej)\r\n- INSTALL: Include all of libsndfile's dependencies (dsvensson)\r\n- UI: Add notice on outdated client (dsvensson)\r\n- CFG: Add documentation for gl_scaleAlphaTextures (dsvensson)\r\n- Update create_osx_bundle.sh (BLooD-DoG)\r\n- DOWNLOAD: Harmonize download filter (dsvensson)\r\n- BUILD: macos - use matrix for builds (ciscon)\r\n- New variables for rocket explosion blood color (foobar)\r\n\r\n### Bugfixes:\r\n- r_fx_geometry incorrect behavior in smaller viewsize's (krizej)\r\n- rerelease airbut1.wav f_modified (namtsui)\r\n- SDL: Default to no keyboard grab on Windows (dsvensson)\r\n- GFX: Fix fence textures on func (dsvensson)\r\n- trigger_secrets now play their sound at the proper location (krizej)\r\n- MACOS: Fix remaining issues with .app bundle (dsvensson)\r\n\r\n### Build:\r\n- BUILD: Vcpkg instead of vendored binary blobs in the repo (dsvensson)\r\n- PCRE -> PCRE2 (fzwoch)\r\n",
+    "reactions": {
+      "url": "https://api.github.com/repos/QW-Group/ezquake-source/releases/115995587/reactions",
+      "total_count": 1,
+      "+1": 1,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    }
   },
   {
     "url": "https://api.github.com/repos/QW-Group/ezquake-source/releases/96125103",
@@ -273,7 +285,7 @@
         "content_type": "application/x-ms-dos-executable",
         "state": "uploaded",
         "size": 8151040,
-        "download_count": 685,
+        "download_count": 686,
         "created_at": "2023-08-10T21:48:02Z",
         "updated_at": "2023-08-10T21:48:18Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.6.3/ezquake.exe"
@@ -633,7 +645,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 2843938,
-        "download_count": 1070,
+        "download_count": 1071,
         "created_at": "2022-10-05T22:15:12Z",
         "updated_at": "2022-10-05T22:15:15Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.6.0/rls-all.zip"
@@ -1099,7 +1111,7 @@
         "content_type": "application/x-gzip",
         "state": "uploaded",
         "size": 19076232,
-        "download_count": 3610,
+        "download_count": 3612,
         "created_at": "2021-02-09T19:59:30Z",
         "updated_at": "2021-02-09T19:59:45Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.2.3/ezquake-ubuntu-3.2.3-full.tar.gz"
