@@ -9,7 +9,6 @@
 141.105.67.104:28000
 141.105.67.104:28501
 141.105.67.104:28502
-145.239.54.184:28501
 145.239.94.156:27500
 145.239.94.156:27501
 145.239.94.156:27502
@@ -153,6 +152,7 @@ nl2.badplace.eu:28503
 nl2.badplace.eu:28504
 nl2.badplace.eu:28505
 nl2.badplace.eu:28506
+nq.karancssag.info:28501
 nq.karancssag.info:28501
 nq.karancssag.info:28502
 nq.karancssag.info:28503
