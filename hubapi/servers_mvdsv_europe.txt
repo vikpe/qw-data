@@ -109,6 +109,7 @@ alex.3cm.us:28501
 bagno.hlds.pl:28501
 clanrot.org:28501
 clanrot.org:28502
+clanrot.org:28503
 cyberdemon.co.uk:28501
 de.quake.world:27501
 de.quake.world:27502
@@ -138,6 +139,8 @@ dm6.uk:28503
 dm6.uk:28504
 dm6.uk:28505
 dm6.uk:28506
+fr.dm6.uk:28501
+fr.dm6.uk:28502
 ie.qwsrv.com:28501
 ie.qwsrv.com:28502
 isf-clan.com:27166
