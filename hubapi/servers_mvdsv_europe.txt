@@ -1,3 +1,4 @@
+10.0.0.10:28501
 128.199.52.100:28501
 128.199.52.100:28502
 128.199.52.100:28503
@@ -70,6 +71,10 @@
 45.147.98.159:28505
 45.147.98.159:28506
 5.9.82.79:27500
+51.20.98.15:28501
+51.20.98.15:28502
+51.20.98.15:28503
+51.20.98.15:28504
 51.210.10.181:28501
 79.139.57.116:27500
 80.241.209.47:28501
@@ -125,10 +130,6 @@ ie.qwsrv.com:28502
 isf-clan.com:27166
 london.alpha:28501
 london.alpha:28502
-london.badplace.eu:28501
-london.badplace.eu:28502
-london.badplace.eu:28503
-london.badplace.eu:28504
 nl.kinsky.io:28501
 nl.kinsky.io:28502
 nl.kinsky.io:28503
@@ -139,12 +140,6 @@ nl.quake.world:27503
 nl.quake.world:28501
 nl.quake.world:28502
 nl.quake.world:28503
-nl2.badplace.eu:28501
-nl2.badplace.eu:28502
-nl2.badplace.eu:28503
-nl2.badplace.eu:28504
-nl2.badplace.eu:28505
-nl2.badplace.eu:28506
 nq.karancssag.info:28501
 nq.karancssag.info:28502
 nq.karancssag.info:28503
@@ -155,6 +150,7 @@ play.quake1.pl:27500
 play.quake1.pl:27501
 play.quake1.pl:27510
 play.quake1.pl:27520
+play.qwlan.pl:28502
 pt.quake.world:28501
 quake.faked.org:27500
 quake.se:28501
