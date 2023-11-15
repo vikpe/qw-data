@@ -1,4 +1,3 @@
-10.0.0.10:28501
 128.199.52.100:28501
 128.199.52.100:28502
 128.199.52.100:28503
@@ -141,6 +140,7 @@ nl.quake.world:28501
 nl.quake.world:28502
 nl.quake.world:28503
 nq.karancssag.info:28501
+nq.karancssag.info:28501
 nq.karancssag.info:28502
 nq.karancssag.info:28503
 nq.karancssag.info:28504
@@ -150,6 +150,7 @@ play.quake1.pl:27500
 play.quake1.pl:27501
 play.quake1.pl:27510
 play.quake1.pl:27520
+play.qwlan.pl:28501
 play.qwlan.pl:28502
 pt.quake.world:28501
 quake.faked.org:27500
@@ -204,4 +205,3 @@ suntzu.cz:27500
 troopers.fi:28001
 troopers.fi:28002
 troopers.fi:28003
-tummen.se:27500

@@ -132,8 +132,6 @@ ny.quake.world:28502
 ny.quake.world:28503
 ny.quake.world:28504
 pummelator.com:28502
-pummelator.com:28503
-pummelator.com:28504
 q1.rootd00d.com:26000
 quakecon.guam:28503
 quakecon.guam:28504
