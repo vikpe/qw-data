@@ -150,8 +150,6 @@ play.quake1.pl:27500
 play.quake1.pl:27501
 play.quake1.pl:27510
 play.quake1.pl:27520
-play.qwlan.pl:28501
-play.qwlan.pl:28502
 pt.quake.world:28501
 quake.faked.org:27500
 quake.se:28501
