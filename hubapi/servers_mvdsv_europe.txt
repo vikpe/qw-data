@@ -56,6 +56,7 @@
 212.42.38.88:27502
 213.164.209.174:28501
 213.239.216.253:27500
+213.4.33.27:27500
 217.197.83.154:28501
 217.197.83.154:28502
 217.197.83.154:28503
@@ -150,7 +151,6 @@ nl.quake.world:27503
 nl.quake.world:28501
 nl.quake.world:28502
 nl.quake.world:28503
-nq.karancssag.info:28501
 nq.karancssag.info:28501
 nq.karancssag.info:28502
 nq.karancssag.info:28503
