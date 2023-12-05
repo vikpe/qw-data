@@ -39,7 +39,6 @@
 162.248.93.195:28503
 162.248.93.195:28504
 170.39.226.130:28501
-174.138.43.249:28501
 174.138.43.249:28502
 206.51.245.84:27500
 207.148.5.167:28501
@@ -116,7 +115,6 @@ dal.spawnfrag.com:28501
 dal.spawnfrag.com:28502
 dal.spawnfrag.com:28503
 dal.spawnfrag.com:28504
-dayentech.net:27500
 il.b1aze.com:28501
 io.qwsrv.com:28501
 io.qwsrv.com:28502
