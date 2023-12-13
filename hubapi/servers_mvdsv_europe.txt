@@ -178,6 +178,10 @@ quakeworld.fi:28501
 quakeworld.fi:28502
 quakeworld.fi:28503
 quakeworld.fi:28504
+quakeworld.tv:28501
+quakeworld.tv:28502
+quakeworld.tv:28503
+quakeworld.tv:28504
 qw.0f.se:28501
 qw.0f.se:28502
 qw.0f.se:28503
