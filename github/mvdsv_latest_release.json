@@ -130,7 +130,7 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 567932,
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2023-02-19T21:46:36Z",
       "updated_at": "2023-02-19T21:46:37Z",
       "browser_download_url": "https://github.com/QW-Group/mvdsv/releases/download/0.36/mvdsv_linux_armhf"
