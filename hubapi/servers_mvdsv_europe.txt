@@ -221,6 +221,7 @@ suddendeath.nu:28503
 suddendeath.nu:28504
 suddendeath.nu:28505
 suddendeath.nu:28506
+suntzu.cz:27500
 troopers.fi:28001
 troopers.fi:28002
 troopers.fi:28003
