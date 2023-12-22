@@ -206,6 +206,8 @@ qw2.ru:27500
 qw2.ru:27501
 qw2.ru:27502
 qw2.ru:27503
+qwtf.net:27500
+qwtf.net:27501
 se.imaginary.zone:28501
 se.imaginary.zone:28502
 se.imaginary.zone:28503
