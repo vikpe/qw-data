@@ -35,7 +35,6 @@
 178.164.96.147:28502
 178.164.96.147:28503
 178.164.96.147:28504
-185.237.185.123:28501
 185.73.44.100:27500
 188.166.161.185:27500
 188.166.161.185:27501
@@ -124,10 +123,6 @@ de.quake.world:28502
 de.quake.world:28503
 de.quake.world:29501
 de.quake.world:29502
-dev.courti.al:28501
-dev.courti.al:28502
-dev.courti.al:28503
-dev.courti.al:28504
 dk.quake.world:27501
 dk.quake.world:27502
 dk.quake.world:27503
