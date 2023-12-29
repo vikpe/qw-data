@@ -145,6 +145,8 @@ dm6.uk:28503
 dm6.uk:28504
 dm6.uk:28505
 dm6.uk:28506
+fotbo.pl:28501
+fotbo.pl:28502
 fr.dm6.uk:28501
 fr.dm6.uk:28502
 ie.qwsrv.com:28501
