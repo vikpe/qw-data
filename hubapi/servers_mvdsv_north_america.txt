@@ -104,6 +104,7 @@
 74.91.120.206:28502
 98.144.80.46:27500
 99.72.255.45:28501
+99.72.255.45:28502
 99.72.255.45:28503
 99.72.255.45:28504
 99.72.255.45:28505
@@ -128,6 +129,7 @@ ny.quake.world:28501
 ny.quake.world:28502
 ny.quake.world:28503
 ny.quake.world:28504
+paladin.sublevels.net:27500
 pummelator.com:28502
 q1.rootd00d.com:26000
 quakecon.guam:28503
