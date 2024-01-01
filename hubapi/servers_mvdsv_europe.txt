@@ -207,7 +207,6 @@ qw.0f.se:28507
 qw.0f.se:28508
 qw.0f.se:28509
 qw.0f.se:28510
-qw.fnu.nu:28501
 qw.kirril.com:28501
 qw.kirril.com:28502
 qw.kirril.com:28503
