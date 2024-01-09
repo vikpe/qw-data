@@ -175,7 +175,6 @@ quake.se:28501
 quake.se:28502
 quake.se:28503
 quake.se:28504
-quake.se:28505
 quake.se:28506
 quake.se:28507
 quake.se:28508
@@ -228,3 +227,4 @@ suntzu.cz:27500
 troopers.fi:28001
 troopers.fi:28002
 troopers.fi:28003
+tummen.se:27500
