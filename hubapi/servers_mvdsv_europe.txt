@@ -35,7 +35,6 @@
 178.164.96.147:28502
 178.164.96.147:28503
 178.164.96.147:28504
-185.73.44.100:27500
 185.90.61.167:28501
 185.90.61.167:28502
 188.166.161.185:27500
@@ -128,12 +127,6 @@ dk.quake.world:28502
 dk.quake.world:28503
 dk.quake.world:28504
 dk.quake.world:28505
-dm6.uk:28501
-dm6.uk:28502
-dm6.uk:28503
-dm6.uk:28504
-dm6.uk:28505
-dm6.uk:28506
 fotbo.pl:28501
 fotbo.pl:28502
 fr.dm6.uk:28501
@@ -153,6 +146,7 @@ nl.quake.world:27503
 nl.quake.world:28501
 nl.quake.world:28502
 nl.quake.world:28503
+nq.karancssag.info:28501
 nq.karancssag.info:28501
 nq.karancssag.info:28502
 nq.karancssag.info:28503
@@ -192,9 +186,6 @@ qw.0f.se:28507
 qw.0f.se:28508
 qw.0f.se:28509
 qw.0f.se:28510
-qw.kirril.com:28501
-qw.kirril.com:28502
-qw.kirril.com:28503
 qw2.ru:27500
 qw2.ru:27501
 qw2.ru:27502
