@@ -68,6 +68,8 @@
 37.201.131.70:28501
 37.221.215.47:28501
 37.221.215.47:28502
+45.132.235.200:28501
+45.132.235.200:28502
 45.142.244.163:28501
 45.147.98.159:28501
 45.147.98.159:28502
@@ -149,7 +151,6 @@ nl.quake.world:28501
 nl.quake.world:28502
 nl.quake.world:28503
 nq.karancssag.info:28501
-nq.karancssag.info:28501
 nq.karancssag.info:28502
 nq.karancssag.info:28503
 nq.karancssag.info:28504
@@ -196,6 +197,7 @@ qw2.ru:27501
 qw2.ru:27502
 qw2.ru:27503
 qwtf.net:27500
+qwtf.net:27501
 se.imaginary.zone:28501
 se.imaginary.zone:28502
 se.imaginary.zone:28503
