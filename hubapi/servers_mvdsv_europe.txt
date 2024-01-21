@@ -96,6 +96,7 @@
 95.216.8.8:28502
 95.216.8.8:28503
 95.216.8.8:28504
+95.93.57.62:27500
 aerowalk.pl:27500
 aerowalk.pl:27501
 aerowalk.pl:27502
@@ -133,6 +134,10 @@ dk2.quake.world:28502
 dk2.quake.world:28503
 dk2.quake.world:28504
 dk2.quake.world:28505
+dm6.uk:28501
+dm6.uk:28502
+dm6.uk:28503
+dm6.uk:28504
 fotbo.pl:28501
 fotbo.pl:28502
 fr.dm6.uk:28501
