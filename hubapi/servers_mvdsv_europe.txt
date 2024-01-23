@@ -34,6 +34,7 @@
 178.164.96.147:28502
 178.164.96.147:28503
 178.164.96.147:28504
+185.73.44.100:27500
 188.166.161.185:27500
 188.166.161.185:27501
 188.166.161.185:27502
@@ -132,6 +133,12 @@ dk2.quake.world:28502
 dk2.quake.world:28503
 dk2.quake.world:28504
 dk2.quake.world:28505
+dm6.uk:28501
+dm6.uk:28502
+dm6.uk:28503
+dm6.uk:28504
+dm6.uk:28505
+dm6.uk:28506
 fr.dm6.uk:28501
 fr.dm6.uk:28502
 ie.qwsrv.com:28501
@@ -145,6 +152,7 @@ nl.quake.world:27501
 nl.quake.world:27502
 nl.quake.world:27503
 nl.quake.world:28501
+nl.quake.world:28502
 nl.quake.world:28503
 nq.karancssag.info:28501
 nq.karancssag.info:28502
