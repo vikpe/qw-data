@@ -77,7 +77,6 @@
 45.147.98.159:28505
 45.147.98.159:28506
 5.150.200.139:28501
-5.9.82.79:27500
 51.210.10.181:28501
 79.139.57.116:27500
 80.241.209.47:28501
@@ -96,6 +95,7 @@
 95.216.8.8:28502
 95.216.8.8:28503
 95.216.8.8:28504
+95.93.57.62:27500
 aerowalk.pl:27500
 aerowalk.pl:27501
 aerowalk.pl:27502
@@ -154,6 +154,7 @@ nl.quake.world:27503
 nl.quake.world:28501
 nl.quake.world:28502
 nl.quake.world:28503
+nq.karancssag.info:28501
 nq.karancssag.info:28501
 nq.karancssag.info:28502
 nq.karancssag.info:28503
