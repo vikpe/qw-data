@@ -95,7 +95,6 @@
 95.216.8.8:28502
 95.216.8.8:28503
 95.216.8.8:28504
-95.93.57.62:27500
 aerowalk.pl:27500
 aerowalk.pl:27501
 aerowalk.pl:27502
@@ -201,6 +200,7 @@ qw2.ru:27500
 qw2.ru:27501
 qw2.ru:27502
 qw2.ru:27503
+qwtf.net:27500
 se.imaginary.zone:28501
 se.imaginary.zone:28502
 se.imaginary.zone:28503
