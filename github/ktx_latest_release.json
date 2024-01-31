@@ -198,7 +198,7 @@
       "content_type": "application/x-msdos-program",
       "state": "uploaded",
       "size": 1756898,
-      "download_count": 58,
+      "download_count": 59,
       "created_at": "2022-10-31T23:54:17Z",
       "updated_at": "2022-10-31T23:54:18Z",
       "browser_download_url": "https://github.com/QW-Group/ktx/releases/download/v1.42/qwprogs_windows_x64.dll"
@@ -240,5 +240,17 @@
   ],
   "tarball_url": "https://api.github.com/repos/QW-Group/ktx/tarball/v1.42",
   "zipball_url": "https://api.github.com/repos/QW-Group/ktx/zipball/v1.42",
-  "body": "## KTX 1.42 Release Notes\r\n\r\n### Clan Arena / Wipeout (thanks Dusty!)\r\n- send more game info to client\r\n- various updates for client changes\r\n- ix incorrect death type reporting\r\n- allow fire in prewar if /ready\r\n- fix last alive sound playing when dead\r\n- drop GL when out of ammo\r\n\r\n### Changes\r\n- /status command renamed to /status1 (so ezquake's own \"status\" command doesn't hide it anymore)\r\n- fraglimit in teamplay modes can be reached by the total team score \r\n- Endgame stats reverted to the original style (pre KTX v1.41)\r\n- New command: /laststats. This show the table-based Endgame statistics (the KTX v1.41 style)\r\nNote: to automatically trigger the table-based statistics, you need to set the following in your ezquake config:\r\nalias on_matchend \"laststats\"\r\nalias infoset \"cmd info ev 8\"\r\n\r\n\r\n### Improvements\r\n- Endgame Stats: Quadruns in the Top Performer section omitted if it is 0\r\n- Endgame Stats: Added % after effi in TopPerformers and removed lines with 0\r\n- Endgame Stats: Added Damage per Weapon stat table\r\n\r\n\r\n### Bugfixes\r\n- \"maxstreak\" is wrong on midair mode endgame stats\r\n- Corrected Armor times in detailed Endgame stats\r\n- /rpickup handles XonXonX game modes\r\n- demo name prefix corrected for XonXonX game modes"
+  "body": "## KTX 1.42 Release Notes\r\n\r\n### Clan Arena / Wipeout (thanks Dusty!)\r\n- send more game info to client\r\n- various updates for client changes\r\n- ix incorrect death type reporting\r\n- allow fire in prewar if /ready\r\n- fix last alive sound playing when dead\r\n- drop GL when out of ammo\r\n\r\n### Changes\r\n- /status command renamed to /status1 (so ezquake's own \"status\" command doesn't hide it anymore)\r\n- fraglimit in teamplay modes can be reached by the total team score \r\n- Endgame stats reverted to the original style (pre KTX v1.41)\r\n- New command: /laststats. This show the table-based Endgame statistics (the KTX v1.41 style)\r\nNote: to automatically trigger the table-based statistics, you need to set the following in your ezquake config:\r\nalias on_matchend \"laststats\"\r\nalias infoset \"cmd info ev 8\"\r\n\r\n\r\n### Improvements\r\n- Endgame Stats: Quadruns in the Top Performer section omitted if it is 0\r\n- Endgame Stats: Added % after effi in TopPerformers and removed lines with 0\r\n- Endgame Stats: Added Damage per Weapon stat table\r\n\r\n\r\n### Bugfixes\r\n- \"maxstreak\" is wrong on midair mode endgame stats\r\n- Corrected Armor times in detailed Endgame stats\r\n- /rpickup handles XonXonX game modes\r\n- demo name prefix corrected for XonXonX game modes",
+  "reactions": {
+    "url": "https://api.github.com/repos/QW-Group/ktx/releases/76324845/reactions",
+    "total_count": 1,
+    "+1": 1,
+    "-1": 0,
+    "laugh": 0,
+    "hooray": 0,
+    "confused": 0,
+    "heart": 0,
+    "rocket": 0,
+    "eyes": 0
+  }
 }
