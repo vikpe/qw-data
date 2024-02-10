@@ -83,6 +83,7 @@
 79.139.57.116:27500
 80.241.209.47:28501
 85.227.200.13:27500
+89.207.221.209:27500
 91.206.14.17:27500
 91.206.14.17:27501
 91.206.14.17:27502
@@ -102,7 +103,6 @@ aerowalk.pl:27501
 aerowalk.pl:27502
 aerowalk.pl:27503
 alex.3cm.us:28501
-bagno.hlds.pl:28501
 clanrot.org:28501
 clanrot.org:28502
 clanrot.org:28503
@@ -155,6 +155,7 @@ nl.quake.world:27503
 nl.quake.world:28501
 nl.quake.world:28502
 nl.quake.world:28503
+nq.karancssag.info:28501
 nq.karancssag.info:28501
 nq.karancssag.info:28502
 nq.karancssag.info:28503
