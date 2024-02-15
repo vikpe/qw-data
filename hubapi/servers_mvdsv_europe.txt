@@ -102,6 +102,7 @@ aerowalk.pl:27501
 aerowalk.pl:27502
 aerowalk.pl:27503
 alex.3cm.us:28501
+bagno.hlds.pl:28501
 clanrot.org:28501
 clanrot.org:28502
 clanrot.org:28503
@@ -202,6 +203,7 @@ qw2.ru:27502
 qw2.ru:27503
 qwtf.net:27500
 qwtf.net:27500
+qwtf.net:27501
 qwtf.net:27501
 se.imaginary.zone:28501
 se.imaginary.zone:28502
