@@ -103,6 +103,9 @@ aerowalk.pl:27502
 aerowalk.pl:27503
 alex.3cm.us:28501
 bagno.hlds.pl:28501
+clanrot.org:28501
+clanrot.org:28502
+clanrot.org:28503
 cyberdemon.co.uk:28501
 de.quake.world:27501
 de.quake.world:27502
@@ -153,6 +156,7 @@ nl.quake.world:28501
 nl.quake.world:28502
 nl.quake.world:28503
 nq.karancssag.info:28501
+nq.karancssag.info:28501
 nq.karancssag.info:28502
 nq.karancssag.info:28503
 nq.karancssag.info:28504
@@ -199,8 +203,6 @@ qw2.ru:27501
 qw2.ru:27502
 qw2.ru:27503
 qwtf.net:27500
-qwtf.net:27500
-qwtf.net:27501
 se.imaginary.zone:28501
 se.imaginary.zone:28502
 se.imaginary.zone:28503
