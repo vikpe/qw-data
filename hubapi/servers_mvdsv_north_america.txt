@@ -1,4 +1,3 @@
-103.151.65.11:28501
 103.151.65.11:28502
 103.72.77.220:28501
 103.72.77.220:28502
@@ -131,8 +130,6 @@ ny.quake.world:28503
 ny.quake.world:28504
 paladin.sublevels.net:27500
 pummelator.com:28502
-quakecon.guam:28503
-quakecon.guam:28504
 shkn.ws:28501
 shkn.ws:28502
 shkn.ws:28503
