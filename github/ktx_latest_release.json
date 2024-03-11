@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/QW-Group/ktx/releases/76324845",
-  "assets_url": "https://api.github.com/repos/QW-Group/ktx/releases/76324845/assets",
-  "upload_url": "https://uploads.github.com/repos/QW-Group/ktx/releases/76324845/assets{?name,label}",
-  "html_url": "https://github.com/QW-Group/ktx/releases/tag/v1.42",
-  "id": 76324845,
+  "url": "https://api.github.com/repos/QW-Group/ktx/releases/86061056",
+  "assets_url": "https://api.github.com/repos/QW-Group/ktx/releases/86061056/assets",
+  "upload_url": "https://uploads.github.com/repos/QW-Group/ktx/releases/86061056/assets{?name,label}",
+  "html_url": "https://github.com/QW-Group/ktx/releases/tag/v1.43",
+  "id": 86061056,
   "author": {
     "login": "tcsabina",
     "id": 17887592,
@@ -24,19 +24,19 @@
     "type": "User",
     "site_admin": false
   },
-  "node_id": "RE_kwDOAUCB5s4EjJ_t",
-  "tag_name": "v1.42",
+  "node_id": "RE_kwDOAUCB5s4FITAA",
+  "tag_name": "v1.43",
   "target_commitish": "master",
-  "name": "1.42",
+  "name": "1.43",
   "draft": false,
   "prerelease": false,
-  "created_at": "2022-10-31T23:44:48Z",
-  "published_at": "2022-10-31T23:47:11Z",
+  "created_at": "2024-03-10T07:30:18Z",
+  "published_at": "2024-03-10T07:38:15Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/QW-Group/ktx/releases/assets/82973490",
-      "id": 82973490,
-      "node_id": "RA_kwDOAUCB5s4E8hMy",
+      "url": "https://api.github.com/repos/QW-Group/ktx/releases/assets/155883204",
+      "id": 155883204,
+      "node_id": "RA_kwDOAUCB5s4JSpbE",
       "name": "qwprogs_linux_aarch64.so",
       "label": null,
       "uploader": {
@@ -61,16 +61,16 @@
       },
       "content_type": "application/octet-stream",
       "state": "uploaded",
-      "size": 1285232,
-      "download_count": 6,
-      "created_at": "2022-10-31T23:54:06Z",
-      "updated_at": "2022-10-31T23:54:14Z",
-      "browser_download_url": "https://github.com/QW-Group/ktx/releases/download/v1.42/qwprogs_linux_aarch64.so"
+      "size": 1451984,
+      "download_count": 0,
+      "created_at": "2024-03-10T07:48:53Z",
+      "updated_at": "2024-03-10T07:49:01Z",
+      "browser_download_url": "https://github.com/QW-Group/ktx/releases/download/v1.43/qwprogs_linux_aarch64.so"
     },
     {
-      "url": "https://api.github.com/repos/QW-Group/ktx/releases/assets/82973513",
-      "id": 82973513,
-      "node_id": "RA_kwDOAUCB5s4E8hNJ",
+      "url": "https://api.github.com/repos/QW-Group/ktx/releases/assets/155883220",
+      "id": 155883220,
+      "node_id": "RA_kwDOAUCB5s4JSpbU",
       "name": "qwprogs_linux_amd64.so",
       "label": null,
       "uploader": {
@@ -95,16 +95,16 @@
       },
       "content_type": "application/octet-stream",
       "state": "uploaded",
-      "size": 1495360,
-      "download_count": 33,
-      "created_at": "2022-10-31T23:54:14Z",
-      "updated_at": "2022-10-31T23:54:15Z",
-      "browser_download_url": "https://github.com/QW-Group/ktx/releases/download/v1.42/qwprogs_linux_amd64.so"
+      "size": 1474808,
+      "download_count": 0,
+      "created_at": "2024-03-10T07:49:01Z",
+      "updated_at": "2024-03-10T07:49:02Z",
+      "browser_download_url": "https://github.com/QW-Group/ktx/releases/download/v1.43/qwprogs_linux_amd64.so"
     },
     {
-      "url": "https://api.github.com/repos/QW-Group/ktx/releases/assets/82973516",
-      "id": 82973516,
-      "node_id": "RA_kwDOAUCB5s4E8hNM",
+      "url": "https://api.github.com/repos/QW-Group/ktx/releases/assets/155883222",
+      "id": 155883222,
+      "node_id": "RA_kwDOAUCB5s4JSpbW",
       "name": "qwprogs_linux_armhf.so",
       "label": null,
       "uploader": {
@@ -129,16 +129,16 @@
       },
       "content_type": "application/octet-stream",
       "state": "uploaded",
-      "size": 1188928,
-      "download_count": 3,
-      "created_at": "2022-10-31T23:54:15Z",
-      "updated_at": "2022-10-31T23:54:16Z",
-      "browser_download_url": "https://github.com/QW-Group/ktx/releases/download/v1.42/qwprogs_linux_armhf.so"
+      "size": 1182196,
+      "download_count": 0,
+      "created_at": "2024-03-10T07:49:02Z",
+      "updated_at": "2024-03-10T07:49:03Z",
+      "browser_download_url": "https://github.com/QW-Group/ktx/releases/download/v1.43/qwprogs_linux_armhf.so"
     },
     {
-      "url": "https://api.github.com/repos/QW-Group/ktx/releases/assets/82973519",
-      "id": 82973519,
-      "node_id": "RA_kwDOAUCB5s4E8hNP",
+      "url": "https://api.github.com/repos/QW-Group/ktx/releases/assets/155883229",
+      "id": 155883229,
+      "node_id": "RA_kwDOAUCB5s4JSpbd",
       "name": "qwprogs_linux_i686.so",
       "label": null,
       "uploader": {
@@ -163,16 +163,16 @@
       },
       "content_type": "application/octet-stream",
       "state": "uploaded",
-      "size": 1721964,
-      "download_count": 6,
-      "created_at": "2022-10-31T23:54:16Z",
-      "updated_at": "2022-10-31T23:54:17Z",
-      "browser_download_url": "https://github.com/QW-Group/ktx/releases/download/v1.42/qwprogs_linux_i686.so"
+      "size": 1697752,
+      "download_count": 0,
+      "created_at": "2024-03-10T07:49:03Z",
+      "updated_at": "2024-03-10T07:49:03Z",
+      "browser_download_url": "https://github.com/QW-Group/ktx/releases/download/v1.43/qwprogs_linux_i686.so"
     },
     {
-      "url": "https://api.github.com/repos/QW-Group/ktx/releases/assets/82973524",
-      "id": 82973524,
-      "node_id": "RA_kwDOAUCB5s4E8hNU",
+      "url": "https://api.github.com/repos/QW-Group/ktx/releases/assets/155883230",
+      "id": 155883230,
+      "node_id": "RA_kwDOAUCB5s4JSpbe",
       "name": "qwprogs_windows_x64.dll",
       "label": null,
       "uploader": {
@@ -197,16 +197,16 @@
       },
       "content_type": "application/x-msdos-program",
       "state": "uploaded",
-      "size": 1756898,
-      "download_count": 65,
-      "created_at": "2022-10-31T23:54:17Z",
-      "updated_at": "2022-10-31T23:54:18Z",
-      "browser_download_url": "https://github.com/QW-Group/ktx/releases/download/v1.42/qwprogs_windows_x64.dll"
+      "size": 2018664,
+      "download_count": 1,
+      "created_at": "2024-03-10T07:49:03Z",
+      "updated_at": "2024-03-10T07:49:04Z",
+      "browser_download_url": "https://github.com/QW-Group/ktx/releases/download/v1.43/qwprogs_windows_x64.dll"
     },
     {
-      "url": "https://api.github.com/repos/QW-Group/ktx/releases/assets/82973528",
-      "id": 82973528,
-      "node_id": "RA_kwDOAUCB5s4E8hNY",
+      "url": "https://api.github.com/repos/QW-Group/ktx/releases/assets/155883231",
+      "id": 155883231,
+      "node_id": "RA_kwDOAUCB5s4JSpbf",
       "name": "qwprogs_windows_x86.dll",
       "label": null,
       "uploader": {
@@ -231,26 +231,14 @@
       },
       "content_type": "application/x-msdos-program",
       "state": "uploaded",
-      "size": 1695535,
-      "download_count": 13,
-      "created_at": "2022-10-31T23:54:18Z",
-      "updated_at": "2022-10-31T23:54:19Z",
-      "browser_download_url": "https://github.com/QW-Group/ktx/releases/download/v1.42/qwprogs_windows_x86.dll"
+      "size": 2069010,
+      "download_count": 1,
+      "created_at": "2024-03-10T07:49:04Z",
+      "updated_at": "2024-03-10T07:49:04Z",
+      "browser_download_url": "https://github.com/QW-Group/ktx/releases/download/v1.43/qwprogs_windows_x86.dll"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/QW-Group/ktx/tarball/v1.42",
-  "zipball_url": "https://api.github.com/repos/QW-Group/ktx/zipball/v1.42",
-  "body": "## KTX 1.42 Release Notes\r\n\r\n### Clan Arena / Wipeout (thanks Dusty!)\r\n- send more game info to client\r\n- various updates for client changes\r\n- ix incorrect death type reporting\r\n- allow fire in prewar if /ready\r\n- fix last alive sound playing when dead\r\n- drop GL when out of ammo\r\n\r\n### Changes\r\n- /status command renamed to /status1 (so ezquake's own \"status\" command doesn't hide it anymore)\r\n- fraglimit in teamplay modes can be reached by the total team score \r\n- Endgame stats reverted to the original style (pre KTX v1.41)\r\n- New command: /laststats. This show the table-based Endgame statistics (the KTX v1.41 style)\r\nNote: to automatically trigger the table-based statistics, you need to set the following in your ezquake config:\r\nalias on_matchend \"laststats\"\r\nalias infoset \"cmd info ev 8\"\r\n\r\n\r\n### Improvements\r\n- Endgame Stats: Quadruns in the Top Performer section omitted if it is 0\r\n- Endgame Stats: Added % after effi in TopPerformers and removed lines with 0\r\n- Endgame Stats: Added Damage per Weapon stat table\r\n\r\n\r\n### Bugfixes\r\n- \"maxstreak\" is wrong on midair mode endgame stats\r\n- Corrected Armor times in detailed Endgame stats\r\n- /rpickup handles XonXonX game modes\r\n- demo name prefix corrected for XonXonX game modes",
-  "reactions": {
-    "url": "https://api.github.com/repos/QW-Group/ktx/releases/76324845/reactions",
-    "total_count": 1,
-    "+1": 1,
-    "-1": 0,
-    "laugh": 0,
-    "hooray": 0,
-    "confused": 0,
-    "heart": 0,
-    "rocket": 0,
-    "eyes": 0
-  }
+  "tarball_url": "https://api.github.com/repos/QW-Group/ktx/tarball/v1.43",
+  "zipball_url": "https://api.github.com/repos/QW-Group/ktx/zipball/v1.43",
+  "body": "## KTX 1.43 Release Notes\r\n\r\n### Changes\r\n- there is \"OT\" added to lastscores entry if it was OverTIme\r\n\r\n### Improvements\r\n- Added ztricks2 route (us3)\r\n- Allow monsters based on spawnflag (dsvensson)\r\n- Additional ents (dsvensson)\r\n- Send spectator info to clients (dusty)\r\n- Added crhook hook style (SpookyScaryDev)\r\n- RACE: added e1m2 route (julienbelmon/vvd)\r\n- WIPEOUT: notify in centerprint when only two players remain (dusty)\r\n- WIPEOUT: earn an extra life for surviving a wipeout by 0.3 seconds or less (dusty)\r\n-  race: commands to change and vote countdown (julienbelmon/vvd)\r\n- Remove non-solid func_bob entities (dsvensson)\r\n- Stats: endgame stats has now a \"direct_hit/fired\" stat for RL/LG/SG (frehall)\r\n\r\n\r\n### Documentation\r\n- update description of k_noframechecks to correctly define what 0/1 mean\r\n\r\n### Bugfixes\r\n- WIPEOUT: fixed a couple of bugs that wouldn't let you change teams without reconnect (dusty)\r\n- WIPEOUT: Fixed a bug that causes dead players to take damage in certain situations (dusty)\r\n- WIPEOUT: Spawning players cannot be bounced by rockets/grenades (dusty)\r\n- WIPEOUT: Tell the client who dead players are tracking (for better demo playback) (dusty)\r\n\r\n\r\n### CTF: CRHook fixes & Improvements (thanks inf1niti!)\r\n- add `k_ctf_hookstyle` cvar for votable hook options: smooth (default), fast, classic (see below for details)\r\n- remove annoying looped grapple sounds for simpler axe swish(throw) and axe hit (anchor) sounds\r\n- improve balance of haste-hook implementation, make grapple speed a factor of haste power\r\n- move rune sounds to a more appropriate channel (jump no longer cancels sounds)\r\n- decouple hook delay from weapon switch/fire (delay subsequent hooks, not RL/LG/ETC)\r\n- fix chain clear bug, improve hook animation smoothness\r\nNote: you need to update your server config! replace k_ctf_cr_hook with k_ctf_hookstyle\r\n- add `k_ctf_rune_bounce` [1,2,3] cvar for toggling bouncing runes (see below for details)\r\n\r\n\r\n------------------------------------------------------------------------------------------------------------------------\r\n## `k_ctf_hookstyle`\r\nThis lets players decide between three styles of grappling hook.\r\n\r\n### `k_ctf_hookstyle 1`: smooth hook (default) \r\n_votable with `hook_smooth`, 51% player vote threshold required_\r\n\r\nThe smooth hook implements some new features to help balance CTF gameplay  \r\n  * throw speed has been reduced from cr_hook (1200 -> 1050), while still being faster than the classic hook (800)  \r\n  * player acceleration from the hook pull runs through an easing function, giving the hook an overall \"smoother\" feel\r\n  * implements a fire delay, limiting \"hook spam\" approach, encouraging more common movement mechanics (bhop)\r\n  * the hook throw is cancelable, after a short delay\r\n  * adds \"cancel time\" of 0.5s to initial throw (no spam)\r\n  * adds linear accel/decel to hook velocity changes (no immediate speed change)\r\n  * adds fire delay to repeated grappled (no spam)\r\n  * reduce grapple velocity from 1200 to 1050\r\n  \r\n### `k_ctf_hookstyle 2`: fast hook\r\n_votable with `hook_fast`, 51% player vote threshold required_\r\n\r\nthe fast hook is closest to the existing cr_hook implementation, but the speed has been reduced based on community feedback\r\n  * uses the same speed settings as smooth hook \r\n  * no hook pull acceleration/easing, or fire delay\r\n  * the hook throw is immediately cancelable\r\n  * reduce grapple velocity from 1200 to 1050\r\n  \r\n### `k_ctf_hookstyle 3`: **classic hook** \r\n_votable with `hook_classic`, 51% player vote threshold required_\r\n\r\nthe classic hook uses the original 3wave settings\r\n  * hook throw speed is slower (800)\r\n  * no hook pull acceleration/easing, or fire delay\r\n  * a hook throw cannot be canceled until the grapple hits a surface\r\n\r\n------------------------------------------------------------------------------------------------------------------------\r\n## `k_ctf_rune_bounce`\r\nThis functionality is carried over from PureCTF Pro.\r\ncvar works as follows:\r\n\r\n1 = bouncing droprune (spawn).\r\n2 = bouncing tossrune.\r\n3 = both enabled.\r\n\r\n------------------------------------------------------------------------------------------------------------------------\r\n"
 }
