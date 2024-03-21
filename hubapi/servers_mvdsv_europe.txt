@@ -43,10 +43,6 @@
 193.227.134.114:27501
 193.227.134.114:27502
 193.227.134.114:27503
-194.102.175.79:28501
-194.102.175.79:28502
-194.102.175.79:28503
-194.102.175.79:28504
 194.38.96.52:27500
 194.38.96.52:28501
 194.38.96.52:28502
@@ -125,6 +121,10 @@ de.quake.world:28502
 de.quake.world:28503
 de.quake.world:29501
 de.quake.world:29502
+dk.quake.world:28501
+dk.quake.world:28502
+dk.quake.world:28503
+dk.quake.world:28504
 dk2.quake.world:28501
 dk2.quake.world:28502
 dk2.quake.world:28503
@@ -151,7 +151,6 @@ nl.quake.world:27503
 nl.quake.world:28501
 nl.quake.world:28502
 nl.quake.world:28503
-nq.karancssag.info:28501
 nq.karancssag.info:28501
 nq.karancssag.info:28502
 nq.karancssag.info:28503
