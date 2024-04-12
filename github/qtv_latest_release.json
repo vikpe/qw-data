@@ -240,5 +240,6 @@
   ],
   "tarball_url": "https://api.github.com/repos/QW-Group/qtv/tarball/1.14",
   "zipball_url": "https://api.github.com/repos/QW-Group/qtv/zipball/1.14",
-  "body": "## QTV 1.14 Release Notes\r\n- Allow requesting a list of demo filenames in plain text instead of html with `http://<qtv-server>/demo_filenames` (thanks vikpe)"
+  "body": "## QTV 1.14 Release Notes\r\n- Added endpoint for listing demo filenames in plain text (`http://<qtv-server>/demo_filenames`) (@vikpe)",
+  "mentions_count": 1
 }

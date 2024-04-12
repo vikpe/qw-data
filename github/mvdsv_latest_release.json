@@ -277,11 +277,11 @@
   "body": "### Improvements\r\n- Reduce memory during loadmap (dsvensson)\r\n- Enable pm_bunnyspeedcap cvar ([ceeeKay](https://github.com/ceeeKay))\r\n- DOWNLOAD: bump download speed (qqshka)\r\n- DEMO: add epoch time to fullserverinfo (ciscon)\r\n\r\n### Bugfixes\r\n- laststats connectionless command responds with invalid json (vikpe)",
   "reactions": {
     "url": "https://api.github.com/repos/QW-Group/mvdsv/releases/92964013/reactions",
-    "total_count": 1,
+    "total_count": 2,
     "+1": 0,
     "-1": 0,
     "laugh": 0,
-    "hooray": 1,
+    "hooray": 2,
     "confused": 0,
     "heart": 0,
     "rocket": 0,
