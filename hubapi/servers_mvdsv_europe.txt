@@ -96,6 +96,7 @@ aerowalk.pl:27500
 aerowalk.pl:27501
 aerowalk.pl:27502
 aerowalk.pl:27503
+alex.3cm.us:28501
 bagno.hlds.pl:28501
 clanrot.org:28501
 clanrot.org:28502
@@ -113,7 +114,6 @@ de.quake.world:28502
 de.quake.world:28503
 de.quake.world:29501
 de.quake.world:29502
-dk.quake.world:27501
 dk.quake.world:27502
 dk.quake.world:28501
 dk.quake.world:28502
@@ -145,6 +145,7 @@ nl.quake.world:27503
 nl.quake.world:28501
 nl.quake.world:28502
 nl.quake.world:28503
+nq.karancssag.info:28501
 nq.karancssag.info:28501
 nq.karancssag.info:28502
 nq.karancssag.info:28503
