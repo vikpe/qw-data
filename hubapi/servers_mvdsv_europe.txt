@@ -70,10 +70,7 @@
 37.221.215.47:28502
 5.150.200.139:2510
 51.210.10.181:28501
-70.34.206.203:28501
-70.34.206.203:28502
 70.34.206.203:28503
-70.34.206.203:28504
 79.139.57.116:27500
 80.241.209.47:28501
 85.227.200.13:27500
@@ -114,7 +111,6 @@ de.quake.world:28502
 de.quake.world:28503
 de.quake.world:29501
 de.quake.world:29502
-dk.quake.world:27501
 dk.quake.world:27502
 dk.quake.world:28501
 dk.quake.world:28502
@@ -194,6 +190,9 @@ qw2.ru:27500
 qw2.ru:27501
 qw2.ru:27502
 qw2.ru:27503
+qwctf.se:28501
+qwctf.se:28502
+qwctf.se:28504
 qwtf.net:27500
 se.imaginary.zone:28501
 se.imaginary.zone:28502
