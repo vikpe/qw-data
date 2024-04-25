@@ -232,7 +232,7 @@
       "content_type": "application/x-ms-dos-executable",
       "state": "uploaded",
       "size": 1481623,
-      "download_count": 22,
+      "download_count": 23,
       "created_at": "2024-03-10T08:23:11Z",
       "updated_at": "2024-03-10T08:23:12Z",
       "browser_download_url": "https://github.com/QW-Group/mvdsv/releases/download/v1.00/mvdsv_windows_x64.exe"
@@ -266,7 +266,7 @@
       "content_type": "application/x-ms-dos-executable",
       "state": "uploaded",
       "size": 1437570,
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2024-03-10T08:23:12Z",
       "updated_at": "2024-03-10T08:23:13Z",
       "browser_download_url": "https://github.com/QW-Group/mvdsv/releases/download/v1.00/mvdsv_windows_x86.exe"
@@ -277,11 +277,11 @@
   "body": "### Improvements\r\n- Reduce memory during loadmap (dsvensson)\r\n- Enable pm_bunnyspeedcap cvar ([ceeeKay](https://github.com/ceeeKay))\r\n- DOWNLOAD: bump download speed (qqshka)\r\n- DEMO: add epoch time to fullserverinfo (ciscon)\r\n\r\n### Bugfixes\r\n- laststats connectionless command responds with invalid json (vikpe)",
   "reactions": {
     "url": "https://api.github.com/repos/QW-Group/mvdsv/releases/92964013/reactions",
-    "total_count": 2,
+    "total_count": 3,
     "+1": 0,
     "-1": 0,
     "laugh": 0,
-    "hooray": 2,
+    "hooray": 3,
     "confused": 0,
     "heart": 0,
     "rocket": 0,
