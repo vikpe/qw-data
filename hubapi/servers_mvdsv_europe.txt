@@ -197,7 +197,6 @@ qwtf.net:27500
 se.imaginary.zone:28501
 se.imaginary.zone:28502
 se.imaginary.zone:28503
-se.imaginary.zone:28504
 se.imaginary.zone:29501
 stacja-ateizm.pl:28501
 stacja-ateizm.pl:28502
