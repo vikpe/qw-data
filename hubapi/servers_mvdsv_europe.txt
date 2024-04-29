@@ -74,6 +74,7 @@
 79.139.57.116:27500
 80.241.209.47:28501
 85.227.200.13:27500
+86.157.16.79:27500
 91.152.15.241:27500
 91.206.14.17:27500
 91.206.14.17:27501
@@ -188,12 +189,12 @@ qw.kirril.com:28501
 qw.kirril.com:28502
 qw.kirril.com:28503
 qw2.ru:27500
+qw2.ru:27501
 qw2.ru:27502
 qw2.ru:27503
 qwctf.se:28501
 qwctf.se:28502
 qwctf.se:28504
-qwtf.net:27500
 se.imaginary.zone:28501
 se.imaginary.zone:28502
 se.imaginary.zone:28503
