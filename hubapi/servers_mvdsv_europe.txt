@@ -99,7 +99,6 @@ aerowalk.pl:27500
 aerowalk.pl:27501
 aerowalk.pl:27502
 aerowalk.pl:27503
-alex.3cm.us:28501
 bagno.hlds.pl:28501
 clanrot.org:28501
 clanrot.org:28502
