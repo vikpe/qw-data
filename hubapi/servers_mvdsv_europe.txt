@@ -113,7 +113,6 @@ aerowalk.pl:27500
 aerowalk.pl:27501
 aerowalk.pl:27502
 aerowalk.pl:27503
-bagno.hlds.pl:28501
 clanrot.org:28501
 clanrot.org:28502
 clanrot.org:28503
@@ -207,6 +206,7 @@ qw.kirril.com:28501
 qw.kirril.com:28502
 qw.kirril.com:28503
 qw2.ru:27500
+qw2.ru:27501
 qw2.ru:27502
 qw2.ru:27503
 qwctf.se:28501
