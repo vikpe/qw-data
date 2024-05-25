@@ -207,7 +207,6 @@ qw.kirril.com:28502
 qw.kirril.com:28503
 qw2.ru:27500
 qw2.ru:27501
-qw2.ru:27502
 qw2.ru:27503
 qwctf.se:28501
 qwctf.se:28502
