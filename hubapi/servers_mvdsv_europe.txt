@@ -229,4 +229,3 @@ suddendeath.nu:28506
 troopers.fi:28001
 troopers.fi:28002
 troopers.fi:28003
-tummen.se:27500
