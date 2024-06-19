@@ -130,8 +130,6 @@ de.quake.world:28502
 de.quake.world:28503
 de.quake.world:29501
 de.quake.world:29502
-dk.quake.world:27501
-dk.quake.world:27502
 dk.quake.world:28501
 dk.quake.world:28502
 dk.quake.world:28503
