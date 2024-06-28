@@ -62,7 +62,7 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 1451984,
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2024-03-10T07:48:53Z",
       "updated_at": "2024-03-10T07:49:01Z",
       "browser_download_url": "https://github.com/QW-Group/ktx/releases/download/v1.43/qwprogs_linux_aarch64.so"
@@ -96,7 +96,7 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 1474808,
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2024-03-10T07:49:01Z",
       "updated_at": "2024-03-10T07:49:02Z",
       "browser_download_url": "https://github.com/QW-Group/ktx/releases/download/v1.43/qwprogs_linux_amd64.so"
@@ -130,7 +130,7 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 1182196,
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2024-03-10T07:49:02Z",
       "updated_at": "2024-03-10T07:49:03Z",
       "browser_download_url": "https://github.com/QW-Group/ktx/releases/download/v1.43/qwprogs_linux_armhf.so"
@@ -164,7 +164,7 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 1697752,
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2024-03-10T07:49:03Z",
       "updated_at": "2024-03-10T07:49:03Z",
       "browser_download_url": "https://github.com/QW-Group/ktx/releases/download/v1.43/qwprogs_linux_i686.so"
@@ -198,7 +198,7 @@
       "content_type": "application/x-msdos-program",
       "state": "uploaded",
       "size": 2018664,
-      "download_count": 12,
+      "download_count": 13,
       "created_at": "2024-03-10T07:49:03Z",
       "updated_at": "2024-03-10T07:49:04Z",
       "browser_download_url": "https://github.com/QW-Group/ktx/releases/download/v1.43/qwprogs_windows_x64.dll"
@@ -232,7 +232,7 @@
       "content_type": "application/x-msdos-program",
       "state": "uploaded",
       "size": 2069010,
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2024-03-10T07:49:04Z",
       "updated_at": "2024-03-10T07:49:04Z",
       "browser_download_url": "https://github.com/QW-Group/ktx/releases/download/v1.43/qwprogs_windows_x86.dll"
