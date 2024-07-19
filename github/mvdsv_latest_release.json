@@ -34,10 +34,10 @@
   "published_at": "2024-03-10T08:12:51Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/QW-Group/mvdsv/releases/assets/155887395",
-      "id": 155887395,
-      "node_id": "RA_kwDOAUCCMM4JSqcj",
-      "name": "mvdsv-source-with-submodules-1.0.0.zip",
+      "url": "https://api.github.com/repos/QW-Group/mvdsv/releases/assets/180524412",
+      "id": 180524412,
+      "node_id": "RA_kwDOAUCCMM4KwpV8",
+      "name": "mvdsv-source-with-submodules-1.00.zip",
       "label": null,
       "uploader": {
         "login": "tcsabina",
@@ -59,13 +59,13 @@
         "type": "User",
         "site_admin": false
       },
-      "content_type": "application/zip",
+      "content_type": "application/x-zip-compressed",
       "state": "uploaded",
       "size": 6882290,
-      "download_count": 15,
-      "created_at": "2024-03-10T08:36:21Z",
-      "updated_at": "2024-03-10T08:36:26Z",
-      "browser_download_url": "https://github.com/QW-Group/mvdsv/releases/download/v1.00/mvdsv-source-with-submodules-1.0.0.zip"
+      "download_count": 0,
+      "created_at": "2024-07-19T05:33:31Z",
+      "updated_at": "2024-07-19T05:33:33Z",
+      "browser_download_url": "https://github.com/QW-Group/mvdsv/releases/download/v1.00/mvdsv-source-with-submodules-1.00.zip"
     },
     {
       "url": "https://api.github.com/repos/QW-Group/mvdsv/releases/assets/155886639",
