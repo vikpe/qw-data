@@ -83,6 +83,7 @@
 64.227.18.147:28501
 66.85.80.160:28501
 67.144.152.112:27500
+72.104.9.220:27500
 74.91.120.206:28501
 74.91.120.206:28502
 99.72.255.45:28501
@@ -103,16 +104,8 @@ dayentech.net:27500
 il.b1aze.com:28501
 io.qwsrv.com:28501
 io.qwsrv.com:28502
-la.quake.world:28501
-la.quake.world:28502
-la.quake.world:28503
-la.quake.world:28504
 mx.qwsrv.com:28501
 mx.qwsrv.com:28502
-ny.quake.world:28501
-ny.quake.world:28502
-ny.quake.world:28503
-ny.quake.world:28504
 paladin.sublevels.net:27500
 pummelator.com:28502
 q1.rootd00d.com:26000

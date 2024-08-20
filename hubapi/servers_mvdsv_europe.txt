@@ -84,6 +84,12 @@ aerowalk.pl:27501
 aerowalk.pl:27502
 aerowalk.pl:27503
 bagno.hlds.pl:28501
+baseq.fr:28501
+baseq.fr:28502
+baseq.fr:28503
+baseq.fr:28504
+baseq.fr:28505
+baseq.fr:28506
 clanrot.org:28501
 clanrot.org:28502
 clanrot.org:28503
