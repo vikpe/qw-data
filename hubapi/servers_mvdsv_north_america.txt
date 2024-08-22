@@ -106,7 +106,6 @@ dal.spawnfrag.com:28501
 dal.spawnfrag.com:28502
 dal.spawnfrag.com:28503
 dal.spawnfrag.com:28504
-dayentech.net:27500
 il.b1aze.com:28501
 io.qwsrv.com:28501
 io.qwsrv.com:28502
