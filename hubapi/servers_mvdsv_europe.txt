@@ -105,7 +105,6 @@ de.quake.world:29502
 dk.quake.world:28501
 dk.quake.world:28502
 dk.quake.world:28503
-dk.quake.world:28504
 dm6.uk:28501
 dm6.uk:28502
 dm6.uk:28503
@@ -140,7 +139,6 @@ play.quake1.pl:27500
 play.quake1.pl:27501
 play.quake1.pl:27510
 play.quake1.pl:27520
-pt.quake.world:28501
 quake.se:28501
 quake.se:28502
 quake.se:28503
