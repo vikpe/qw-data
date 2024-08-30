@@ -32,7 +32,7 @@
 162.248.93.195:28503
 162.248.93.195:28504
 170.39.226.130:28501
-174.138.43.249:28501
+173.218.133.145:27500
 174.138.43.249:28502
 20.245.6.70:28501
 20.245.6.70:28502
@@ -102,6 +102,7 @@ dal.spawnfrag.com:28503
 dal.spawnfrag.com:28504
 dayentech.net:27500
 hawaii.besmella.com:28501
+hawaii.besmella.com:28502
 hawaii.besmella.com:28503
 hawaii.besmella.com:28504
 il.b1aze.com:28501
