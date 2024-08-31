@@ -135,6 +135,10 @@ nq.karancssag.info:28503
 nq.karancssag.info:28504
 pl.dm6.uk:28501
 pl.dm6.uk:28502
+play.quake1.pl:27500
+play.quake1.pl:27501
+play.quake1.pl:27510
+play.quake1.pl:27520
 quake.se:28501
 quake.se:28502
 quake.se:28503
