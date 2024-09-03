@@ -128,7 +128,6 @@ ny.quake.world:28503
 ny.quake.world:28504
 paladin.sublevels.net:27500
 pummelator.com:28502
-q1.rootd00d.com:26000
 quakecon.guam:28503
 quakecon.guam:28504
 shkn.ws:28501
