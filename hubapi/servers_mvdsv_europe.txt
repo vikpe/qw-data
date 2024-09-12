@@ -120,6 +120,7 @@ nl.kinsky.io:28501
 nl.kinsky.io:28502
 nl.kinsky.io:28503
 nl.kinsky.io:28504
+nl.quake.world:27501
 nl.quake.world:27502
 nl.quake.world:27503
 nl.quake.world:28501
