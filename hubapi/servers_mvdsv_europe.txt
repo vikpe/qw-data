@@ -136,6 +136,8 @@ nq.karancssag.info:28501
 nq.karancssag.info:28502
 nq.karancssag.info:28503
 nq.karancssag.info:28504
+nyx.snapcase.net:28501
+nyx.snapcase.net:28502
 pl.dm6.uk:28501
 pl.dm6.uk:28502
 play.quake1.pl:27500
