@@ -208,3 +208,5 @@ suddendeath.nu:28506
 troopers.fi:28001
 troopers.fi:28002
 troopers.fi:28003
+uk.clanrot.org:28501
+uk.clanrot.org:28502
