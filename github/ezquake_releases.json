@@ -63,7 +63,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 2036422,
-        "download_count": 4,
+        "download_count": 8,
         "created_at": "2024-10-13T13:23:36Z",
         "updated_at": "2024-10-13T13:23:39Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.6.5/ezquake-source_with-submodules-3.6.5.tar.gz"
@@ -97,7 +97,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 99763392,
-        "download_count": 4,
+        "download_count": 13,
         "created_at": "2024-10-13T13:24:13Z",
         "updated_at": "2024-10-13T13:24:20Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.6.5/ezQuake-x86_64.AppImage"
@@ -131,7 +131,7 @@
         "content_type": "application/x-ms-dos-executable",
         "state": "uploaded",
         "size": 11069440,
-        "download_count": 17,
+        "download_count": 37,
         "created_at": "2024-10-13T13:24:08Z",
         "updated_at": "2024-10-13T13:24:13Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.6.5/ezquake.exe"
@@ -139,14 +139,14 @@
     ],
     "tarball_url": "https://api.github.com/repos/QW-Group/ezquake-source/tarball/3.6.5",
     "zipball_url": "https://api.github.com/repos/QW-Group/ezquake-source/zipball/3.6.5",
-    "body": "## ezQuake 3.6.5 Release Notes\r\n\r\n### Improvements:\r\n- Update server browser sources (namtsui)\r\n- Adding information about non-standard flag models (ezh-hammer)\r\n- HELP: updates from JSON generator and assorted cleanups (hemostx)\r\n- gl_outline_world_normal_threshold (krizej)\r\n- Adds style 3 to most numeric hud elements (health, ammo, armor, gameclock, ...) which makes the text small gold letters from the console charset (krizej)\r\n- Improve error handling (krizej)\r\n- Sync mvdsv and ezquake so KTX could be able to run with ezquake as server + client (qqshka)\r\n- VX_TRACKER: Add r_tracker_string_inconsole_prefix (osm)\r\n- Allow server browser scrolling when serverinfo open (pkova)\r\n- Additions to hud_frags element (dusty)\r\n- CMD: Support exec of http/https urls (osm)\r\n- Add french dvorak bépo keymap (KJXV)\r\n- New cvar: \"gl_part_bloodtrails\", which toggles classic blood trails when QMB trails are used (hemostx)\r\n- VX_TRACKER: Honor r_tracker_colorfix for cl_useimagesinfraglog 0 (osm)\r\n\r\n### Bugfixes:\r\n- Fixed a couple of types in the built-in help (a-detiste)\r\n- Remove dangerous commands (osm)\r\n\r\n### Build:\r\n- homebrew dependency 'mpg123' is not available for big sur anymore (ziermmar)\r\n- Finalize the cmake transition (dsvensson)\r\n",
+    "body": "## ezQuake 3.6.5 Release Notes\r\n\r\n### Improvements:\r\n- Update server browser sources (namtsui)\r\n- Adding information about non-standard flag models (ezh-hammer)\r\n- HELP: updates from JSON generator and assorted cleanups (hemostx)\r\n- gl_outline_world_normal_threshold (krizej)\r\n- Adds style 3 to most numeric hud elements (health, ammo, armor, gameclock, ...) which makes the text small gold letters from the console charset (krizej)\r\n- Improve error handling (krizej)\r\n- Sync mvdsv and ezquake so KTX could be able to run with ezquake as server + client (qqshka)\r\n- VX_TRACKER: Add r_tracker_string_inconsole_prefix (osm)\r\n- Allow server browser scrolling when serverinfo open (pkova)\r\n- Additions to hud_frags element (dusty)\r\n- Add french dvorak bépo keymap (KJXV)\r\n- New cvar: \"gl_part_bloodtrails\", which toggles classic blood trails when QMB trails are used (hemostx)\r\n- VX_TRACKER: Honor r_tracker_colorfix for cl_useimagesinfraglog 0 (osm)\r\n\r\n### Bugfixes:\r\n- Fixed a couple of types in the built-in help (a-detiste)\r\n- Remove dangerous commands (osm)\r\n\r\n### Build:\r\n- homebrew dependency 'mpg123' is not available for big sur anymore (ziermmar)\r\n- Finalize the cmake transition (dsvensson)\r\n",
     "reactions": {
       "url": "https://api.github.com/repos/QW-Group/ezquake-source/releases/179687894/reactions",
-      "total_count": 2,
+      "total_count": 3,
       "+1": 0,
       "-1": 0,
       "laugh": 0,
-      "hooray": 2,
+      "hooray": 3,
       "confused": 0,
       "heart": 0,
       "rocket": 0,
@@ -217,7 +217,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 10374526,
-        "download_count": 1642,
+        "download_count": 1644,
         "created_at": "2023-10-29T22:51:55Z",
         "updated_at": "2023-10-29T22:51:58Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.6.4/ezquake-source_with-submodules-3.6.4.zip"
@@ -285,7 +285,7 @@
         "content_type": "application/x-ms-dos-executable",
         "state": "uploaded",
         "size": 9534976,
-        "download_count": 2484,
+        "download_count": 2489,
         "created_at": "2023-10-29T22:51:34Z",
         "updated_at": "2023-10-29T22:51:41Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.6.4/ezquake.exe"
@@ -439,7 +439,7 @@
         "content_type": "application/x-ms-dos-executable",
         "state": "uploaded",
         "size": 8151040,
-        "download_count": 955,
+        "download_count": 956,
         "created_at": "2023-08-10T21:48:02Z",
         "updated_at": "2023-08-10T21:48:18Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.6.3/ezquake.exe"
@@ -799,7 +799,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 2843938,
-        "download_count": 1602,
+        "download_count": 1607,
         "created_at": "2022-10-05T22:15:12Z",
         "updated_at": "2022-10-05T22:15:15Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.6.0/rls-all.zip"
@@ -953,7 +953,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 1397623,
-        "download_count": 765,
+        "download_count": 766,
         "created_at": "2022-08-04T17:15:19Z",
         "updated_at": "2022-08-04T17:15:20Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.6-dev-alpha10-dev/ezquake-latest-linux64.zip"
@@ -987,7 +987,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 3442469,
-        "download_count": 493,
+        "download_count": 494,
         "created_at": "2022-08-04T17:15:25Z",
         "updated_at": "2022-08-04T17:15:26Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.6-dev-alpha10-dev/ezquake-latest-osx.zip"
@@ -1265,7 +1265,7 @@
         "content_type": "application/x-gzip",
         "state": "uploaded",
         "size": 19076232,
-        "download_count": 4485,
+        "download_count": 4499,
         "created_at": "2021-02-09T19:59:30Z",
         "updated_at": "2021-02-09T19:59:45Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.2.3/ezquake-ubuntu-3.2.3-full.tar.gz"
@@ -1367,7 +1367,7 @@
         "content_type": "application/x-zip-compressed",
         "state": "uploaded",
         "size": 2200737,
-        "download_count": 2088,
+        "download_count": 2089,
         "created_at": "2021-02-09T19:59:45Z",
         "updated_at": "2021-02-09T19:59:48Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.2.3/ezquake-win32-3.2.3.zip"
@@ -2303,7 +2303,7 @@
         "content_type": "application/x-gzip",
         "state": "uploaded",
         "size": 19076358,
-        "download_count": 738,
+        "download_count": 739,
         "created_at": "2020-04-19T07:43:17Z",
         "updated_at": "2020-04-19T07:43:33Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.2/ezquake-ubuntu-full-3.2.tar.gz"
