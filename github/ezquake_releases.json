@@ -23,6 +23,7 @@
       "events_url": "https://api.github.com/users/tcsabina/events{/privacy}",
       "received_events_url": "https://api.github.com/users/tcsabina/received_events",
       "type": "User",
+      "user_view_type": "public",
       "site_admin": false
     },
     "node_id": "RE_kwDOAA8a2s4KtdHW",
@@ -58,12 +59,13 @@
           "events_url": "https://api.github.com/users/tcsabina/events{/privacy}",
           "received_events_url": "https://api.github.com/users/tcsabina/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false
         },
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 2036422,
-        "download_count": 13,
+        "download_count": 14,
         "created_at": "2024-10-13T13:23:36Z",
         "updated_at": "2024-10-13T13:23:39Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.6.5/ezquake-source_with-submodules-3.6.5.tar.gz"
@@ -92,12 +94,13 @@
           "events_url": "https://api.github.com/users/tcsabina/events{/privacy}",
           "received_events_url": "https://api.github.com/users/tcsabina/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false
         },
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 99763392,
-        "download_count": 19,
+        "download_count": 23,
         "created_at": "2024-10-13T13:24:13Z",
         "updated_at": "2024-10-13T13:24:20Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.6.5/ezQuake-x86_64.AppImage"
@@ -126,12 +129,13 @@
           "events_url": "https://api.github.com/users/tcsabina/events{/privacy}",
           "received_events_url": "https://api.github.com/users/tcsabina/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false
         },
         "content_type": "application/x-ms-dos-executable",
         "state": "uploaded",
         "size": 11069440,
-        "download_count": 56,
+        "download_count": 69,
         "created_at": "2024-10-13T13:24:08Z",
         "updated_at": "2024-10-13T13:24:13Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.6.5/ezquake.exe"
@@ -177,6 +181,7 @@
       "events_url": "https://api.github.com/users/tcsabina/events{/privacy}",
       "received_events_url": "https://api.github.com/users/tcsabina/received_events",
       "type": "User",
+      "user_view_type": "public",
       "site_admin": false
     },
     "node_id": "RE_kwDOAA8a2s4G6fPD",
@@ -212,12 +217,13 @@
           "events_url": "https://api.github.com/users/tcsabina/events{/privacy}",
           "received_events_url": "https://api.github.com/users/tcsabina/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false
         },
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 10374526,
-        "download_count": 1649,
+        "download_count": 1651,
         "created_at": "2023-10-29T22:51:55Z",
         "updated_at": "2023-10-29T22:51:58Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.6.4/ezquake-source_with-submodules-3.6.4.zip"
@@ -246,12 +252,13 @@
           "events_url": "https://api.github.com/users/tcsabina/events{/privacy}",
           "received_events_url": "https://api.github.com/users/tcsabina/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false
         },
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 16168128,
-        "download_count": 1601,
+        "download_count": 1602,
         "created_at": "2023-10-29T22:51:47Z",
         "updated_at": "2023-10-29T22:51:51Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.6.4/ezQuake-x86_64.AppImage"
@@ -280,12 +287,13 @@
           "events_url": "https://api.github.com/users/tcsabina/events{/privacy}",
           "received_events_url": "https://api.github.com/users/tcsabina/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false
         },
         "content_type": "application/x-ms-dos-executable",
         "state": "uploaded",
         "size": 9534976,
-        "download_count": 2493,
+        "download_count": 2494,
         "created_at": "2023-10-29T22:51:34Z",
         "updated_at": "2023-10-29T22:51:41Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.6.4/ezquake.exe"
@@ -331,6 +339,7 @@
       "events_url": "https://api.github.com/users/tcsabina/events{/privacy}",
       "received_events_url": "https://api.github.com/users/tcsabina/received_events",
       "type": "User",
+      "user_view_type": "public",
       "site_admin": false
     },
     "node_id": "RE_kwDOAA8a2s4FusCv",
@@ -366,6 +375,7 @@
           "events_url": "https://api.github.com/users/tcsabina/events{/privacy}",
           "received_events_url": "https://api.github.com/users/tcsabina/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false
         },
         "content_type": "application/zip",
@@ -400,12 +410,13 @@
           "events_url": "https://api.github.com/users/ciscon/events{/privacy}",
           "received_events_url": "https://api.github.com/users/ciscon/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false
         },
         "content_type": "application/vnd.appimage",
         "state": "uploaded",
         "size": 17425600,
-        "download_count": 268,
+        "download_count": 269,
         "created_at": "2023-09-15T15:23:25Z",
         "updated_at": "2023-09-15T15:23:26Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.6.3/ezQuake-x86_64.AppImage"
@@ -434,6 +445,7 @@
           "events_url": "https://api.github.com/users/tcsabina/events{/privacy}",
           "received_events_url": "https://api.github.com/users/tcsabina/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false
         },
         "content_type": "application/x-ms-dos-executable",
@@ -485,6 +497,7 @@
       "events_url": "https://api.github.com/users/tcsabina/events{/privacy}",
       "received_events_url": "https://api.github.com/users/tcsabina/received_events",
       "type": "User",
+      "user_view_type": "public",
       "site_admin": false
     },
     "node_id": "RE_kwDOAA8a2s4E5vB0",
@@ -520,6 +533,7 @@
           "events_url": "https://api.github.com/users/ciscon/events{/privacy}",
           "received_events_url": "https://api.github.com/users/ciscon/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false
         },
         "content_type": "application/vnd.appimage",
@@ -554,6 +568,7 @@
           "events_url": "https://api.github.com/users/tcsabina/events{/privacy}",
           "received_events_url": "https://api.github.com/users/tcsabina/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false
         },
         "content_type": "application/octet-stream",
@@ -605,6 +620,7 @@
       "events_url": "https://api.github.com/users/tcsabina/events{/privacy}",
       "received_events_url": "https://api.github.com/users/tcsabina/received_events",
       "type": "User",
+      "user_view_type": "public",
       "site_admin": false
     },
     "node_id": "RE_kwDOAA8a2s4Exsw5",
@@ -640,6 +656,7 @@
           "events_url": "https://api.github.com/users/tcsabina/events{/privacy}",
           "received_events_url": "https://api.github.com/users/tcsabina/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false
         },
         "content_type": "application/x-ms-dos-executable",
@@ -674,6 +691,7 @@
           "events_url": "https://api.github.com/users/tcsabina/events{/privacy}",
           "received_events_url": "https://api.github.com/users/tcsabina/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false
         },
         "content_type": "application/x-ms-dos-executable",
@@ -708,12 +726,13 @@
           "events_url": "https://api.github.com/users/tcsabina/events{/privacy}",
           "received_events_url": "https://api.github.com/users/tcsabina/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false
         },
         "content_type": "application/x-ms-dos-executable",
         "state": "uploaded",
         "size": 8003072,
-        "download_count": 601,
+        "download_count": 602,
         "created_at": "2022-11-05T12:59:20Z",
         "updated_at": "2022-11-05T12:59:25Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.6.1/ezquake_rls_modern.exe"
@@ -759,6 +778,7 @@
       "events_url": "https://api.github.com/users/tcsabina/events{/privacy}",
       "received_events_url": "https://api.github.com/users/tcsabina/received_events",
       "type": "User",
+      "user_view_type": "public",
       "site_admin": false
     },
     "node_id": "RE_kwDOAA8a2s4Etw8W",
@@ -794,6 +814,7 @@
           "events_url": "https://api.github.com/users/tcsabina/events{/privacy}",
           "received_events_url": "https://api.github.com/users/tcsabina/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false
         },
         "content_type": "application/zip",
@@ -828,12 +849,13 @@
           "events_url": "https://api.github.com/users/tcsabina/events{/privacy}",
           "received_events_url": "https://api.github.com/users/tcsabina/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false
         },
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 2804874,
-        "download_count": 184,
+        "download_count": 185,
         "created_at": "2022-10-05T22:14:59Z",
         "updated_at": "2022-10-05T22:15:04Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.6.0/rls-classic.zip"
@@ -862,12 +884,13 @@
           "events_url": "https://api.github.com/users/tcsabina/events{/privacy}",
           "received_events_url": "https://api.github.com/users/tcsabina/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false
         },
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 2785739,
-        "download_count": 244,
+        "download_count": 245,
         "created_at": "2022-10-05T22:14:55Z",
         "updated_at": "2022-10-05T22:15:04Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.6.0/rls-modern.zip"
@@ -913,6 +936,7 @@
       "events_url": "https://api.github.com/users/meag/events{/privacy}",
       "received_events_url": "https://api.github.com/users/meag/received_events",
       "type": "User",
+      "user_view_type": "public",
       "site_admin": false
     },
     "node_id": "RE_kwDOAA8a2s4CA5hF",
@@ -948,12 +972,13 @@
           "events_url": "https://api.github.com/users/meag/events{/privacy}",
           "received_events_url": "https://api.github.com/users/meag/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false
         },
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 1397623,
-        "download_count": 767,
+        "download_count": 770,
         "created_at": "2022-08-04T17:15:19Z",
         "updated_at": "2022-08-04T17:15:20Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.6-dev-alpha10-dev/ezquake-latest-linux64.zip"
@@ -982,12 +1007,13 @@
           "events_url": "https://api.github.com/users/meag/events{/privacy}",
           "received_events_url": "https://api.github.com/users/meag/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false
         },
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 3442469,
-        "download_count": 494,
+        "download_count": 495,
         "created_at": "2022-08-04T17:15:25Z",
         "updated_at": "2022-08-04T17:15:26Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.6-dev-alpha10-dev/ezquake-latest-osx.zip"
@@ -1016,6 +1042,7 @@
           "events_url": "https://api.github.com/users/meag/events{/privacy}",
           "received_events_url": "https://api.github.com/users/meag/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false
         },
         "content_type": "application/zip",
@@ -1050,6 +1077,7 @@
           "events_url": "https://api.github.com/users/meag/events{/privacy}",
           "received_events_url": "https://api.github.com/users/meag/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false
         },
         "content_type": "application/zip",
@@ -1084,6 +1112,7 @@
           "events_url": "https://api.github.com/users/meag/events{/privacy}",
           "received_events_url": "https://api.github.com/users/meag/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false
         },
         "content_type": "text/x-markdown",
@@ -1118,6 +1147,7 @@
           "events_url": "https://api.github.com/users/meag/events{/privacy}",
           "received_events_url": "https://api.github.com/users/meag/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false
         },
         "content_type": "text/x-markdown",
@@ -1157,6 +1187,7 @@
       "events_url": "https://api.github.com/users/meag/events{/privacy}",
       "received_events_url": "https://api.github.com/users/meag/received_events",
       "type": "User",
+      "user_view_type": "public",
       "site_admin": false
     },
     "node_id": "MDc6UmVsZWFzZTM3ODIyMTE0",
@@ -1192,6 +1223,7 @@
           "events_url": "https://api.github.com/users/meag/events{/privacy}",
           "received_events_url": "https://api.github.com/users/meag/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false
         },
         "content_type": "application/x-zip-compressed",
@@ -1226,6 +1258,7 @@
           "events_url": "https://api.github.com/users/meag/events{/privacy}",
           "received_events_url": "https://api.github.com/users/meag/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false
         },
         "content_type": "application/x-zip-compressed",
@@ -1260,12 +1293,13 @@
           "events_url": "https://api.github.com/users/meag/events{/privacy}",
           "received_events_url": "https://api.github.com/users/meag/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false
         },
         "content_type": "application/x-gzip",
         "state": "uploaded",
         "size": 19076232,
-        "download_count": 4503,
+        "download_count": 4507,
         "created_at": "2021-02-09T19:59:30Z",
         "updated_at": "2021-02-09T19:59:45Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.2.3/ezquake-ubuntu-3.2.3-full.tar.gz"
@@ -1294,6 +1328,7 @@
           "events_url": "https://api.github.com/users/meag/events{/privacy}",
           "received_events_url": "https://api.github.com/users/meag/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false
         },
         "content_type": "application/x-gzip",
@@ -1328,12 +1363,13 @@
           "events_url": "https://api.github.com/users/meag/events{/privacy}",
           "received_events_url": "https://api.github.com/users/meag/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false
         },
         "content_type": "application/x-zip-compressed",
         "state": "uploaded",
         "size": 20263072,
-        "download_count": 9518,
+        "download_count": 9519,
         "created_at": "2021-02-09T19:59:48Z",
         "updated_at": "2021-02-09T20:00:06Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.2.3/ezquake-win32-3.2.3-full.zip"
@@ -1362,6 +1398,7 @@
           "events_url": "https://api.github.com/users/meag/events{/privacy}",
           "received_events_url": "https://api.github.com/users/meag/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false
         },
         "content_type": "application/x-zip-compressed",
@@ -1401,6 +1438,7 @@
       "events_url": "https://api.github.com/users/meag/events{/privacy}",
       "received_events_url": "https://api.github.com/users/meag/received_events",
       "type": "User",
+      "user_view_type": "public",
       "site_admin": false
     },
     "node_id": "MDc6UmVsZWFzZTMxNjc4NDcy",
@@ -1436,6 +1474,7 @@
           "events_url": "https://api.github.com/users/meag/events{/privacy}",
           "received_events_url": "https://api.github.com/users/meag/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false
         },
         "content_type": "application/x-zip-compressed",
@@ -1470,6 +1509,7 @@
           "events_url": "https://api.github.com/users/meag/events{/privacy}",
           "received_events_url": "https://api.github.com/users/meag/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false
         },
         "content_type": "application/x-zip-compressed",
@@ -1504,6 +1544,7 @@
           "events_url": "https://api.github.com/users/meag/events{/privacy}",
           "received_events_url": "https://api.github.com/users/meag/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false
         },
         "content_type": "application/x-gzip",
@@ -1538,6 +1579,7 @@
           "events_url": "https://api.github.com/users/meag/events{/privacy}",
           "received_events_url": "https://api.github.com/users/meag/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false
         },
         "content_type": "application/x-gzip",
@@ -1572,6 +1614,7 @@
           "events_url": "https://api.github.com/users/meag/events{/privacy}",
           "received_events_url": "https://api.github.com/users/meag/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false
         },
         "content_type": "application/x-zip-compressed",
@@ -1606,6 +1649,7 @@
           "events_url": "https://api.github.com/users/meag/events{/privacy}",
           "received_events_url": "https://api.github.com/users/meag/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false
         },
         "content_type": "application/x-zip-compressed",
@@ -1645,6 +1689,7 @@
       "events_url": "https://api.github.com/users/meag/events{/privacy}",
       "received_events_url": "https://api.github.com/users/meag/received_events",
       "type": "User",
+      "user_view_type": "public",
       "site_admin": false
     },
     "node_id": "MDc6UmVsZWFzZTI3ODgyMjk0",
@@ -1680,12 +1725,13 @@
           "events_url": "https://api.github.com/users/meag/events{/privacy}",
           "received_events_url": "https://api.github.com/users/meag/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false
         },
         "content_type": "application/x-zip-compressed",
         "state": "uploaded",
         "size": 20125896,
-        "download_count": 103,
+        "download_count": 104,
         "created_at": "2020-06-24T16:45:42Z",
         "updated_at": "2020-06-24T16:49:50Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.2.1/ezquake-osx10.12-xcode8.3-3.2.1-full.zip"
@@ -1714,6 +1760,7 @@
           "events_url": "https://api.github.com/users/meag/events{/privacy}",
           "received_events_url": "https://api.github.com/users/meag/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false
         },
         "content_type": "application/x-zip-compressed",
@@ -1748,6 +1795,7 @@
           "events_url": "https://api.github.com/users/meag/events{/privacy}",
           "received_events_url": "https://api.github.com/users/meag/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false
         },
         "content_type": "application/x-zip-compressed",
@@ -1782,6 +1830,7 @@
           "events_url": "https://api.github.com/users/meag/events{/privacy}",
           "received_events_url": "https://api.github.com/users/meag/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false
         },
         "content_type": "application/x-zip-compressed",
@@ -1816,6 +1865,7 @@
           "events_url": "https://api.github.com/users/meag/events{/privacy}",
           "received_events_url": "https://api.github.com/users/meag/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false
         },
         "content_type": "application/x-zip-compressed",
@@ -1850,6 +1900,7 @@
           "events_url": "https://api.github.com/users/meag/events{/privacy}",
           "received_events_url": "https://api.github.com/users/meag/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false
         },
         "content_type": "application/x-zip-compressed",
@@ -1884,6 +1935,7 @@
           "events_url": "https://api.github.com/users/meag/events{/privacy}",
           "received_events_url": "https://api.github.com/users/meag/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false
         },
         "content_type": "application/x-gzip",
@@ -1918,6 +1970,7 @@
           "events_url": "https://api.github.com/users/meag/events{/privacy}",
           "received_events_url": "https://api.github.com/users/meag/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false
         },
         "content_type": "application/x-gzip",
@@ -1952,6 +2005,7 @@
           "events_url": "https://api.github.com/users/meag/events{/privacy}",
           "received_events_url": "https://api.github.com/users/meag/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false
         },
         "content_type": "application/x-zip-compressed",
@@ -1986,6 +2040,7 @@
           "events_url": "https://api.github.com/users/meag/events{/privacy}",
           "received_events_url": "https://api.github.com/users/meag/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false
         },
         "content_type": "application/x-zip-compressed",
@@ -2025,6 +2080,7 @@
       "events_url": "https://api.github.com/users/meag/events{/privacy}",
       "received_events_url": "https://api.github.com/users/meag/received_events",
       "type": "User",
+      "user_view_type": "public",
       "site_admin": false
     },
     "node_id": "MDc6UmVsZWFzZTI1NjUwMzE0",
@@ -2060,6 +2116,7 @@
           "events_url": "https://api.github.com/users/meag/events{/privacy}",
           "received_events_url": "https://api.github.com/users/meag/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false
         },
         "content_type": "application/x-zip-compressed",
@@ -2094,6 +2151,7 @@
           "events_url": "https://api.github.com/users/meag/events{/privacy}",
           "received_events_url": "https://api.github.com/users/meag/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false
         },
         "content_type": "application/x-zip-compressed",
@@ -2128,6 +2186,7 @@
           "events_url": "https://api.github.com/users/meag/events{/privacy}",
           "received_events_url": "https://api.github.com/users/meag/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false
         },
         "content_type": "application/x-zip-compressed",
@@ -2162,6 +2221,7 @@
           "events_url": "https://api.github.com/users/meag/events{/privacy}",
           "received_events_url": "https://api.github.com/users/meag/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false
         },
         "content_type": "application/x-zip-compressed",
@@ -2196,6 +2256,7 @@
           "events_url": "https://api.github.com/users/meag/events{/privacy}",
           "received_events_url": "https://api.github.com/users/meag/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false
         },
         "content_type": "application/x-zip-compressed",
@@ -2230,6 +2291,7 @@
           "events_url": "https://api.github.com/users/meag/events{/privacy}",
           "received_events_url": "https://api.github.com/users/meag/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false
         },
         "content_type": "application/x-zip-compressed",
@@ -2264,6 +2326,7 @@
           "events_url": "https://api.github.com/users/meag/events{/privacy}",
           "received_events_url": "https://api.github.com/users/meag/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false
         },
         "content_type": "application/x-gzip",
@@ -2298,6 +2361,7 @@
           "events_url": "https://api.github.com/users/meag/events{/privacy}",
           "received_events_url": "https://api.github.com/users/meag/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false
         },
         "content_type": "application/x-gzip",
@@ -2332,6 +2396,7 @@
           "events_url": "https://api.github.com/users/meag/events{/privacy}",
           "received_events_url": "https://api.github.com/users/meag/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false
         },
         "content_type": "application/x-zip-compressed",
@@ -2366,6 +2431,7 @@
           "events_url": "https://api.github.com/users/meag/events{/privacy}",
           "received_events_url": "https://api.github.com/users/meag/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false
         },
         "content_type": "application/x-zip-compressed",
@@ -2405,6 +2471,7 @@
       "events_url": "https://api.github.com/users/meag/events{/privacy}",
       "received_events_url": "https://api.github.com/users/meag/received_events",
       "type": "User",
+      "user_view_type": "public",
       "site_admin": false
     },
     "node_id": "MDc6UmVsZWFzZTEyNjAwMzEw",
@@ -2440,6 +2507,7 @@
           "events_url": "https://api.github.com/users/meag/events{/privacy}",
           "received_events_url": "https://api.github.com/users/meag/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false
         },
         "content_type": "application/x-zip-compressed",
@@ -2474,6 +2542,7 @@
           "events_url": "https://api.github.com/users/meag/events{/privacy}",
           "received_events_url": "https://api.github.com/users/meag/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false
         },
         "content_type": "application/x-zip-compressed",
@@ -2508,6 +2577,7 @@
           "events_url": "https://api.github.com/users/meag/events{/privacy}",
           "received_events_url": "https://api.github.com/users/meag/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false
         },
         "content_type": "application/x-zip-compressed",
@@ -2542,6 +2612,7 @@
           "events_url": "https://api.github.com/users/meag/events{/privacy}",
           "received_events_url": "https://api.github.com/users/meag/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false
         },
         "content_type": "application/x-zip-compressed",
@@ -2576,6 +2647,7 @@
           "events_url": "https://api.github.com/users/meag/events{/privacy}",
           "received_events_url": "https://api.github.com/users/meag/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false
         },
         "content_type": "application/x-zip-compressed",
@@ -2610,6 +2682,7 @@
           "events_url": "https://api.github.com/users/meag/events{/privacy}",
           "received_events_url": "https://api.github.com/users/meag/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false
         },
         "content_type": "application/x-zip-compressed",
@@ -2644,6 +2717,7 @@
           "events_url": "https://api.github.com/users/meag/events{/privacy}",
           "received_events_url": "https://api.github.com/users/meag/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false
         },
         "content_type": "application/x-zip-compressed",
@@ -2678,6 +2752,7 @@
           "events_url": "https://api.github.com/users/meag/events{/privacy}",
           "received_events_url": "https://api.github.com/users/meag/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false
         },
         "content_type": "application/x-zip-compressed",
@@ -2712,6 +2787,7 @@
           "events_url": "https://api.github.com/users/meag/events{/privacy}",
           "received_events_url": "https://api.github.com/users/meag/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false
         },
         "content_type": "application/x-gzip",
@@ -2746,6 +2822,7 @@
           "events_url": "https://api.github.com/users/meag/events{/privacy}",
           "received_events_url": "https://api.github.com/users/meag/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false
         },
         "content_type": "application/x-gzip",
@@ -2780,6 +2857,7 @@
           "events_url": "https://api.github.com/users/meag/events{/privacy}",
           "received_events_url": "https://api.github.com/users/meag/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false
         },
         "content_type": "application/x-gzip",
@@ -2819,6 +2897,7 @@
       "events_url": "https://api.github.com/users/meag/events{/privacy}",
       "received_events_url": "https://api.github.com/users/meag/received_events",
       "type": "User",
+      "user_view_type": "public",
       "site_admin": false
     },
     "node_id": "MDc6UmVsZWFzZTM2ODQxMzU=",
@@ -2854,6 +2933,7 @@
           "events_url": "https://api.github.com/users/meag/events{/privacy}",
           "received_events_url": "https://api.github.com/users/meag/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false
         },
         "content_type": "application/gzip",
@@ -2888,6 +2968,7 @@
           "events_url": "https://api.github.com/users/meag/events{/privacy}",
           "received_events_url": "https://api.github.com/users/meag/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false
         },
         "content_type": "application/gzip",
@@ -2922,6 +3003,7 @@
           "events_url": "https://api.github.com/users/meag/events{/privacy}",
           "received_events_url": "https://api.github.com/users/meag/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false
         },
         "content_type": "application/zip",
@@ -2956,6 +3038,7 @@
           "events_url": "https://api.github.com/users/meag/events{/privacy}",
           "received_events_url": "https://api.github.com/users/meag/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false
         },
         "content_type": "application/zip",
@@ -2995,6 +3078,7 @@
       "events_url": "https://api.github.com/users/meag/events{/privacy}",
       "received_events_url": "https://api.github.com/users/meag/received_events",
       "type": "User",
+      "user_view_type": "public",
       "site_admin": false
     },
     "node_id": "MDc6UmVsZWFzZTMzNzM3MjY=",
@@ -3030,6 +3114,7 @@
           "events_url": "https://api.github.com/users/meag/events{/privacy}",
           "received_events_url": "https://api.github.com/users/meag/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false
         },
         "content_type": "application/x-gzip",
@@ -3064,6 +3149,7 @@
           "events_url": "https://api.github.com/users/meag/events{/privacy}",
           "received_events_url": "https://api.github.com/users/meag/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false
         },
         "content_type": "application/zip",
@@ -3098,12 +3184,13 @@
           "events_url": "https://api.github.com/users/meag/events{/privacy}",
           "received_events_url": "https://api.github.com/users/meag/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false
         },
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 1847128,
-        "download_count": 106,
+        "download_count": 107,
         "created_at": "2016-06-24T18:43:47Z",
         "updated_at": "2016-06-24T18:43:56Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/v3.0/ezquake3.0-osx-update-xcode62.zip"
@@ -3132,6 +3219,7 @@
           "events_url": "https://api.github.com/users/meag/events{/privacy}",
           "received_events_url": "https://api.github.com/users/meag/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false
         },
         "content_type": "application/zip",
@@ -3166,6 +3254,7 @@
           "events_url": "https://api.github.com/users/meag/events{/privacy}",
           "received_events_url": "https://api.github.com/users/meag/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false
         },
         "content_type": "application/zip",
@@ -3200,6 +3289,7 @@
           "events_url": "https://api.github.com/users/meag/events{/privacy}",
           "received_events_url": "https://api.github.com/users/meag/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false
         },
         "content_type": "application/x-gzip",
@@ -3234,6 +3324,7 @@
           "events_url": "https://api.github.com/users/meag/events{/privacy}",
           "received_events_url": "https://api.github.com/users/meag/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false
         },
         "content_type": "application/zip",
@@ -3268,12 +3359,13 @@
           "events_url": "https://api.github.com/users/meag/events{/privacy}",
           "received_events_url": "https://api.github.com/users/meag/received_events",
           "type": "User",
+          "user_view_type": "public",
           "site_admin": false
         },
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 19927811,
-        "download_count": 13220,
+        "download_count": 13221,
         "created_at": "2016-06-04T15:13:02Z",
         "updated_at": "2016-06-04T15:14:38Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/v3.0/ezquake_win32_3.0-full.zip"

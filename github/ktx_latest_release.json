@@ -22,6 +22,7 @@
     "events_url": "https://api.github.com/users/dsvensson/events{/privacy}",
     "received_events_url": "https://api.github.com/users/dsvensson/received_events",
     "type": "User",
+    "user_view_type": "public",
     "site_admin": false
   },
   "node_id": "RE_kwDOAUCB5s4KtdZ0",
@@ -57,6 +58,7 @@
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
         "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
         "type": "Bot",
+        "user_view_type": "public",
         "site_admin": false
       },
       "content_type": "text/plain",
@@ -91,6 +93,7 @@
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
         "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
         "type": "Bot",
+        "user_view_type": "public",
         "site_admin": false
       },
       "content_type": "application/zip",
@@ -125,6 +128,7 @@
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
         "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
         "type": "Bot",
+        "user_view_type": "public",
         "site_admin": false
       },
       "content_type": "application/zip",
@@ -159,6 +163,7 @@
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
         "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
         "type": "Bot",
+        "user_view_type": "public",
         "site_admin": false
       },
       "content_type": "application/zip",
@@ -193,6 +198,7 @@
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
         "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
         "type": "Bot",
+        "user_view_type": "public",
         "site_admin": false
       },
       "content_type": "application/zip",
@@ -227,6 +233,7 @@
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
         "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
         "type": "Bot",
+        "user_view_type": "public",
         "site_admin": false
       },
       "content_type": "application/zip",
@@ -261,6 +268,7 @@
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
         "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
         "type": "Bot",
+        "user_view_type": "public",
         "site_admin": false
       },
       "content_type": "application/zip",
@@ -295,6 +303,7 @@
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
         "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
         "type": "Bot",
+        "user_view_type": "public",
         "site_admin": false
       },
       "content_type": "application/zip",

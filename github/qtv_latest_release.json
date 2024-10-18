@@ -22,6 +22,7 @@
     "events_url": "https://api.github.com/users/tcsabina/events{/privacy}",
     "received_events_url": "https://api.github.com/users/tcsabina/received_events",
     "type": "User",
+    "user_view_type": "public",
     "site_admin": false
   },
   "node_id": "RE_kwDOAUCCkM4E23GT",
@@ -57,6 +58,7 @@
         "events_url": "https://api.github.com/users/tcsabina/events{/privacy}",
         "received_events_url": "https://api.github.com/users/tcsabina/received_events",
         "type": "User",
+        "user_view_type": "public",
         "site_admin": false
       },
       "content_type": "application/octet-stream",
@@ -91,6 +93,7 @@
         "events_url": "https://api.github.com/users/tcsabina/events{/privacy}",
         "received_events_url": "https://api.github.com/users/tcsabina/received_events",
         "type": "User",
+        "user_view_type": "public",
         "site_admin": false
       },
       "content_type": "application/octet-stream",
@@ -125,6 +128,7 @@
         "events_url": "https://api.github.com/users/tcsabina/events{/privacy}",
         "received_events_url": "https://api.github.com/users/tcsabina/received_events",
         "type": "User",
+        "user_view_type": "public",
         "site_admin": false
       },
       "content_type": "application/octet-stream",
@@ -159,6 +163,7 @@
         "events_url": "https://api.github.com/users/tcsabina/events{/privacy}",
         "received_events_url": "https://api.github.com/users/tcsabina/received_events",
         "type": "User",
+        "user_view_type": "public",
         "site_admin": false
       },
       "content_type": "application/octet-stream",
@@ -193,6 +198,7 @@
         "events_url": "https://api.github.com/users/tcsabina/events{/privacy}",
         "received_events_url": "https://api.github.com/users/tcsabina/received_events",
         "type": "User",
+        "user_view_type": "public",
         "site_admin": false
       },
       "content_type": "application/x-ms-dos-executable",
@@ -227,6 +233,7 @@
         "events_url": "https://api.github.com/users/tcsabina/events{/privacy}",
         "received_events_url": "https://api.github.com/users/tcsabina/received_events",
         "type": "User",
+        "user_view_type": "public",
         "site_admin": false
       },
       "content_type": "application/x-ms-dos-executable",
