@@ -69,6 +69,8 @@
 37.201.131.70:28501
 37.221.215.47:28501
 37.221.215.47:28502
+45.132.235.172:27500
+45.132.235.172:27501
 51.210.10.181:28501
 70.34.206.203:28503
 79.139.57.116:27500
@@ -98,9 +100,6 @@ baseq.fr:28503
 baseq.fr:28504
 baseq.fr:28505
 baseq.fr:28506
-clanrot.org:28501
-clanrot.org:28502
-clanrot.org:28503
 cyberdemon.co.uk:28501
 de.clanrot.org:28501
 de.clanrot.org:28502
@@ -194,7 +193,6 @@ qw.0f.se:28510
 qw.kirril.com:28501
 qw.kirril.com:28502
 qw.kirril.com:28503
-qw2.ru:27500
 qw2.ru:27501
 qw2.ru:27502
 qw2.ru:27503
