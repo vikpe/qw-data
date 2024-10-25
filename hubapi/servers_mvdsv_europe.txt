@@ -103,6 +103,9 @@ baseq.fr:28503
 baseq.fr:28504
 baseq.fr:28505
 baseq.fr:28506
+clanrot.org:28501
+clanrot.org:28502
+clanrot.org:28503
 cyberdemon.co.uk:28501
 de.clanrot.org:28501
 de.clanrot.org:28502
