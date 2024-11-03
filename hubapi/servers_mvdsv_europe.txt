@@ -206,6 +206,10 @@ qwctf.se:28501
 qwctf.se:28502
 qwctf.se:28504
 qwtf.net:27500
+qwtf.net:27501
+qwtf.net:27502
+qwtf.net:27503
+qwtf.net:27504
 serverin.no:28501
 suddendeath.nu:28501
 suddendeath.nu:28502
