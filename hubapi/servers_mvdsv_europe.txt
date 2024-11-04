@@ -148,12 +148,12 @@ nl.quake.world:27503
 nl.quake.world:28501
 nl.quake.world:28502
 nl.quake.world:28503
+nl.snapcase.net:28501
+nl.snapcase.net:28502
 nq.karancssag.info:28501
 nq.karancssag.info:28502
 nq.karancssag.info:28503
 nq.karancssag.info:28504
-nyx.snapcase.net:28501
-nyx.snapcase.net:28502
 pl.clanrot.org:28501
 pl.clanrot.org:28502
 pl.dm6.uk:28501
