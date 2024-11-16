@@ -128,7 +128,6 @@ shkn.ws:28501
 shkn.ws:28502
 shkn.ws:28503
 shkn.ws:28504
-uname.network:27500
 wa.b1aze.com:28501
 wa.b1aze.com:28502
 wy.qwsrv.com:28501
