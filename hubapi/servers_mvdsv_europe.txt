@@ -155,7 +155,6 @@ nl.quake.world:28502
 nl.quake.world:28503
 nl.snapcase.net:28501
 nl.snapcase.net:28502
-nl.snapcase.net:28503
 nq.karancssag.info:28501
 nq.karancssag.info:28501
 nq.karancssag.info:28502
