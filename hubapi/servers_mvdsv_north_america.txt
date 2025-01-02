@@ -8,8 +8,6 @@
 100.36.40.85:666
 103.112.0.130:27500
 103.112.0.130:27506
-103.151.65.11:28501
-103.151.65.11:28502
 103.72.77.220:28501
 103.72.77.220:28502
 103.72.77.220:28503
@@ -117,8 +115,6 @@ ny.quake.world:28503
 ny.quake.world:28504
 paladin.sublevels.net:27500
 pummelator.com:28502
-quakecon.guam:28503
-quakecon.guam:28504
 uname.network:27500
 wa.b1aze.com:28501
 wa.b1aze.com:28502
