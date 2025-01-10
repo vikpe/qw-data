@@ -114,6 +114,7 @@ ny.quake.world:28503
 ny.quake.world:28504
 paladin.sublevels.net:27500
 pummelator.com:28502
+uname.network:27500
 wa.b1aze.com:28501
 wa.b1aze.com:28502
 wy.qwsrv.com:28501
