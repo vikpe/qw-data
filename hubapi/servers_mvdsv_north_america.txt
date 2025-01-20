@@ -83,7 +83,6 @@
 74.91.120.206:28501
 74.91.120.206:28502
 75.192.129.142:27500
-99.72.255.45:28501
 99.72.255.45:28502
 99.72.255.45:28503
 99.72.255.45:28504
@@ -117,6 +116,10 @@ ny.quake.world:28503
 ny.quake.world:28504
 paladin.sublevels.net:27500
 pummelator.com:28502
+sublevels.net:28501
+sublevels.net:28502
+sublevels.net:28503
+sublevels.net:28504
 uname.network:27500
 wa.b1aze.com:28501
 wa.b1aze.com:28502
