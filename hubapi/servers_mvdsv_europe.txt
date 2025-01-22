@@ -107,7 +107,6 @@ aerowalk.pl:27500
 aerowalk.pl:27501
 aerowalk.pl:27502
 aerowalk.pl:27503
-ajs.us.to:27500
 bagno.hlds.pl:28501
 baseq.fr:28501
 baseq.fr:28502
