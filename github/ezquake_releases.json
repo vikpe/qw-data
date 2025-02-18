@@ -65,7 +65,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 377,
-        "download_count": 3,
+        "download_count": 4,
         "created_at": "2025-02-16T18:29:54Z",
         "updated_at": "2025-02-16T18:29:55Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.6.6/checksums.txt"
@@ -100,7 +100,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 20779553,
-        "download_count": 3,
+        "download_count": 9,
         "created_at": "2025-02-16T18:29:54Z",
         "updated_at": "2025-02-16T18:29:55Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.6.6/ezQuake-linux-x86_64.zip"
@@ -135,7 +135,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 8169182,
-        "download_count": 1,
+        "download_count": 2,
         "created_at": "2025-02-16T18:29:54Z",
         "updated_at": "2025-02-16T18:29:55Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.6.6/ezQuake-macOS-universal.zip"
@@ -170,7 +170,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 2052593,
-        "download_count": 1,
+        "download_count": 3,
         "created_at": "2025-02-16T18:29:54Z",
         "updated_at": "2025-02-16T18:29:55Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.6.6/ezquake-source-3.6.6.tar.gz"
@@ -205,7 +205,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 4079229,
-        "download_count": 26,
+        "download_count": 45,
         "created_at": "2025-02-16T18:29:54Z",
         "updated_at": "2025-02-16T18:29:55Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.6.6/ezQuake-windows-x64.zip"
@@ -216,11 +216,11 @@
     "body": "## ezQuake 3.6.6 Release Notes\r\n\r\n### Improvements:\r\n- RENDERER: Connect PEXT_TRANS (entity field `alpha`) to transparency of aliasmodels and brush models.\r\n- HUD: add hud_gun[2-8]_frame_hide. (@osm)\r\n- RULESET: Add \"smackdrive\". (@osm)\r\n- PROTOCOL: Support FTE_PEXT_COLOURMOD, for example colored spawn markers. (@dsvensson)\r\n- Support up to 65535 screenshots.\r\n- RENDERER: Add FXAA option (@dsvensson)\r\n- BUILD: Support Devuan linux distribution in build-linux.sh script\r\n- BUG: Do not crash when no opengl driver/library can successfully create an opengl context\r\n- CI: Unify GitHub Actions into single workflow, upload macOS releases and snapshots. (@dsvensson)\r\n- MEMORY: Hunk ergonomics, mappers (typically) can now inspect memory usage via `hunk_print` command.  (@dsvensson)\r\n- RENDERER: Add support for skywind, ported from IronWail (@dsvensson)\r\n- SECURITY: Prevent command concatenation in the qw url parser (@osm)\r\n- SECURITY: Add remote capabilities validation (@osm)\r\n- SECURITY: Prevent downloadable files from being executed (@osm)\r\n- Display the clock in +showscores during deathmatch gameplay (@osm)\r\n- Disable STAT_MATCHSTARTTIME sync if gameclock counts down (@osm)\r\n- HUD: Resurrect the turtle (@osm)\r\n- HASH: Fix incorrect node removal in Hash_Remove and Hash_RemoveKey (@osm)\r\n- LIGHTMAPS: The semi-new e5bgr9 lightmap format was added to ericw-tools early 2024, existed in FTE for years, now loads, initially as LDR. (@dsvensson)\r\n- UI: Add scoreboard settings (@osm)\r\n- UI: Add more userinfo (@osm)\r\n- UI: Add scr_scoreboard_showclock (@osm)\r\n\r\n### Changes:\r\n- Remove seconds from the $dateiso macro (@osm)\r\n- Restrict exec, set_{calc,eval,ex,ex2}, and IPC (@osm)\r\n\r\n### Bugfixes:\r\n- PROTOCOL: Make FTE_PEXT_TRANS from 2013 actually work, originally half implemented. (@dsvensson).\r\n- SERVER: Fix loading of QVM on macOS. (@dsvensson)\r\n- SECURITY: Only pass server defined aliases through cbuf_svc (@osm)\r\n- CONSOLE: Fix buffer overflow (@dsvensson)\r\n- FOV: fix rare CalcFov+viewsize glitches (@hemostx)\r\n- RENDERER: Powerup shells weren't rendered with fog enabled. (@dsvensson)\r\n- RENDERER: Lightmaps for aliasmodels were broken when using high-res lightmaps (DECOUPLED_LM). (@dsvensson)\r\n- RENDERER: Lightmaps for classic renderer were cleared each frame when using modern renderer, expensive. (@dsvensson)\r\n- PROTOCOL: PEXT_MODELDBL was only half-implemented, didn't read short if U_MODEL was unset and U_FTE_MODELDBL set. (@dsvensson)\r\n\r\n### Build:\r\n- CI: Switch Windows builds to msvc to avoid gpl_maps.pk3 bug. (@dsvensson)\r\n\r\n### Notes:\r\nClient side demos recorded onwards will be better aligned to the gameplay protocol to support extended attributes. Enough of PEXT_TRANS was implemented back in 2013 for alpha attribute to be read correctly (but will be rendered opaque if outdated), but if colormod is used, outdated clients will not be able to play the MVD/QTV stream. Outdated clients will also not be able to correctly ingest a MVD/QTV stream with the amount of models and entities the fully connected gameplay protocol supports. Those limits used to be simply cut off, corrupting the demo over time, but in practice these limits were rarely if ever surpassed with old content.\r\n\r\nAs ezQuake has incorrectly announced support for PEXT_TRANS since 2013, the server must identify faulty clients by revision. The cutoff of working alpha support if the client is named *ezQuake* is **7814**. Official builds always have a correct revision set, scuffed ones may have revision as 1, so make sure you're not using a shallow clone when building on your own, or build from the official release source tarball.\r\n\r\nIn practice this shouldn't be much of an issue given how many vulnerabilities lurk in older releases.",
     "reactions": {
       "url": "https://api.github.com/repos/QW-Group/ezquake-source/releases/200588384/reactions",
-      "total_count": 1,
+      "total_count": 2,
       "+1": 0,
       "-1": 0,
       "laugh": 0,
-      "hooray": 1,
+      "hooray": 2,
       "confused": 0,
       "heart": 0,
       "rocket": 0,
@@ -294,7 +294,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 2036422,
-        "download_count": 502,
+        "download_count": 503,
         "created_at": "2024-10-13T13:23:36Z",
         "updated_at": "2024-10-13T13:23:39Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.6.5/ezquake-source_with-submodules-3.6.5.tar.gz"
@@ -364,7 +364,7 @@
         "content_type": "application/x-ms-dos-executable",
         "state": "uploaded",
         "size": 11069440,
-        "download_count": 1104,
+        "download_count": 1107,
         "created_at": "2024-10-13T13:24:08Z",
         "updated_at": "2024-10-13T13:24:13Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.6.5/ezquake.exe"
@@ -645,7 +645,7 @@
         "content_type": "application/vnd.appimage",
         "state": "uploaded",
         "size": 17425600,
-        "download_count": 281,
+        "download_count": 282,
         "created_at": "2023-09-15T15:23:25Z",
         "updated_at": "2023-09-15T15:23:26Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.6.3/ezQuake-x86_64.AppImage"
@@ -803,7 +803,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 8142336,
-        "download_count": 1473,
+        "download_count": 1474,
         "created_at": "2023-03-21T19:07:35Z",
         "updated_at": "2023-03-21T19:07:42Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.6.2/ezquake.exe"
@@ -1049,7 +1049,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 2843938,
-        "download_count": 1835,
+        "download_count": 1836,
         "created_at": "2022-10-05T22:15:12Z",
         "updated_at": "2022-10-05T22:15:15Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.6.0/rls-all.zip"
@@ -1207,7 +1207,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 1397623,
-        "download_count": 861,
+        "download_count": 862,
         "created_at": "2022-08-04T17:15:19Z",
         "updated_at": "2022-08-04T17:15:20Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.6-dev-alpha10-dev/ezquake-latest-linux64.zip"
@@ -1242,7 +1242,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 3442469,
-        "download_count": 544,
+        "download_count": 545,
         "created_at": "2022-08-04T17:15:25Z",
         "updated_at": "2022-08-04T17:15:26Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.6-dev-alpha10-dev/ezquake-latest-osx.zip"
@@ -1528,7 +1528,7 @@
         "content_type": "application/x-gzip",
         "state": "uploaded",
         "size": 19076232,
-        "download_count": 4817,
+        "download_count": 4826,
         "created_at": "2021-02-09T19:59:30Z",
         "updated_at": "2021-02-09T19:59:45Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.2.3/ezquake-ubuntu-3.2.3-full.tar.gz"
@@ -2777,7 +2777,7 @@
         "content_type": "application/x-zip-compressed",
         "state": "uploaded",
         "size": 2106123,
-        "download_count": 2521,
+        "download_count": 2522,
         "created_at": "2018-08-27T22:08:39Z",
         "updated_at": "2018-08-27T22:08:56Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.1/ezquake-3.1-win32-update.zip"
