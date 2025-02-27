@@ -92,6 +92,8 @@
 79.139.57.116:27500
 80.241.209.47:28501
 81.169.207.127:38302
+83.233.117.214:27500
+84.39.252.192:28503
 85.28.131.207:27500
 85.28.131.207:27501
 85.28.131.207:27505
@@ -157,6 +159,9 @@ irsta.quakeworld.se:27502
 irsta.quakeworld.se:27503
 irsta.quakeworld.se:27504
 isf-clan.com:27166
+lgquad.ru:28501
+lgquad.ru:28502
+lgquad.ru:28504
 nl.kinsky.io:28501
 nl.kinsky.io:28502
 nl.kinsky.io:28503
@@ -243,4 +248,3 @@ troopers.fi:28002
 troopers.fi:28003
 uk.clanrot.org:28501
 uk.clanrot.org:28502
-ven0m.se:28501
