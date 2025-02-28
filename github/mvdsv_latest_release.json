@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/QW-Group/mvdsv/releases/145699690",
-  "assets_url": "https://api.github.com/repos/QW-Group/mvdsv/releases/145699690/assets",
-  "upload_url": "https://uploads.github.com/repos/QW-Group/mvdsv/releases/145699690/assets{?name,label}",
-  "html_url": "https://github.com/QW-Group/mvdsv/releases/tag/v1.10",
-  "id": 145699690,
+  "url": "https://api.github.com/repos/QW-Group/mvdsv/releases/202873114",
+  "assets_url": "https://api.github.com/repos/QW-Group/mvdsv/releases/202873114/assets",
+  "upload_url": "https://uploads.github.com/repos/QW-Group/mvdsv/releases/202873114/assets{?name,label}",
+  "html_url": "https://github.com/QW-Group/mvdsv/releases/tag/1.11",
+  "id": 202873114,
   "author": {
     "login": "tcsabina",
     "id": 17887592,
@@ -25,20 +25,20 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOAUCCMM4IrzNq",
-  "tag_name": "v1.10",
+  "node_id": "RE_kwDOAUCCMM4MF5ka",
+  "tag_name": "1.11",
   "target_commitish": "master",
-  "name": "MVDSV 1.10",
+  "name": "MVDSV 1.11",
   "draft": false,
   "prerelease": false,
-  "created_at": "2025-02-16T16:27:19Z",
-  "published_at": "2025-02-16T16:31:47Z",
+  "created_at": "2025-02-27T18:52:35Z",
+  "published_at": "2025-02-27T18:57:33Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/QW-Group/mvdsv/releases/assets/229645828",
-      "id": 229645828,
-      "node_id": "RA_kwDOAUCCMM4NsB4E",
-      "name": "mvdsv-source-with-submodules.zip",
+      "url": "https://api.github.com/repos/QW-Group/mvdsv/releases/assets/233143808",
+      "id": 233143808,
+      "node_id": "RA_kwDOAUCCMM4N5X4A",
+      "name": "mvdsv-source-with-submodules-1.11.zip",
       "label": null,
       "uploader": {
         "login": "tcsabina",
@@ -61,18 +61,18 @@
         "user_view_type": "public",
         "site_admin": false
       },
-      "content_type": "application/zip",
+      "content_type": "application/x-zip-compressed",
       "state": "uploaded",
-      "size": 617252,
-      "download_count": 14,
-      "created_at": "2025-02-16T19:11:07Z",
-      "updated_at": "2025-02-16T19:11:08Z",
-      "browser_download_url": "https://github.com/QW-Group/mvdsv/releases/download/v1.10/mvdsv-source-with-submodules.zip"
+      "size": 637189,
+      "download_count": 1,
+      "created_at": "2025-02-27T19:05:03Z",
+      "updated_at": "2025-02-27T19:05:04Z",
+      "browser_download_url": "https://github.com/QW-Group/mvdsv/releases/download/1.11/mvdsv-source-with-submodules-1.11.zip"
     },
     {
-      "url": "https://api.github.com/repos/QW-Group/mvdsv/releases/assets/229621420",
-      "id": 229621420,
-      "node_id": "RA_kwDOAUCCMM4Nr76s",
+      "url": "https://api.github.com/repos/QW-Group/mvdsv/releases/assets/233143799",
+      "id": 233143799,
+      "node_id": "RA_kwDOAUCCMM4N5X33",
       "name": "mvdsv_linux_amd64",
       "label": null,
       "uploader": {
@@ -98,16 +98,16 @@
       },
       "content_type": "application/octet-stream",
       "state": "uploaded",
-      "size": 718224,
-      "download_count": 8,
-      "created_at": "2025-02-16T16:43:27Z",
-      "updated_at": "2025-02-16T16:43:30Z",
-      "browser_download_url": "https://github.com/QW-Group/mvdsv/releases/download/v1.10/mvdsv_linux_amd64"
+      "size": 718312,
+      "download_count": 0,
+      "created_at": "2025-02-27T19:05:02Z",
+      "updated_at": "2025-02-27T19:05:03Z",
+      "browser_download_url": "https://github.com/QW-Group/mvdsv/releases/download/1.11/mvdsv_linux_amd64"
     },
     {
-      "url": "https://api.github.com/repos/QW-Group/mvdsv/releases/assets/229621422",
-      "id": 229621422,
-      "node_id": "RA_kwDOAUCCMM4Nr76u",
+      "url": "https://api.github.com/repos/QW-Group/mvdsv/releases/assets/233143783",
+      "id": 233143783,
+      "node_id": "RA_kwDOAUCCMM4N5X3n",
       "name": "mvdsv_linux_arm64",
       "label": null,
       "uploader": {
@@ -133,16 +133,16 @@
       },
       "content_type": "application/octet-stream",
       "state": "uploaded",
-      "size": 758400,
+      "size": 758488,
       "download_count": 0,
-      "created_at": "2025-02-16T16:43:30Z",
-      "updated_at": "2025-02-16T16:43:31Z",
-      "browser_download_url": "https://github.com/QW-Group/mvdsv/releases/download/v1.10/mvdsv_linux_arm64"
+      "created_at": "2025-02-27T19:04:59Z",
+      "updated_at": "2025-02-27T19:05:01Z",
+      "browser_download_url": "https://github.com/QW-Group/mvdsv/releases/download/1.11/mvdsv_linux_arm64"
     },
     {
-      "url": "https://api.github.com/repos/QW-Group/mvdsv/releases/assets/229621425",
-      "id": 229621425,
-      "node_id": "RA_kwDOAUCCMM4Nr76x",
+      "url": "https://api.github.com/repos/QW-Group/mvdsv/releases/assets/233143793",
+      "id": 233143793,
+      "node_id": "RA_kwDOAUCCMM4N5X3x",
       "name": "mvdsv_linux_armV7",
       "label": null,
       "uploader": {
@@ -168,16 +168,16 @@
       },
       "content_type": "application/octet-stream",
       "state": "uploaded",
-      "size": 499120,
+      "size": 499196,
       "download_count": 0,
-      "created_at": "2025-02-16T16:43:30Z",
-      "updated_at": "2025-02-16T16:43:31Z",
-      "browser_download_url": "https://github.com/QW-Group/mvdsv/releases/download/v1.10/mvdsv_linux_armV7"
+      "created_at": "2025-02-27T19:05:01Z",
+      "updated_at": "2025-02-27T19:05:02Z",
+      "browser_download_url": "https://github.com/QW-Group/mvdsv/releases/download/1.11/mvdsv_linux_armV7"
     },
     {
-      "url": "https://api.github.com/repos/QW-Group/mvdsv/releases/assets/229621426",
-      "id": 229621426,
-      "node_id": "RA_kwDOAUCCMM4Nr76y",
+      "url": "https://api.github.com/repos/QW-Group/mvdsv/releases/assets/233143773",
+      "id": 233143773,
+      "node_id": "RA_kwDOAUCCMM4N5X3d",
       "name": "mvdsv_linux_i386",
       "label": null,
       "uploader": {
@@ -203,16 +203,16 @@
       },
       "content_type": "application/octet-stream",
       "state": "uploaded",
-      "size": 816432,
-      "download_count": 1,
-      "created_at": "2025-02-16T16:43:31Z",
-      "updated_at": "2025-02-16T16:43:32Z",
-      "browser_download_url": "https://github.com/QW-Group/mvdsv/releases/download/v1.10/mvdsv_linux_i386"
+      "size": 816480,
+      "download_count": 0,
+      "created_at": "2025-02-27T19:04:58Z",
+      "updated_at": "2025-02-27T19:04:59Z",
+      "browser_download_url": "https://github.com/QW-Group/mvdsv/releases/download/1.11/mvdsv_linux_i386"
     },
     {
-      "url": "https://api.github.com/repos/QW-Group/mvdsv/releases/assets/229621457",
-      "id": 229621457,
-      "node_id": "RA_kwDOAUCCMM4Nr77R",
+      "url": "https://api.github.com/repos/QW-Group/mvdsv/releases/assets/233143766",
+      "id": 233143766,
+      "node_id": "RA_kwDOAUCCMM4N5X3W",
       "name": "mvdsv_windows_x64.exe",
       "label": null,
       "uploader": {
@@ -238,16 +238,16 @@
       },
       "content_type": "application/x-msdownload",
       "state": "uploaded",
-      "size": 1153276,
-      "download_count": 4,
-      "created_at": "2025-02-16T16:44:00Z",
-      "updated_at": "2025-02-16T16:44:02Z",
-      "browser_download_url": "https://github.com/QW-Group/mvdsv/releases/download/v1.10/mvdsv_windows_x64.exe"
+      "size": 1153294,
+      "download_count": 1,
+      "created_at": "2025-02-27T19:04:57Z",
+      "updated_at": "2025-02-27T19:04:58Z",
+      "browser_download_url": "https://github.com/QW-Group/mvdsv/releases/download/1.11/mvdsv_windows_x64.exe"
     },
     {
-      "url": "https://api.github.com/repos/QW-Group/mvdsv/releases/assets/229621462",
-      "id": 229621462,
-      "node_id": "RA_kwDOAUCCMM4Nr77W",
+      "url": "https://api.github.com/repos/QW-Group/mvdsv/releases/assets/233143754",
+      "id": 233143754,
+      "node_id": "RA_kwDOAUCCMM4N5X3K",
       "name": "mvdsv_windows_x86.exe",
       "label": null,
       "uploader": {
@@ -273,14 +273,15 @@
       },
       "content_type": "application/x-msdownload",
       "state": "uploaded",
-      "size": 1155749,
-      "download_count": 2,
-      "created_at": "2025-02-16T16:44:02Z",
-      "updated_at": "2025-02-16T16:44:03Z",
-      "browser_download_url": "https://github.com/QW-Group/mvdsv/releases/download/v1.10/mvdsv_windows_x86.exe"
+      "size": 1155767,
+      "download_count": 0,
+      "created_at": "2025-02-27T19:04:55Z",
+      "updated_at": "2025-02-27T19:04:57Z",
+      "browser_download_url": "https://github.com/QW-Group/mvdsv/releases/download/1.11/mvdsv_windows_x86.exe"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/QW-Group/mvdsv/tarball/v1.10",
-  "zipball_url": "https://api.github.com/repos/QW-Group/mvdsv/zipball/v1.10",
-  "body": "## MVDSV 1.10 Release Notes\r\n\r\n### Changes\r\n- BUILD: when building windows binaries do not look for libcurl (ciscon)\r\n- CI: Update build to work with newer docker (dsvensson)\r\n- PROTOCOL: PEXT_TRANS and PEXT_COLOURMOD\r\n- PROTOCOL: MODELDBL2 was incorrectly never writing modelindex as 16 bit.\r\n- CVAR: `pext_ezquake_verfortrans` defaults to **7814**. Clients named *ezQuake* with an older revision will be downgraded to opaque entities as it announced support with a broken implementation.\r\n- MVD/QTV: Align MVD stream to gameplay protocol (spawnstatic2, entitydbl, entitydbl2, modeldbl, trans, colourmod etc).\r\n\r\n### Improvements\r\n- Added three new serverinfo cvars: hostport, countrycode, city (osm)\r\n- Add sv_idlesleep (osm)\r\n\r\n### Documentation\r\n- \r\n\r\n### Bugfixes\r\n- use size_t for holding the size of a directory, otherwise we overflow on larger directories and never clean things up.  also, continue iterating through files once we've hit the limit, we will stop appending new values to the files array but continue calculating directory size.\r\nreplace rng seed generation for mods, old method would overflow but not wrap so we were stuck with the same seed after a given amount of time\r\n\r\n### Upgrading\r\n**Requires new QTV or QTV-Go** due to the MVD stream gameplay protocol alignments. As long as no colormod entities are used, demos and QTV should still be possible to consume in outdated ezQuake clients. Enabling colormod entities will disconnect outdated ezQuake QTV clients with *\"msg_badread in packetentities\"* or similar. ezQuake from 2013 and newer should be able to read alpha attribute correctly, even if it's rendered opaque. Even without alpha and colourmod MVD/QTV was broken if a map had too many models or entities, even if fully connected clients would deal with that correctly.\r\n\r\nFully connected **outdated** clients will be dynamically downgraded to not include colormod or alpha entity properties. For alpha this will yield a warning about client potentially being at a disadvantage as maps may assume the client being able to see through some surface that is opaque for them. This downgrading only applies to clients called `ezQuake` with a revision older than  **7814** as it announced PEXT_TRANS support since 2013 while only partially implementing it. Official builds always have a correct revision set, scuffed ones may have revision as 1, so make sure you're not using a shallow clone when building on your own."
+  "tarball_url": "https://api.github.com/repos/QW-Group/mvdsv/tarball/1.11",
+  "zipball_url": "https://api.github.com/repos/QW-Group/mvdsv/zipball/1.11",
+  "body": "## MVDSV 1.11 Release Notes\r\n\r\n### Changes\r\n\r\n### Improvements\r\n\r\n### Documentation\r\n\r\n### Bugfixes\r\n- Fixed version string for 1.10 release (@tcsabina)",
+  "mentions_count": 1
 }
