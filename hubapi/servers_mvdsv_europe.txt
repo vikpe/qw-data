@@ -88,6 +88,8 @@
 45.132.235.172:27510
 45.132.235.172:27511
 70.34.206.203:28503
+77.37.96.64:27500
+77.37.96.64:27501
 77.37.96.64:27511
 77.38.86.232:28501
 79.139.57.116:27500
@@ -188,6 +190,7 @@ pt.quakeworld.africa:28501
 pt.quakeworld.africa:28502
 pt.quakeworld.africa:28503
 pt.quakeworld.africa:28504
+q1.zapto.org:28501
 quake.noobs:27500
 quake.se:28501
 quake.se:28502
@@ -245,3 +248,4 @@ troopers.fi:28002
 troopers.fi:28003
 uk.clanrot.org:28501
 uk.clanrot.org:28502
+ven0m.se:27500
