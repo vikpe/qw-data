@@ -91,10 +91,12 @@
 77.37.96.64:27500
 77.37.96.64:27501
 77.37.96.64:27510
+77.38.86.232:28501
 79.139.57.116:27500
 80.241.209.47:28501
 81.169.207.127:38302
 83.233.117.214:27500
+84.39.252.192:28503
 85.28.131.207:27500
 85.28.131.207:27501
 85.28.131.207:27505
@@ -157,6 +159,9 @@ irsta.quakeworld.se:27502
 irsta.quakeworld.se:27503
 irsta.quakeworld.se:27504
 isf-clan.com:27166
+lgquad.ru:28501
+lgquad.ru:28502
+lgquad.ru:28504
 nl.kinsky.io:28501
 nl.kinsky.io:28502
 nl.kinsky.io:28503
@@ -186,6 +191,7 @@ pt.quakeworld.africa:28501
 pt.quakeworld.africa:28502
 pt.quakeworld.africa:28503
 pt.quakeworld.africa:28504
+q1.zapto.org:28501
 quake.noobs:27500
 quake.se:28501
 quake.se:28502
