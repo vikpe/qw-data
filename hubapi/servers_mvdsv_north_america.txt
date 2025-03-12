@@ -113,7 +113,6 @@ sublevels.net:28501
 sublevels.net:28502
 sublevels.net:28503
 sublevels.net:28504
-uname.network:27500
 wa.b1aze.com:28501
 wa.b1aze.com:28502
 wy.qwsrv.com:28501
