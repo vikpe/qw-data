@@ -90,6 +90,8 @@ dal.spawnfrag.com:28503
 dal.spawnfrag.com:28504
 dayentech.net:27500
 e.elisttm.space:27049
+hawaii.besmella.com:28501
+hawaii.besmella.com:28502
 il.b1aze.com:28501
 io.qwsrv.com:28501
 io.qwsrv.com:28502
