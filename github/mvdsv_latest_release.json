@@ -64,7 +64,7 @@
       "content_type": "application/x-zip-compressed",
       "state": "uploaded",
       "size": 637189,
-      "download_count": 46,
+      "download_count": 48,
       "created_at": "2025-02-27T19:05:03Z",
       "updated_at": "2025-02-27T19:05:04Z",
       "browser_download_url": "https://github.com/QW-Group/mvdsv/releases/download/1.11/mvdsv-source-with-submodules-1.11.zip"
@@ -99,7 +99,7 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 718312,
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2025-02-27T19:05:02Z",
       "updated_at": "2025-02-27T19:05:03Z",
       "browser_download_url": "https://github.com/QW-Group/mvdsv/releases/download/1.11/mvdsv_linux_amd64"
@@ -169,7 +169,7 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 499196,
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-02-27T19:05:01Z",
       "updated_at": "2025-02-27T19:05:02Z",
       "browser_download_url": "https://github.com/QW-Group/mvdsv/releases/download/1.11/mvdsv_linux_armV7"
@@ -204,7 +204,7 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 816480,
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-02-27T19:04:58Z",
       "updated_at": "2025-02-27T19:04:59Z",
       "browser_download_url": "https://github.com/QW-Group/mvdsv/releases/download/1.11/mvdsv_linux_i386"
@@ -239,7 +239,7 @@
       "content_type": "application/x-msdownload",
       "state": "uploaded",
       "size": 1153294,
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2025-02-27T19:04:57Z",
       "updated_at": "2025-02-27T19:04:58Z",
       "browser_download_url": "https://github.com/QW-Group/mvdsv/releases/download/1.11/mvdsv_windows_x64.exe"
@@ -274,7 +274,7 @@
       "content_type": "application/x-msdownload",
       "state": "uploaded",
       "size": 1155767,
-      "download_count": 1,
+      "download_count": 3,
       "created_at": "2025-02-27T19:04:55Z",
       "updated_at": "2025-02-27T19:04:57Z",
       "browser_download_url": "https://github.com/QW-Group/mvdsv/releases/download/1.11/mvdsv_windows_x86.exe"
