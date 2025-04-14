@@ -169,6 +169,11 @@ ie.predze.dk:28501
 ie.predze.dk:28502
 ie.qwsrv.com:28501
 ie.qwsrv.com:28502
+irsta.quakeworld.se:27500
+irsta.quakeworld.se:27501
+irsta.quakeworld.se:27502
+irsta.quakeworld.se:27503
+irsta.quakeworld.se:27504
 isf-clan.com:27166
 lgquad.ru:28501
 lgquad.ru:28502
