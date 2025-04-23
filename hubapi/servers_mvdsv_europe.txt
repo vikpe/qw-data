@@ -101,6 +101,10 @@
 5.196.28.199:28503
 5.196.28.199:28504
 70.34.206.203:28503
+77.37.96.64:27500
+77.37.96.64:27501
+77.37.96.64:27510
+77.37.96.64:27511
 77.38.86.232:28501
 78.92.202.255:27500
 79.139.57.116:27500
@@ -179,12 +183,6 @@ nl.kinsky.io:28501
 nl.kinsky.io:28502
 nl.kinsky.io:28503
 nl.kinsky.io:28504
-nl.quake.world:27501
-nl.quake.world:27502
-nl.quake.world:27503
-nl.quake.world:28501
-nl.quake.world:28502
-nl.quake.world:28503
 nl.snapcase.net:28501
 nl.snapcase.net:28502
 nq.karancssag.info:28501
