@@ -183,6 +183,12 @@ nl.kinsky.io:28501
 nl.kinsky.io:28502
 nl.kinsky.io:28503
 nl.kinsky.io:28504
+nl.quake.world:27501
+nl.quake.world:27502
+nl.quake.world:27503
+nl.quake.world:28501
+nl.quake.world:28502
+nl.quake.world:28503
 nl.snapcase.net:28501
 nl.snapcase.net:28502
 nq.karancssag.info:28501
@@ -198,7 +204,6 @@ play.quake1.pl:27500
 play.quake1.pl:27501
 play.quake1.pl:27510
 play.quake1.pl:27520
-q1.zapto.org:28501
 quake.se:28501
 quake.se:28502
 quake.se:28503
