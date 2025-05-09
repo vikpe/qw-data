@@ -166,6 +166,9 @@ irsta.quakeworld.se:27502
 irsta.quakeworld.se:27503
 irsta.quakeworld.se:27504
 isf-clan.com:27166
+lisbon.quakeworld.africa:28501
+lisbon.quakeworld.africa:28502
+lisbon.quakeworld.africa:28503
 nl.kinsky.io:28501
 nl.kinsky.io:28502
 nl.kinsky.io:28503
