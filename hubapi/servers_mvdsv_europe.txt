@@ -34,6 +34,7 @@
 178.79.135.210:28503
 178.79.135.210:28504
 178.79.180.136:28001
+185.236.108.250:20512
 185.73.44.100:27500
 188.166.161.185:27500
 188.166.161.185:27501
@@ -127,16 +128,12 @@
 95.216.8.8:28502
 95.216.8.8:28503
 95.216.8.8:28504
-bagno.hlds.pl:28501
 baseq.fr:28501
 baseq.fr:28502
 baseq.fr:28503
 baseq.fr:28504
 baseq.fr:28505
 baseq.fr:28506
-clanrot.org:28501
-clanrot.org:28502
-clanrot.org:28503
 cyberdemon.co.uk:28501
 de.clanrot.org:28501
 de.clanrot.org:28502
@@ -224,7 +221,6 @@ qw.kirril.com:28501
 qw.kirril.com:28502
 qw.kirril.com:28503
 qw.olhustad.no:28501
-qw2.ru:27500
 qw2.ru:27501
 qw2.ru:27502
 qw2.ru:27503
