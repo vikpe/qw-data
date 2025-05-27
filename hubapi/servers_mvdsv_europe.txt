@@ -75,7 +75,6 @@
 77.37.96.64:27500
 77.37.96.64:27501
 77.37.96.64:27510
-78.92.193.180:27500
 79.139.57.116:27500
 80.241.209.47:28501
 81.153.251.159:27500
@@ -154,6 +153,7 @@ nl.quake.world:28502
 nl.quake.world:28503
 nl.snapcase.net:28501
 nl.snapcase.net:28502
+nl.snapcase.net:28503
 nq.karancssag.info:28501
 nq.karancssag.info:28501
 nq.karancssag.info:28502
