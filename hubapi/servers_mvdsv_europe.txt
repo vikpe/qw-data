@@ -108,7 +108,6 @@
 81.153.251.159:27500
 81.169.207.127:38302
 81.226.25.230:28501
-84.39.252.192:28503
 85.28.131.207:27500
 85.28.131.207:27501
 85.28.131.207:27505
@@ -117,6 +116,7 @@
 85.89.175.250:27505
 90.227.110.175:27500
 90.227.110.175:27510
+91.152.15.99:27500
 94.254.2.158:27501
 94.254.2.158:27502
 95.216.8.8:28501
@@ -154,9 +154,6 @@ ie.predze.dk:28502
 ie.qwsrv.com:28501
 ie.qwsrv.com:28502
 isf-clan.com:27166
-lgquad.ru:28501
-lgquad.ru:28502
-lgquad.ru:28504
 lisbon.quakeworld.africa:28501
 lisbon.quakeworld.africa:28502
 lisbon.quakeworld.africa:28503
@@ -189,6 +186,7 @@ play.quake1.pl:27501
 play.quake1.pl:27510
 play.quake1.pl:27520
 quake.se:28501
+quake.se:28502
 quake.se:28503
 quake.se:28504
 quake.se:28505
@@ -196,6 +194,7 @@ quake.se:28506
 quake.se:28507
 quake.se:28508
 quake.se:28509
+quake.se:28510
 quakeworld.fi:27500
 quakeworld.fi:28501
 quakeworld.fi:28502
