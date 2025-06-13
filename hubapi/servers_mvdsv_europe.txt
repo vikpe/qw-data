@@ -108,6 +108,7 @@
 81.153.251.159:27500
 81.169.207.127:38302
 81.226.25.230:28501
+84.39.252.192:28503
 85.28.131.207:27500
 85.28.131.207:27501
 85.28.131.207:27505
@@ -154,6 +155,9 @@ ie.predze.dk:28502
 ie.qwsrv.com:28501
 ie.qwsrv.com:28502
 isf-clan.com:27166
+lgquad.ru:28501
+lgquad.ru:28502
+lgquad.ru:28504
 lisbon.quakeworld.africa:28501
 lisbon.quakeworld.africa:28502
 lisbon.quakeworld.africa:28503
