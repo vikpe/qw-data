@@ -102,7 +102,7 @@
         "state": "uploaded",
         "size": 20779553,
         "digest": null,
-        "download_count": 593,
+        "download_count": 598,
         "created_at": "2025-02-16T18:29:54Z",
         "updated_at": "2025-02-16T18:29:55Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.6.6/ezQuake-linux-x86_64.zip"
@@ -138,7 +138,7 @@
         "state": "uploaded",
         "size": 8169182,
         "digest": null,
-        "download_count": 108,
+        "download_count": 109,
         "created_at": "2025-02-16T18:29:54Z",
         "updated_at": "2025-02-16T18:29:55Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.6.6/ezQuake-macOS-universal.zip"
@@ -210,7 +210,7 @@
         "state": "uploaded",
         "size": 4079229,
         "digest": null,
-        "download_count": 938,
+        "download_count": 944,
         "created_at": "2025-02-16T18:29:54Z",
         "updated_at": "2025-02-16T18:29:55Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.6.6/ezQuake-windows-x64.zip"
@@ -300,7 +300,7 @@
         "state": "uploaded",
         "size": 2036422,
         "digest": null,
-        "download_count": 591,
+        "download_count": 592,
         "created_at": "2024-10-13T13:23:36Z",
         "updated_at": "2024-10-13T13:23:39Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.6.5/ezquake-source_with-submodules-3.6.5.tar.gz"
@@ -1069,7 +1069,7 @@
         "state": "uploaded",
         "size": 2843938,
         "digest": null,
-        "download_count": 1993,
+        "download_count": 1996,
         "created_at": "2022-10-05T22:15:12Z",
         "updated_at": "2022-10-05T22:15:15Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.6.0/rls-all.zip"
@@ -1266,7 +1266,7 @@
         "state": "uploaded",
         "size": 3442469,
         "digest": null,
-        "download_count": 564,
+        "download_count": 565,
         "created_at": "2022-08-04T17:15:25Z",
         "updated_at": "2022-08-04T17:15:26Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.6-dev-alpha10-dev/ezquake-latest-osx.zip"
@@ -1559,7 +1559,7 @@
         "state": "uploaded",
         "size": 19076232,
         "digest": null,
-        "download_count": 5237,
+        "download_count": 5238,
         "created_at": "2021-02-09T19:59:30Z",
         "updated_at": "2021-02-09T19:59:45Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.2.3/ezquake-ubuntu-3.2.3-full.tar.gz"
