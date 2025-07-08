@@ -30,6 +30,7 @@
   "target_commitish": "master",
   "name": "MVDSV 1.11",
   "draft": false,
+  "immutable": false,
   "prerelease": false,
   "created_at": "2025-02-27T18:52:35Z",
   "published_at": "2025-02-27T18:57:33Z",
@@ -65,7 +66,7 @@
       "state": "uploaded",
       "size": 637189,
       "digest": null,
-      "download_count": 93,
+      "download_count": 94,
       "created_at": "2025-02-27T19:05:03Z",
       "updated_at": "2025-02-27T19:05:04Z",
       "browser_download_url": "https://github.com/QW-Group/mvdsv/releases/download/1.11/mvdsv-source-with-submodules-1.11.zip"
@@ -245,7 +246,7 @@
       "state": "uploaded",
       "size": 1153294,
       "digest": null,
-      "download_count": 22,
+      "download_count": 23,
       "created_at": "2025-02-27T19:04:57Z",
       "updated_at": "2025-02-27T19:04:58Z",
       "browser_download_url": "https://github.com/QW-Group/mvdsv/releases/download/1.11/mvdsv_windows_x64.exe"
