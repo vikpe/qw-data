@@ -102,7 +102,7 @@
       "state": "uploaded",
       "size": 718312,
       "digest": null,
-      "download_count": 20,
+      "download_count": 21,
       "created_at": "2025-02-27T19:05:02Z",
       "updated_at": "2025-02-27T19:05:03Z",
       "browser_download_url": "https://github.com/QW-Group/mvdsv/releases/download/1.11/mvdsv_linux_amd64"
@@ -282,7 +282,7 @@
       "state": "uploaded",
       "size": 1155767,
       "digest": null,
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2025-02-27T19:04:55Z",
       "updated_at": "2025-02-27T19:04:57Z",
       "browser_download_url": "https://github.com/QW-Group/mvdsv/releases/download/1.11/mvdsv_windows_x86.exe"
