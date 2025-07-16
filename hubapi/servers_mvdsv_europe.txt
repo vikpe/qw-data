@@ -113,12 +113,6 @@
 81.209.182.26:27510
 81.209.182.26:27511
 81.226.25.230:28501
-81.232.55.208:27500
-81.232.55.208:27501
-81.232.55.208:27510
-81.232.55.208:27511
-84.39.252.192:28503
-85.227.207.169:27500
 85.28.131.207:27500
 85.28.131.207:27501
 85.28.131.207:27505
@@ -139,6 +133,7 @@ baseq.fr:28506
 cyberdemon.co.uk:28501
 de.clanrot.org:28501
 de.clanrot.org:28502
+de.clanrot.org:28510
 de.quake.world:27501
 de.quake.world:27502
 de.quake.world:27503
@@ -161,12 +156,11 @@ ie.predze.dk:28502
 ie.qwsrv.com:28501
 ie.qwsrv.com:28502
 isf-clan.com:27166
-lgquad.ru:28501
-lgquad.ru:28502
-lgquad.ru:28504
 lisbon.quakeworld.africa:28501
 lisbon.quakeworld.africa:28502
 lisbon.quakeworld.africa:28503
+nl.gtt:28501
+nl.gtt:28502
 nl.kinsky.io:28501
 nl.kinsky.io:28502
 nl.kinsky.io:28503
