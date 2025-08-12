@@ -34,6 +34,7 @@
     "immutable": false,
     "prerelease": false,
     "created_at": "2025-02-16T18:18:07Z",
+    "updated_at": "2025-02-16T19:36:20Z",
     "published_at": "2025-02-16T18:24:42Z",
     "assets": [
       {
@@ -67,7 +68,7 @@
         "state": "uploaded",
         "size": 377,
         "digest": null,
-        "download_count": 45,
+        "download_count": 46,
         "created_at": "2025-02-16T18:29:54Z",
         "updated_at": "2025-02-16T18:29:55Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.6.6/checksums.txt"
@@ -103,7 +104,7 @@
         "state": "uploaded",
         "size": 20779553,
         "digest": null,
-        "download_count": 842,
+        "download_count": 844,
         "created_at": "2025-02-16T18:29:54Z",
         "updated_at": "2025-02-16T18:29:55Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.6.6/ezQuake-linux-x86_64.zip"
@@ -175,7 +176,7 @@
         "state": "uploaded",
         "size": 2052593,
         "digest": null,
-        "download_count": 499,
+        "download_count": 500,
         "created_at": "2025-02-16T18:29:54Z",
         "updated_at": "2025-02-16T18:29:55Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.6.6/ezquake-source-3.6.6.tar.gz"
@@ -211,7 +212,7 @@
         "state": "uploaded",
         "size": 4079229,
         "digest": null,
-        "download_count": 1336,
+        "download_count": 1341,
         "created_at": "2025-02-16T18:29:54Z",
         "updated_at": "2025-02-16T18:29:55Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.6.6/ezQuake-windows-x64.zip"
@@ -269,6 +270,7 @@
     "immutable": false,
     "prerelease": false,
     "created_at": "2024-10-13T13:12:30Z",
+    "updated_at": "2025-02-16T18:07:43Z",
     "published_at": "2024-10-13T13:16:41Z",
     "assets": [
       {
@@ -431,6 +433,7 @@
     "immutable": false,
     "prerelease": false,
     "created_at": "2023-10-29T22:19:02Z",
+    "updated_at": "2025-02-16T18:07:31Z",
     "published_at": "2023-10-29T22:20:38Z",
     "assets": [
       {
@@ -593,6 +596,7 @@
     "immutable": false,
     "prerelease": false,
     "created_at": "2023-08-10T21:17:05Z",
+    "updated_at": "2025-02-16T18:07:19Z",
     "published_at": "2023-08-10T21:24:23Z",
     "assets": [
       {
@@ -755,6 +759,7 @@
     "immutable": false,
     "prerelease": false,
     "created_at": "2023-03-19T22:05:44Z",
+    "updated_at": "2025-02-16T18:07:06Z",
     "published_at": "2023-03-19T22:12:10Z",
     "assets": [
       {
@@ -881,6 +886,7 @@
     "immutable": false,
     "prerelease": false,
     "created_at": "2022-11-05T12:24:37Z",
+    "updated_at": "2025-02-16T18:06:53Z",
     "published_at": "2022-11-05T12:30:48Z",
     "assets": [
       {
@@ -1043,6 +1049,7 @@
     "immutable": false,
     "prerelease": false,
     "created_at": "2022-10-05T21:47:46Z",
+    "updated_at": "2025-02-16T18:06:39Z",
     "published_at": "2022-10-05T22:01:16Z",
     "assets": [
       {
@@ -1076,7 +1083,7 @@
         "state": "uploaded",
         "size": 2843938,
         "digest": null,
-        "download_count": 2060,
+        "download_count": 2063,
         "created_at": "2022-10-05T22:15:12Z",
         "updated_at": "2022-10-05T22:15:15Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.6.0/rls-all.zip"
@@ -1205,6 +1212,7 @@
     "immutable": false,
     "prerelease": false,
     "created_at": "2022-08-04T16:56:40Z",
+    "updated_at": "2025-02-16T18:06:23Z",
     "published_at": "2022-10-05T21:59:31Z",
     "assets": [
       {
@@ -1310,7 +1318,7 @@
         "state": "uploaded",
         "size": 2565901,
         "digest": null,
-        "download_count": 389,
+        "download_count": 391,
         "created_at": "2022-08-04T17:15:30Z",
         "updated_at": "2022-08-04T17:15:31Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.6-dev-alpha10-dev/ezquake-latest-win32.zip"
@@ -1463,6 +1471,7 @@
     "immutable": false,
     "prerelease": false,
     "created_at": "2021-02-09T17:35:52Z",
+    "updated_at": "2021-02-09T20:01:01Z",
     "published_at": "2021-02-09T20:00:49Z",
     "assets": [
       {
@@ -1568,7 +1577,7 @@
         "state": "uploaded",
         "size": 19076232,
         "digest": null,
-        "download_count": 5414,
+        "download_count": 5415,
         "created_at": "2021-02-09T19:59:30Z",
         "updated_at": "2021-02-09T19:59:45Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.2.3/ezquake-ubuntu-3.2.3-full.tar.gz"
@@ -1640,7 +1649,7 @@
         "state": "uploaded",
         "size": 20263072,
         "digest": null,
-        "download_count": 9552,
+        "download_count": 9553,
         "created_at": "2021-02-09T19:59:48Z",
         "updated_at": "2021-02-09T20:00:06Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.2.3/ezquake-win32-3.2.3-full.zip"
@@ -1676,7 +1685,7 @@
         "state": "uploaded",
         "size": 2200737,
         "digest": null,
-        "download_count": 2106,
+        "download_count": 2109,
         "created_at": "2021-02-09T19:59:45Z",
         "updated_at": "2021-02-09T19:59:48Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.2.3/ezquake-win32-3.2.3.zip"
@@ -1721,6 +1730,7 @@
     "immutable": false,
     "prerelease": false,
     "created_at": "2020-09-16T22:08:02Z",
+    "updated_at": "2020-09-29T05:46:46Z",
     "published_at": "2020-09-22T22:51:27Z",
     "assets": [
       {
@@ -1979,6 +1989,7 @@
     "immutable": false,
     "prerelease": false,
     "created_at": "2020-06-22T18:02:06Z",
+    "updated_at": "2020-06-24T16:47:10Z",
     "published_at": "2020-06-24T16:47:10Z",
     "assets": [
       {
@@ -2381,6 +2392,7 @@
     "immutable": false,
     "prerelease": false,
     "created_at": "2020-04-18T12:56:37Z",
+    "updated_at": "2020-04-19T07:46:56Z",
     "published_at": "2020-04-19T07:46:56Z",
     "assets": [
       {
@@ -2783,6 +2795,7 @@
     "immutable": false,
     "prerelease": false,
     "created_at": "2018-08-26T12:48:59Z",
+    "updated_at": "2018-08-27T22:26:47Z",
     "published_at": "2018-08-27T22:26:47Z",
     "assets": [
       {
@@ -3221,6 +3234,7 @@
     "immutable": false,
     "prerelease": false,
     "created_at": "2016-07-18T10:01:56Z",
+    "updated_at": "2016-07-19T12:53:56Z",
     "published_at": "2016-07-19T12:53:56Z",
     "assets": [
       {
@@ -3407,6 +3421,7 @@
     "immutable": false,
     "prerelease": false,
     "created_at": "2016-06-04T07:37:12Z",
+    "updated_at": "2016-06-07T22:11:15Z",
     "published_at": "2016-06-04T15:16:44Z",
     "assets": [
       {
