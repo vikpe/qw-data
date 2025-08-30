@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 605366,
       "digest": null,
-      "download_count": 22,
+      "download_count": 24,
       "created_at": "2025-02-16T18:06:35Z",
       "updated_at": "2025-02-16T18:06:36Z",
       "browser_download_url": "https://github.com/QW-Group/ktx/releases/download/1.45/qwprogs-linux-amd64.zip"
