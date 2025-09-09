@@ -16,6 +16,7 @@
 145.239.94.156:27502
 145.239.94.156:27503
 145.239.94.156:27504
+146.185.10.250:28501
 155.4.133.6:43730
 155.4.133.6:43786
 159.69.87.212:28501
@@ -177,7 +178,6 @@ play.quake1.pl:27510
 play.quake1.pl:27520
 quake.se:28501
 quake.se:28502
-quake.se:28503
 quake.se:28504
 quake.se:28505
 quake.se:28506
@@ -220,6 +220,10 @@ qwtf.net:27501
 qwtf.net:27502
 qwtf.net:27503
 qwtf.net:27504
+rlquad.ru:28501
+rlquad.ru:28502
+rlquad.ru:28503
+rlquad.ru:28504
 suddendeath.nu:28501
 suddendeath.nu:28502
 suddendeath.nu:28503
