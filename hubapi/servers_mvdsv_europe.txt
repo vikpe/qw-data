@@ -24,6 +24,7 @@
 167.235.195.116:28502
 167.235.195.116:28503
 167.235.195.116:28504
+176.210.100.6:27500
 176.210.100.6:28501
 176.210.100.6:28502
 178.164.124.230:27500
@@ -174,13 +175,13 @@ play.quake1.pl:27510
 play.quake1.pl:27520
 quake.se:28501
 quake.se:28502
+quake.se:28503
 quake.se:28504
 quake.se:28505
 quake.se:28506
 quake.se:28507
 quake.se:28508
 quake.se:28509
-quake.se:28510
 quakeworld.fi:27500
 quakeworld.fi:28501
 quakeworld.fi:28502
