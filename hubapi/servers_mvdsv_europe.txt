@@ -173,7 +173,6 @@ quake.se:28503
 quake.se:28504
 quake.se:28505
 quake.se:28506
-quake.se:28507
 quake.se:28508
 quake.se:28509
 quakeworld.fi:27500
@@ -211,6 +210,10 @@ qwtf.net:27501
 qwtf.net:27502
 qwtf.net:27503
 qwtf.net:27504
+rlquad.ru:28501
+rlquad.ru:28502
+rlquad.ru:28503
+rlquad.ru:28504
 suddendeath.nu:28501
 suddendeath.nu:28502
 suddendeath.nu:28503
