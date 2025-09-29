@@ -33,6 +33,7 @@
 178.79.135.210:28502
 178.79.135.210:28503
 178.79.135.210:28504
+185.236.108.250:22624
 185.73.44.100:27500
 188.166.161.185:27500
 188.166.161.185:27501
@@ -151,6 +152,10 @@ dm6.uk:28505
 dm6.uk:28506
 fr.clanrot.org:28501
 fr.clanrot.org:28502
+fr.dm6.uk:28501
+fr.dm6.uk:28502
+fr.dm6.uk:28503
+fr.dm6.uk:28504
 ie.predze.dk:28501
 ie.predze.dk:28502
 ie.qwsrv.com:28501
@@ -181,10 +186,8 @@ play.quake1.pl:27500
 play.quake1.pl:27501
 play.quake1.pl:27510
 play.quake1.pl:27520
-quake.se:28501
 quake.se:28502
 quake.se:28503
-quake.se:28504
 quake.se:28505
 quake.se:28506
 quake.se:28507
@@ -221,11 +224,6 @@ qw2.ru:27503
 qwctf.se:28501
 qwctf.se:28502
 qwctf.se:28504
-qwtf.net:27500
-qwtf.net:27501
-qwtf.net:27502
-qwtf.net:27503
-qwtf.net:27504
 suddendeath.nu:28501
 suddendeath.nu:28502
 suddendeath.nu:28503
