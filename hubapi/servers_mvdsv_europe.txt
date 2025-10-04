@@ -24,11 +24,6 @@
 176.210.100.6:27500
 176.210.100.6:28501
 176.210.100.6:28502
-178.164.124.230:27500
-178.164.124.230:28501
-178.164.124.230:28502
-178.164.124.230:28503
-178.164.124.230:28504
 178.79.135.210:28501
 178.79.135.210:28502
 178.79.135.210:28503
@@ -110,6 +105,7 @@
 5.196.28.199:28503
 5.196.28.199:28504
 70.34.206.203:28503
+78.92.201.217:27500
 80.241.209.47:28501
 81.169.207.127:38302
 81.226.53.232:28501
@@ -133,9 +129,6 @@ baseq.fr:28504
 baseq.fr:28505
 baseq.fr:28506
 cyberdemon.co.uk:28501
-de.clanrot.org:28501
-de.clanrot.org:28502
-de.clanrot.org:28510
 de.quake.world:27501
 de.quake.world:27502
 de.quake.world:27503
@@ -151,8 +144,6 @@ dm6.uk:28503
 dm6.uk:28504
 dm6.uk:28505
 dm6.uk:28506
-fr.clanrot.org:28501
-fr.clanrot.org:28502
 fr.dm6.uk:28501
 fr.dm6.uk:28502
 fr.dm6.uk:28503
@@ -181,18 +172,14 @@ nq.karancssag.info:28501
 nq.karancssag.info:28502
 nq.karancssag.info:28503
 nq.karancssag.info:28504
-pl.clanrot.org:28501
-pl.clanrot.org:28502
 play.quake1.pl:27500
 play.quake1.pl:27501
 play.quake1.pl:27510
 play.quake1.pl:27520
-quake.se:28501
 quake.se:28502
 quake.se:28503
 quake.se:28504
 quake.se:28505
-quake.se:28506
 quake.se:28507
 quake.se:28508
 quake.se:28509
@@ -240,5 +227,3 @@ suddendeath.nu:28506
 troopers.fi:28001
 troopers.fi:28002
 troopers.fi:28003
-uk.clanrot.org:28501
-uk.clanrot.org:28502
