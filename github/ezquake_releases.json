@@ -34,7 +34,7 @@
     "immutable": false,
     "prerelease": false,
     "created_at": "2025-09-14T18:59:08Z",
-    "updated_at": "2025-09-15T20:22:40Z",
+    "updated_at": "2025-10-09T16:29:55Z",
     "published_at": "2025-09-15T19:08:02Z",
     "assets": [
       {
@@ -104,7 +104,7 @@
         "state": "uploaded",
         "size": 20999790,
         "digest": "sha256:fb8cd4c3ddd228866dff387865b2052af41eaf6b2e92438bd38ddf403ef1562a",
-        "download_count": 99,
+        "download_count": 107,
         "created_at": "2025-09-15T20:22:39Z",
         "updated_at": "2025-09-15T20:22:40Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.6.7/ezQuake-linux-x86_64.zip"
@@ -212,7 +212,7 @@
         "state": "uploaded",
         "size": 4130218,
         "digest": "sha256:c2e8d7687256ef6b8499ec72ea60c9b9f611dc3aeecc7e1ea73d15f1b1ae040e",
-        "download_count": 232,
+        "download_count": 237,
         "created_at": "2025-09-15T20:22:39Z",
         "updated_at": "2025-09-15T20:22:40Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.6.7/ezQuake-windows-x64.zip"
@@ -220,7 +220,7 @@
     ],
     "tarball_url": "https://api.github.com/repos/QW-Group/ezquake-source/tarball/3.6.7",
     "zipball_url": "https://api.github.com/repos/QW-Group/ezquake-source/zipball/3.6.7",
-    "body": "## ezQuake 3.6.7 Release Notes\r\n\r\n### Improvements:\r\n- Allow orange, bright red and black colors (@osm)\r\n- RENDERER: enable centroid sampling for world geometry (@hemostx)\r\n- Add cl_window_caption 3 (@osm)\r\n- Add cl_portpingprobe_port_probes (@osm)\r\n- Enable port ping probe on reconnec (@osm)\r\n- Add hud_ammo[1-4]_text_color_{low,normal} (@osm)\r\n- MENU: evaluate enums case-insensitively (@hemostx)\r\n- MENU: add new-old player skin colors (@hemostx)\r\n- MENU: Add 48kHz to sample rate selector on Windows (@hemostx)\r\n- CON: use alpha in scr_conpicture if available (@hemostx)\r\n- OUTLINE: Maintain world outline thickness when scaling framebuffer (@hemostx)\r\n\r\n### Changes:\r\n- Restrict play in ruleset thunderdome, smack{down,drive} (@osm)\r\n- Added scr_scoreboard_showmapname and hud_scoremapname (@osm)\r\n- Added support for displaying QTV users in the scoreboard (@osm)\r\n- Added r_drawviewmodel_invisible (@osm)\r\n- Added port ping probe commands (@osm)\r\n- Add ignore_{no_weapon,not_enough_ammo (@osm)\r\n\r\n### Bugfixes:\r\n\r\n### Build:\r\n\r\n### Documentation:\r\n- HELP: scr_teaminfo_armor_type tweaks (@hemostx)\r\n\r\n",
+    "body": "## ezQuake 3.6.7 Release Notes\r\n\r\n### Improvements:\r\n- Allow orange, bright red and black colors (@osm)\r\n- RENDERER: enable centroid sampling for world geometry (@hemostx)\r\n- Add cl_window_caption 3 (@osm)\r\n- Add cl_portpingprobe_port_probes (@osm)\r\n- Enable port ping probe on reconnec (@osm)\r\n- Add hud_ammo[1-4]_text_color_{low,normal} (@osm)\r\n- MENU: evaluate enums case-insensitively (@hemostx)\r\n- MENU: add new-old player skin colors (@hemostx)\r\n- MENU: Add 48kHz to sample rate selector on Windows (@hemostx)\r\n- CON: use alpha in scr_conpicture if available (@hemostx)\r\n- OUTLINE: Maintain world outline thickness when scaling framebuffer (@hemostx)\r\n\r\n### Changes:\r\n- Restrict play in ruleset thunderdome, smack{down,drive} (@osm)\r\n- Added scr_scoreboard_showmapname and hud_scoremapname (@osm)\r\n- Added support for displaying QTV users in the scoreboard (@osm)\r\n- Added r_drawviewmodel_invisible (@osm)\r\n- Added port ping probe commands (@osm)\r\n- Add ignore_{no_weapon,not_enough_ammo} (@osm)\r\n\r\n### Bugfixes:\r\n\r\n### Build:\r\n\r\n### Documentation:\r\n- HELP: scr_teaminfo_armor_type tweaks (@hemostx)\r\n\r\n",
     "mentions_count": 2
   },
   {
@@ -328,7 +328,7 @@
         "state": "uploaded",
         "size": 20779553,
         "digest": null,
-        "download_count": 993,
+        "download_count": 995,
         "created_at": "2025-02-16T18:29:54Z",
         "updated_at": "2025-02-16T18:29:55Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.6.6/ezQuake-linux-x86_64.zip"
@@ -436,7 +436,7 @@
         "state": "uploaded",
         "size": 4079229,
         "digest": null,
-        "download_count": 1663,
+        "download_count": 1667,
         "created_at": "2025-02-16T18:29:54Z",
         "updated_at": "2025-02-16T18:29:55Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.6.6/ezQuake-windows-x64.zip"
@@ -1307,7 +1307,7 @@
         "state": "uploaded",
         "size": 2843938,
         "digest": null,
-        "download_count": 2138,
+        "download_count": 2139,
         "created_at": "2022-10-05T22:15:12Z",
         "updated_at": "2022-10-05T22:15:15Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.6.0/rls-all.zip"
@@ -1801,7 +1801,7 @@
         "state": "uploaded",
         "size": 19076232,
         "digest": null,
-        "download_count": 5556,
+        "download_count": 5557,
         "created_at": "2021-02-09T19:59:30Z",
         "updated_at": "2021-02-09T19:59:45Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.2.3/ezquake-ubuntu-3.2.3-full.tar.gz"
@@ -1909,7 +1909,7 @@
         "state": "uploaded",
         "size": 2200737,
         "digest": null,
-        "download_count": 2112,
+        "download_count": 2113,
         "created_at": "2021-02-09T19:59:45Z",
         "updated_at": "2021-02-09T19:59:48Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.2.3/ezquake-win32-3.2.3.zip"
