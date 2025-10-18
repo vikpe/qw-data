@@ -100,6 +100,8 @@ hawaii.besmella.com:28502
 il.b1aze.com:28501
 io.qwsrv.com:28501
 io.qwsrv.com:28502
+la.quake.world:28501
+la.quake.world:28502
 la.quake.world:28503
 la.quake.world:28504
 mx.qwsrv.com:28501
