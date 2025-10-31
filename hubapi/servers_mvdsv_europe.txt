@@ -28,8 +28,7 @@
 178.79.135.210:28502
 178.79.135.210:28503
 178.79.135.210:28504
-185.236.108.250:20760
-185.73.44.100:27500
+185.236.108.250:20482
 188.166.161.185:27500
 188.166.161.185:27501
 188.166.161.185:27502
@@ -188,10 +187,6 @@ nq.karancssag.info:28501
 nq.karancssag.info:28502
 nq.karancssag.info:28503
 nq.karancssag.info:28504
-play.quake1.pl:27500
-play.quake1.pl:27501
-play.quake1.pl:27510
-play.quake1.pl:27520
 quake.mupp.se:27500
 quake.mupp.se:28501
 quake.mupp.se:28502
