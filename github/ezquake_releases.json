@@ -1,5 +1,50 @@
 [
   {
+    "url": "https://api.github.com/repos/QW-Group/ezquake-source/releases/247434085",
+    "assets_url": "https://api.github.com/repos/QW-Group/ezquake-source/releases/247434085/assets",
+    "upload_url": "https://uploads.github.com/repos/QW-Group/ezquake-source/releases/247434085/assets{?name,label}",
+    "html_url": "https://github.com/QW-Group/ezquake-source/releases/tag/3.6.8",
+    "id": 247434085,
+    "author": {
+      "login": "tcsabina",
+      "id": 17887592,
+      "node_id": "MDQ6VXNlcjE3ODg3NTky",
+      "avatar_url": "https://avatars.githubusercontent.com/u/17887592?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/tcsabina",
+      "html_url": "https://github.com/tcsabina",
+      "followers_url": "https://api.github.com/users/tcsabina/followers",
+      "following_url": "https://api.github.com/users/tcsabina/following{/other_user}",
+      "gists_url": "https://api.github.com/users/tcsabina/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/tcsabina/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/tcsabina/subscriptions",
+      "organizations_url": "https://api.github.com/users/tcsabina/orgs",
+      "repos_url": "https://api.github.com/users/tcsabina/repos",
+      "events_url": "https://api.github.com/users/tcsabina/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/tcsabina/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "node_id": "RE_kwDOAA8a2s4Ov4tl",
+    "tag_name": "3.6.8",
+    "target_commitish": "master",
+    "name": "ezQuake 3.6.8",
+    "draft": false,
+    "immutable": false,
+    "prerelease": false,
+    "created_at": "2025-11-06T09:12:31Z",
+    "updated_at": "2025-11-06T09:25:03Z",
+    "published_at": "2025-11-06T09:25:03Z",
+    "assets": [
+
+    ],
+    "tarball_url": "https://api.github.com/repos/QW-Group/ezquake-source/tarball/3.6.8",
+    "zipball_url": "https://api.github.com/repos/QW-Group/ezquake-source/zipball/3.6.8",
+    "body": "## ezQuake 3.6.8 Release Notes\r\n\r\n### Improvements:\r\n- CL_SAFESTRAFE: client support for sv_safestrafe (@dusty-qw)\r\n- CONSOLE: added con_margin_left cvar for indenting console messages\r\n- SECURITY: protect against server/proxy injection of malicious triggers (@osm)\r\n- Allow exec and IPC from localhost (@osm)\r\n\r\n### Changes:\r\n\r\n### Bugfixes:\r\n\r\n### Build:\r\n\r\n### Documentation:\r\n\r\n",
+    "mentions_count": 2
+  },
+  {
     "url": "https://api.github.com/repos/QW-Group/ezquake-source/releases/200589366",
     "assets_url": "https://api.github.com/repos/QW-Group/ezquake-source/releases/200589366/assets",
     "upload_url": "https://uploads.github.com/repos/QW-Group/ezquake-source/releases/200589366/assets{?name,label}",
@@ -104,7 +149,7 @@
         "state": "uploaded",
         "size": 20999790,
         "digest": "sha256:fb8cd4c3ddd228866dff387865b2052af41eaf6b2e92438bd38ddf403ef1562a",
-        "download_count": 237,
+        "download_count": 239,
         "created_at": "2025-09-15T20:22:39Z",
         "updated_at": "2025-09-15T20:22:40Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.6.7/ezQuake-linux-x86_64.zip"
@@ -212,7 +257,7 @@
         "state": "uploaded",
         "size": 4130218,
         "digest": "sha256:c2e8d7687256ef6b8499ec72ea60c9b9f611dc3aeecc7e1ea73d15f1b1ae040e",
-        "download_count": 484,
+        "download_count": 488,
         "created_at": "2025-09-15T20:22:39Z",
         "updated_at": "2025-09-15T20:22:40Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.6.7/ezQuake-windows-x64.zip"
@@ -1307,7 +1352,7 @@
         "state": "uploaded",
         "size": 2843938,
         "digest": null,
-        "download_count": 2173,
+        "download_count": 2174,
         "created_at": "2022-10-05T22:15:12Z",
         "updated_at": "2022-10-05T22:15:15Z",
         "browser_download_url": "https://github.com/QW-Group/ezquake-source/releases/download/3.6.0/rls-all.zip"
