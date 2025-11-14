@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 595958,
       "digest": "sha256:3585fce5de095fb7592655335b013c0be7b1a0c7d83b7c525d93be0849831f89",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2025-09-14T19:02:09Z",
       "updated_at": "2025-09-14T19:02:10Z",
       "browser_download_url": "https://github.com/QW-Group/ktx/releases/download/1.46/qwprogs-linux-aarch64.zip"
