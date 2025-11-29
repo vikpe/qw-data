@@ -109,7 +109,6 @@ ny.quake.world:28501
 ny.quake.world:28502
 ny.quake.world:28503
 paladin.sublevels.net:27500
-pieter.com:28501
 pummelator.com:28502
 wa.b1aze.com:28501
 wa.b1aze.com:28502
