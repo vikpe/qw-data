@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 740658,
       "digest": "sha256:17e527dfdb2d135deda7d7e6aec3c435722d1f4f6677412f9f59ef90cdb1a342",
-      "download_count": 22,
+      "download_count": 23,
       "created_at": "2025-09-14T19:02:09Z",
       "updated_at": "2025-09-14T19:02:10Z",
       "browser_download_url": "https://github.com/QW-Group/ktx/releases/download/1.46/qwprogs-windows-x64.zip"
