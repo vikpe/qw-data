@@ -99,6 +99,7 @@ la.quake.world:28502
 la.quake.world:28503
 la.quake.world:28504
 mx.qwsrv.com:28501
+mx.qwsrv.com:28502
 ny.quake.world:28501
 ny.quake.world:28502
 ny.quake.world:28503
