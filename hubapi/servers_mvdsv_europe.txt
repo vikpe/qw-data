@@ -177,6 +177,7 @@ quake.no:27503
 quake.no:27504
 quake.no:27505
 quake.no:27506
+quake.no:27507
 quake.no:27508
 quake.no:27519
 quake.se:28501
