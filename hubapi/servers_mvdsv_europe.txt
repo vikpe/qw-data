@@ -91,8 +91,6 @@
 45.132.235.172:27501
 45.132.235.172:27510
 45.132.235.172:27511
-5.182.39.224:28501
-5.182.39.224:28502
 5.196.28.199:28501
 5.196.28.199:28502
 5.196.28.199:28503
@@ -171,7 +169,6 @@ nl.snapcase.net:28502
 nl.snapcase.net:28503
 nl.snapcase.net:28504
 nl.snapcase.net:28510
-nq.karancssag.info:28501
 nq.karancssag.info:28501
 nq.karancssag.info:28502
 nq.karancssag.info:28503
