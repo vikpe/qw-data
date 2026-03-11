@@ -24,3 +24,4 @@ osqw.com.br:28503
 osqw.com.br:28504
 osqw.com.br:28505
 quakeworld.com.br:27500
+quakeworld.com.br:27501
