@@ -87,7 +87,6 @@ dal.spawnfrag.com:28501
 dal.spawnfrag.com:28502
 dal.spawnfrag.com:28503
 dal.spawnfrag.com:28504
-dayentech.net:27500
 hawaii.besmella.com:28501
 hawaii.besmella.com:28502
 il.b1aze.com:28501
