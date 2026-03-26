@@ -180,7 +180,6 @@ play.quake1.pl:27500
 play.quake1.pl:27501
 play.quake1.pl:27510
 play.quake1.pl:27520
-quake.no:27500
 quake.no:27501
 quake.no:27502
 quake.no:27503
