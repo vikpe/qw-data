@@ -84,6 +84,7 @@
 64.227.18.147:28501
 69.222.182.36:27500
 73.143.214.84:27500
+75.192.182.76:27500
 dal.spawnfrag.com:28501
 dal.spawnfrag.com:28502
 dal.spawnfrag.com:28503
@@ -99,7 +100,6 @@ la.quake.world:28504
 ny.quake.world:28501
 ny.quake.world:28502
 ny.quake.world:28503
-paladin.sublevels.net:27500
 pummelator.com:28502
 wa.b1aze.com:28501
 wa.b1aze.com:28502
