@@ -191,6 +191,7 @@ quake.no:27500
 quake.no:27501
 quake.no:27502
 quake.no:27503
+quake.no:27504
 quake.no:27505
 quake.no:27506
 quake.no:27507
@@ -226,9 +227,7 @@ qw.0f.se:28508
 qw.0f.se:28509
 qw.0f.se:28510
 qw.baal.run:28502
-qw.kirril.com:28501
-qw.kirril.com:28502
-qw.kirril.com:28503
+qw.olhustad.no:28501
 qw.pr0n.it:27510
 qw.pr0n.it:28501
 qw.pr0n.it:28502
