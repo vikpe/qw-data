@@ -192,6 +192,7 @@ quake.no:27500
 quake.no:27501
 quake.no:27502
 quake.no:27503
+quake.no:27504
 quake.no:27505
 quake.no:27506
 quake.no:27507
