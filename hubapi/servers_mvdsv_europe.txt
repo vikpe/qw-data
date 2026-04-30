@@ -203,12 +203,10 @@ nq.karancssag.info:28504
 quake.no:27500
 quake.no:27501
 quake.no:27502
-quake.no:27503
 quake.no:27504
 quake.no:27505
 quake.no:27506
 quake.no:27507
-quake.no:27508
 quake.no:27519
 quake.se:28501
 quake.se:28502
@@ -254,7 +252,6 @@ qw2.ru:27501
 qw2.ru:27502
 qw2.ru:27503
 qwtf.net:27500
-qwtf.net:27502
 qwtf.net:27503
 suddendeath.nu:28501
 suddendeath.nu:28502
