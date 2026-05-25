@@ -87,7 +87,6 @@
 35.228.79.195:27501
 35.228.79.195:27510
 49.12.2.62:28501
-5.134.117.152:28501
 5.180.252.23:28500
 5.196.28.199:28501
 5.196.28.199:28502
@@ -138,6 +137,7 @@ baseq.fr:28503
 baseq.fr:28504
 baseq.fr:28505
 baseq.fr:28506
+chthack.zone:27500
 cyberdemon.co.uk:28501
 de.quake.world:27501
 de.quake.world:27502
@@ -148,13 +148,6 @@ de.quake.world:28501
 de.quake.world:28502
 de.quake.world:28503
 de.quake.world:29501
-dm6.nl:27500
-dm6.nl:28501
-dm6.nl:28502
-dm6.nl:28503
-dm6.nl:28504
-dm6.nl:28505
-dm6.nl:28506
 dm6.uk:28501
 dm6.uk:28502
 dm6.uk:28503
