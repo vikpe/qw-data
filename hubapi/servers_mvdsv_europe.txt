@@ -168,6 +168,8 @@ dm6.uk:28505
 dm6.uk:28506
 ie.predze.dk:28501
 ie.predze.dk:28502
+ie.qwsrv.com:28501
+ie.qwsrv.com:28502
 isf-clan.com:27166
 nl.quake.world:27502
 nl.quake.world:28501
@@ -235,9 +237,6 @@ qw2.ru:27501
 qw2.ru:27502
 qw2.ru:27503
 qwtf.net:27500
-qwtf.net:27501
-qwtf.net:27502
-qwtf.net:27503
 suddendeath.nu:28501
 suddendeath.nu:28502
 suddendeath.nu:28503
