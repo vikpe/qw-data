@@ -85,6 +85,7 @@
 35.228.79.195:27500
 35.228.79.195:27501
 35.228.79.195:27510
+38.124.152.155:27500
 49.12.2.62:28501
 5.134.117.152:28501
 5.180.252.23:28500
@@ -142,7 +143,6 @@ baseq.fr:28503
 baseq.fr:28504
 baseq.fr:28505
 baseq.fr:28506
-chthack.zone:27500
 cyberdemon.co.uk:28501
 de.quake.world:27501
 de.quake.world:27502
@@ -187,6 +187,7 @@ nq.karancssag.info:28504
 quake.no:27500
 quake.no:27501
 quake.no:27502
+quake.no:27503
 quake.no:27504
 quake.no:27505
 quake.no:27506
