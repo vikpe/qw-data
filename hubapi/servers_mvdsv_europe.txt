@@ -29,7 +29,6 @@
 167.235.195.116:28502
 167.235.195.116:28503
 167.235.195.116:28504
-172.233.117.128:28501
 172.235.175.10:27500
 172.237.100.112:28501
 176.210.100.6:28501
@@ -180,6 +179,10 @@ nq.karancssag.info:28501
 nq.karancssag.info:28502
 nq.karancssag.info:28503
 nq.karancssag.info:28504
+play.quake1.pl:27500
+play.quake1.pl:27501
+play.quake1.pl:27510
+play.quake1.pl:27520
 quake.no:27500
 quake.no:27501
 quake.no:27502
