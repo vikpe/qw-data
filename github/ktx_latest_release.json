@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 621965,
       "digest": "sha256:5dc31ae064706b98f574073f7f9338970842f1b237a26be575a7ccfc090b2648",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-05-16T18:42:08Z",
       "updated_at": "2026-05-16T18:42:08Z",
       "browser_download_url": "https://github.com/QW-Group/ktx/releases/download/1.47/qwprogs-linux-amd64.zip"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 550841,
       "digest": "sha256:1fb58fe4e2f32c841dd0e55beef9f48884e1440e17450062f0257841a5ea0715",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-05-16T18:42:08Z",
       "updated_at": "2026-05-16T18:42:08Z",
       "browser_download_url": "https://github.com/QW-Group/ktx/releases/download/1.47/qwprogs-linux-armhf.zip"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 664381,
       "digest": "sha256:73475377bff222a16a6201f97386e90246db12a924f46211567b847a59be4ac9",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-05-16T18:42:08Z",
       "updated_at": "2026-05-16T18:42:08Z",
       "browser_download_url": "https://github.com/QW-Group/ktx/releases/download/1.47/qwprogs-linux-i686.zip"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 403006,
       "digest": "sha256:e7b6382197a31b8cbf010b1e3a3b20c19dc56d57290015ebba306f0e7ab5c6ed",
-      "download_count": 6,
+      "download_count": 8,
       "created_at": "2026-05-16T18:42:08Z",
       "updated_at": "2026-05-16T18:42:08Z",
       "browser_download_url": "https://github.com/QW-Group/ktx/releases/download/1.47/qwprogs-qvm.zip"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 743027,
       "digest": "sha256:d885c54a750b8168c3c68d5a04f824e6af7d61fb6e15f44ce1e7ce94f67601f4",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-05-16T18:42:08Z",
       "updated_at": "2026-05-16T18:42:08Z",
       "browser_download_url": "https://github.com/QW-Group/ktx/releases/download/1.47/qwprogs-windows-x64.zip"
