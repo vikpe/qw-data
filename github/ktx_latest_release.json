@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 765,
       "digest": "sha256:2792050f495c8f53d9502702f33d1b75e4650b7c3c3433130fc2bcda407268ae",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-05-16T18:42:07Z",
       "updated_at": "2026-05-16T18:42:08Z",
       "browser_download_url": "https://github.com/QW-Group/ktx/releases/download/1.47/checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 598389,
       "digest": "sha256:0f272ec07aef2eba8a91dfd5c971d6754ef3200e6b12ed8bd1622980048834c7",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-05-16T18:42:08Z",
       "updated_at": "2026-05-16T18:42:08Z",
       "browser_download_url": "https://github.com/QW-Group/ktx/releases/download/1.47/qwprogs-linux-aarch64.zip"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 403006,
       "digest": "sha256:e7b6382197a31b8cbf010b1e3a3b20c19dc56d57290015ebba306f0e7ab5c6ed",
-      "download_count": 8,
+      "download_count": 9,
       "created_at": "2026-05-16T18:42:08Z",
       "updated_at": "2026-05-16T18:42:08Z",
       "browser_download_url": "https://github.com/QW-Group/ktx/releases/download/1.47/qwprogs-qvm.zip"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 747605,
       "digest": "sha256:6822f096c86a5517589cf486c619707f599de1f9887f394696f72dd45e923bfc",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-05-16T18:42:08Z",
       "updated_at": "2026-05-16T18:42:08Z",
       "browser_download_url": "https://github.com/QW-Group/ktx/releases/download/1.47/qwprogs-windows-x86.zip"
