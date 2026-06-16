@@ -37,7 +37,7 @@
 178.79.135.210:28502
 178.79.135.210:28503
 178.79.135.210:28504
-185.236.108.250:20741
+185.236.108.250:20806
 185.73.44.100:27500
 188.166.161.185:27500
 188.166.161.185:27501
@@ -142,16 +142,8 @@ baseq.fr:28503
 baseq.fr:28504
 baseq.fr:28505
 baseq.fr:28506
+chthack.zone:27500
 cyberdemon.co.uk:28501
-de.quake.world:27501
-de.quake.world:27502
-de.quake.world:27503
-de.quake.world:27504
-de.quake.world:27505
-de.quake.world:28501
-de.quake.world:28502
-de.quake.world:28503
-de.quake.world:29501
 dm6.nl:27500
 dm6.nl:28501
 dm6.nl:28502
@@ -170,9 +162,6 @@ ie.predze.dk:28502
 ie.qwsrv.com:28501
 ie.qwsrv.com:28502
 isf-clan.com:27166
-nl.quake.world:27502
-nl.quake.world:28501
-nl.quake.world:28502
 nl.snapcase.net:28501
 nl.snapcase.net:28502
 nl.snapcase.net:28503
