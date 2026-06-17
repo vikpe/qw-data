@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 403006,
       "digest": "sha256:e7b6382197a31b8cbf010b1e3a3b20c19dc56d57290015ebba306f0e7ab5c6ed",
-      "download_count": 10,
+      "download_count": 11,
       "created_at": "2026-05-16T18:42:08Z",
       "updated_at": "2026-05-16T18:42:08Z",
       "browser_download_url": "https://github.com/QW-Group/ktx/releases/download/1.47/qwprogs-qvm.zip"
