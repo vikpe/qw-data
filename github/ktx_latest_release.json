@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 621965,
       "digest": "sha256:5dc31ae064706b98f574073f7f9338970842f1b237a26be575a7ccfc090b2648",
-      "download_count": 12,
+      "download_count": 13,
       "created_at": "2026-05-16T18:42:08Z",
       "updated_at": "2026-05-16T18:42:08Z",
       "browser_download_url": "https://github.com/QW-Group/ktx/releases/download/1.47/qwprogs-linux-amd64.zip"
