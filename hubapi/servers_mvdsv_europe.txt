@@ -183,8 +183,10 @@ quake.no:27500
 quake.no:27501
 quake.no:27502
 quake.no:27503
+quake.no:27504
 quake.no:27505
 quake.no:27506
+quake.no:27507
 quake.no:27508
 quake.no:27519
 quake.se:28501
@@ -206,6 +208,9 @@ quakeworld.tv:28501
 quakeworld.tv:28502
 quakeworld.tv:28503
 quakeworld.tv:28504
+quakewurst.net:27500
+quakewurst.net:27501
+quakewurst.net:27502
 qw.0f.se:28501
 qw.0f.se:28502
 qw.0f.se:28503
