@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 598389,
       "digest": "sha256:0f272ec07aef2eba8a91dfd5c971d6754ef3200e6b12ed8bd1622980048834c7",
-      "download_count": 11,
+      "download_count": 12,
       "created_at": "2026-05-16T18:42:08Z",
       "updated_at": "2026-05-16T18:42:08Z",
       "browser_download_url": "https://github.com/QW-Group/ktx/releases/download/1.47/qwprogs-linux-aarch64.zip"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 621965,
       "digest": "sha256:5dc31ae064706b98f574073f7f9338970842f1b237a26be575a7ccfc090b2648",
-      "download_count": 38,
+      "download_count": 39,
       "created_at": "2026-05-16T18:42:08Z",
       "updated_at": "2026-05-16T18:42:08Z",
       "browser_download_url": "https://github.com/QW-Group/ktx/releases/download/1.47/qwprogs-linux-amd64.zip"
