@@ -18,3 +18,4 @@
 oldservers.com.ar:27082
 osqw.com.br:28500
 osqw.com.br:28502
+saopaulo.qwleague.com:29501
