@@ -116,7 +116,6 @@
 84.172.195.22:27500
 85.137.228.112:28501
 85.137.228.112:28502
-85.166.104.186:28501
 85.209.118.60:27500
 85.28.131.207:27500
 85.28.131.207:27501
@@ -147,12 +146,6 @@ baseq.fr:28506
 chthack.zone:27500
 cyberdemon.co.uk:28501
 dm6.nl:27500
-dm6.nl:28501
-dm6.nl:28502
-dm6.nl:28503
-dm6.nl:28504
-dm6.nl:28505
-dm6.nl:28506
 dm6.uk:28501
 dm6.uk:28502
 dm6.uk:28503
@@ -197,9 +190,6 @@ quakeworld.tv:28501
 quakeworld.tv:28502
 quakeworld.tv:28503
 quakeworld.tv:28504
-quakewurst.net:27500
-quakewurst.net:27501
-quakewurst.net:27502
 qw.0f.se:28501
 qw.0f.se:28502
 qw.0f.se:28503
