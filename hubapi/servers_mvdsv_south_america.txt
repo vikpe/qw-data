@@ -18,4 +18,3 @@
 82.25.75.176:27500
 oldservers.com.ar:27082
 osqw.com.br:28500
-osqw.com.br:28502
