@@ -102,7 +102,6 @@
 99.72.255.45:28508
 99.72.255.45:28509
 99.72.255.45:28510
-denver.qwleague.com:29501
 hawaii.besmella.com:28501
 hawaii.besmella.com:28502
 io.qwsrv.com:28501
