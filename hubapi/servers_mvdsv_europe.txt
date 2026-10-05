@@ -143,14 +143,12 @@
 95.217.76.136:28501
 98.128.248.148:27501
 98.128.248.148:27502
-amsterdam.qwleague.com:28520
 baseq.fr:28501
 baseq.fr:28502
 baseq.fr:28503
 baseq.fr:28504
 baseq.fr:28505
 baseq.fr:28506
-berlin.qwleague.com:28501
 chthack.zone:27500
 cyberdemon.co.uk:28501
 dm6.nl:27500
@@ -181,6 +179,9 @@ nq.karancssag.info:28501
 nq.karancssag.info:28502
 nq.karancssag.info:28503
 nq.karancssag.info:28504
+play.quake1.pl:27500
+play.quake1.pl:27501
+play.quake1.pl:27520
 quake.se:28501
 quake.se:28502
 quake.se:28503
