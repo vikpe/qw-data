@@ -102,6 +102,7 @@
 77.252.11.61:27500
 77.252.11.61:27501
 77.252.11.61:27505
+77.90.0.186:28501
 78.131.12.254:27510
 78.72.109.73:27500
 78.72.109.73:27501
@@ -148,6 +149,7 @@ baseq.fr:28503
 baseq.fr:28504
 baseq.fr:28505
 baseq.fr:28506
+berlin.qwleague.com:28501
 chthack.zone:27500
 cyberdemon.co.uk:28501
 dm6.nl:27500
@@ -202,9 +204,6 @@ quakeworld.tv:28501
 quakeworld.tv:28502
 quakeworld.tv:28503
 quakeworld.tv:28504
-quakewurst.net:27500
-quakewurst.net:27501
-quakewurst.net:27502
 qw.0f.se:28501
 qw.0f.se:28502
 qw.0f.se:28503
@@ -215,6 +214,7 @@ qw.0f.se:28507
 qw.0f.se:28508
 qw.0f.se:28509
 qw.0f.se:28510
+qw.baal.run:28502
 qw.kirril.com:28501
 qw.kirril.com:28502
 qw.kirril.com:28503
