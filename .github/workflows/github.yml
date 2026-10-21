@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v7
 
       - name: Update data from GitHUb
         run: sh update_from_github.sh
@@ -19,7 +19,7 @@ jobs:
       - name: Update servers
         run: sh update_servers.sh
 
-      - uses: stefanzweifel/git-auto-commit-action@v4
+      - uses: stefanzweifel/git-auto-commit-action@v7
         with:
           file_pattern: "*.txt *.json"
           commit_message: Update data
