@@ -67,6 +67,7 @@
 78.131.12.254:27510
 78.92.197.17:27500
 78.92.237.17:28501
+80.213.187.229:28501
 82.68.47.165:28501
 83.243.73.194:27500
 83.243.73.194:27501
@@ -86,7 +87,6 @@
 94.254.23.181:28503
 94.254.23.181:28504
 94.254.23.181:28505
-95.165.145.122:28501
 95.216.8.8:28501
 95.216.8.8:28502
 95.216.8.8:28503
@@ -132,6 +132,7 @@ hamburg-old.qwsv.net:27501
 hamburg-old.qwsv.net:27502
 hamburg-old.qwsv.net:27510
 hamburg-old.qwsv.net:27511
+hamburg.qwleague.com:28501
 hamburg.qwsv.net:27500
 hamburg.qwsv.net:27501
 hamburg.qwsv.net:27502
@@ -212,7 +213,6 @@ qw.baseq.fr:28506
 qw.kirril.com:28501
 qw.kirril.com:28502
 qw.kirril.com:28503
-qw.olhustad.no:28501
 qw.pr0n.it:27510
 qw.pr0n.it:28501
 qw.pr0n.it:28502
