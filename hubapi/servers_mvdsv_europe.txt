@@ -51,7 +51,6 @@
 2.qw2.ru:27501
 2.qw2.ru:27502
 2.qw2.ru:27503
-2.qw2.ru:27506
 2.qw2.ru:27507
 213.183.63.213:28501
 213.239.216.253:27500
@@ -65,9 +64,7 @@
 77.252.11.61:27501
 77.252.11.61:27505
 78.131.12.254:27510
-78.92.197.17:27500
 78.92.237.17:28501
-80.213.187.229:28501
 82.68.47.165:28501
 83.243.73.194:27500
 83.243.73.194:27501
@@ -87,6 +84,7 @@
 94.254.23.181:28503
 94.254.23.181:28504
 94.254.23.181:28505
+95.165.145.122:28501
 95.216.8.8:28501
 95.216.8.8:28502
 95.216.8.8:28503
@@ -104,6 +102,7 @@ berlin.qwsv.net:27512
 berlin.qwsv.net:27513
 berlin.qwsv.net:27514
 chthack.zone:27500
+copenhagen.qwleague.com:28501
 copenhagen.qwsv.net:27500
 copenhagen.qwsv.net:27501
 copenhagen.qwsv.net:27502
@@ -132,7 +131,6 @@ hamburg-old.qwsv.net:27501
 hamburg-old.qwsv.net:27502
 hamburg-old.qwsv.net:27510
 hamburg-old.qwsv.net:27511
-hamburg.qwleague.com:28501
 hamburg.qwsv.net:27500
 hamburg.qwsv.net:27501
 hamburg.qwsv.net:27502
@@ -166,10 +164,6 @@ nq.karancssag.info:28504
 pg.quake.su:27501
 pieni.napakettu.club:28501
 pieni.napakettu.club:28502
-play.quake1.pl:27500
-play.quake1.pl:27501
-play.quake1.pl:27510
-play.quake1.pl:27520
 quake.se:28501
 quake.se:28502
 quake.se:28503
