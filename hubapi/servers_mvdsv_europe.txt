@@ -64,6 +64,7 @@
 77.252.11.61:27501
 77.252.11.61:27505
 78.131.12.254:27510
+78.92.196.167:27500
 78.92.237.17:28501
 82.68.47.165:28501
 83.243.73.194:27500
@@ -71,6 +72,7 @@
 83.243.73.194:27502
 83.243.73.194:27503
 83.243.73.194:27504
+85.166.104.58:28501
 85.209.118.60:27500
 85.221.162.142:28501
 85.28.131.207:27500
@@ -102,7 +104,6 @@ berlin.qwsv.net:27512
 berlin.qwsv.net:27513
 berlin.qwsv.net:27514
 chthack.zone:27500
-copenhagen.qwleague.com:28501
 copenhagen.qwsv.net:27500
 copenhagen.qwsv.net:27501
 copenhagen.qwsv.net:27502
@@ -131,6 +132,7 @@ hamburg-old.qwsv.net:27501
 hamburg-old.qwsv.net:27502
 hamburg-old.qwsv.net:27510
 hamburg-old.qwsv.net:27511
+hamburg.qwleague.com:28501
 hamburg.qwsv.net:27500
 hamburg.qwsv.net:27501
 hamburg.qwsv.net:27502
