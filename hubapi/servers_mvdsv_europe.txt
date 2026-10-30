@@ -50,11 +50,11 @@
 195.201.133.22:27800
 2.qw2.ru:27501
 2.qw2.ru:27502
-2.qw2.ru:27503
 2.qw2.ru:27507
 213.183.63.213:28501
 213.239.216.253:27500
 217.160.162.135:27500
+34.32.69.76:28501
 49.12.2.62:28501
 49.13.145.172:27500
 5.196.28.199:28501
@@ -71,8 +71,6 @@
 83.243.73.194:27501
 83.243.73.194:27502
 83.243.73.194:27503
-83.243.73.194:27504
-85.166.104.58:28501
 85.209.118.60:27500
 85.221.162.142:28501
 85.28.131.207:27500
@@ -86,6 +84,7 @@
 94.254.23.181:28503
 94.254.23.181:28504
 94.254.23.181:28505
+94.29.37.117:27508
 95.165.145.122:28501
 95.216.8.8:28501
 95.216.8.8:28502
@@ -132,7 +131,6 @@ hamburg-old.qwsv.net:27501
 hamburg-old.qwsv.net:27502
 hamburg-old.qwsv.net:27510
 hamburg-old.qwsv.net:27511
-hamburg.qwleague.com:28501
 hamburg.qwsv.net:27500
 hamburg.qwsv.net:27501
 hamburg.qwsv.net:27502
@@ -163,7 +161,6 @@ nq.karancssag.info:28501
 nq.karancssag.info:28502
 nq.karancssag.info:28503
 nq.karancssag.info:28504
-pg.quake.su:27501
 pieni.napakettu.club:28501
 pieni.napakettu.club:28502
 quake.se:28501
@@ -206,9 +203,6 @@ qw.baseq.fr:28503
 qw.baseq.fr:28504
 qw.baseq.fr:28505
 qw.baseq.fr:28506
-qw.kirril.com:28501
-qw.kirril.com:28502
-qw.kirril.com:28503
 qw.pr0n.it:27510
 qw.pr0n.it:28501
 qw.pr0n.it:28502
