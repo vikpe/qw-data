@@ -63,7 +63,6 @@
 77.252.11.61:27505
 77.55.194.24:27500
 78.131.12.254:27510
-78.92.202.17:27500
 83.243.73.194:27500
 83.243.73.194:27501
 83.243.73.194:27502
@@ -92,6 +91,16 @@
 95.216.8.8:28504
 98.128.248.148:27501
 98.128.248.148:27502
+berlin.qwsv.net:27500
+berlin.qwsv.net:27501
+berlin.qwsv.net:27502
+berlin.qwsv.net:27503
+berlin.qwsv.net:27504
+berlin.qwsv.net:27510
+berlin.qwsv.net:27511
+berlin.qwsv.net:27512
+berlin.qwsv.net:27513
+berlin.qwsv.net:27514
 chthack.zone:27500
 copenhagen.qwsv.net:27500
 copenhagen.qwsv.net:27501
