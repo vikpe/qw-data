@@ -64,7 +64,6 @@
 77.55.194.24:27500
 78.131.12.254:27510
 78.92.207.6:27500
-83.243.73.194:27500
 83.243.73.194:27501
 83.243.73.194:27502
 83.243.73.194:27503
@@ -212,9 +211,6 @@ quakeworld.tv:28501
 quakeworld.tv:28502
 quakeworld.tv:28503
 quakeworld.tv:28504
-quakewurst.net:27500
-quakewurst.net:27501
-quakewurst.net:27502
 qw.0f.se:28501
 qw.0f.se:28502
 qw.0f.se:28503
@@ -248,10 +244,6 @@ qw2.ru:27502
 qw2.ru:27510
 qw2.ru:27511
 qw2.ru:27512
-qwtf.net:27500
-qwtf.net:27501
-qwtf.net:27502
-qwtf.net:27503
 spb.quake.su:27500
 spb.quake.su:27501
 spb.quake.su:27502
