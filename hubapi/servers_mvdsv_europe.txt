@@ -58,7 +58,6 @@
 213.239.216.253:27500
 217.160.162.135:27500
 49.12.2.62:28501
-77.160.65.81:28501
 77.252.11.61:27500
 77.252.11.61:27501
 77.252.11.61:27505
@@ -128,6 +127,7 @@ dm6.uk:28504
 dm6.uk:28505
 dm6.uk:28506
 gameservers.1337z.net:28501
+grid.tronesport.no:27500
 hamburg-old.qwsv.net:27500
 hamburg-old.qwsv.net:27501
 hamburg-old.qwsv.net:27502
@@ -153,7 +153,6 @@ lomma.qwsv.net:27500
 lomma.qwsv.net:27501
 lomma.qwsv.net:27510
 lomma.qwsv.net:27511
-nl.snapcase.net:28502
 nl.snapcase.net:28503
 nl.snapcase.net:28504
 nl.snapcase.net:28510
