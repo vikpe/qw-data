@@ -17,7 +17,6 @@ br2.quake.world:27500
 br2.quake.world:27501
 nordeste.qlash.com.br:28501
 nordeste.qlash.com.br:28502
-oldservers.com.ar:27082
 osqw.com.br:28500
 qw.qlash.com.br:28501
 qw.qlash.com.br:28502
